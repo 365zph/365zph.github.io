@@ -1,0 +1,66 @@
+---
+author: viviworld
+comments: true
+date: 2014-08-12 07:40:23+00:00
+layout: post
+link: http://www.labazhou.net/2014/08/software/
+slug: software
+title: 软件
+wordpress_id: 902
+categories:
+- 杂项
+tags:
+- emacs
+- javascript
+- keynote
+- Markdown
+- PPT
+- Showoff
+- 演讲
+---
+
+我经常被问到的一个问题是：“你用什么软件做幻灯片？”我答道：“Emacs”。
+
+开玩笑呢，没有人用Emacs。
+
+对你而言是幸运的，这个问题只有一个合理的答案，它完全取决于你的人生观。
+
+
+
+	
+  * 你用Windows？使用[PowerPoint](http://office.microsoft.com/en-us/powerpoint/)。
+
+	
+  * 你用OS X？使用[Keynote](http://www.apple.com/iwork/keynote/)。
+
+
+我是Keynote的拥趸，它帮我制作了漂亮的幻灯片。但是设计良好的幻灯片 实际上与 使用什么软件完成的 没有关系。设计良好的幻灯片是简单、清晰的。这些特征可以在Keynote、PowerPoint、MS Paint……以及任何你能使用的软件上找到。
+
+
+### 可替代的软件
+
+
+对于大部分人，Keynote和PowerPoint将是遵循的传统路线。你不想偏离这个准绳。
+
+如果你对可替代的软件感兴趣，那么还有很多。如下：
+
+
+
+	
+  * [Showoff](https://github.com/puppetlabs/showoff) 允许你用Markdown、JavaScript和CSS制作幻灯片。如果你想做在线web软件的demo，这是不错的选择，尤其是如果你想更新日期、或者与你的观众有一些可能的互动。
+
+	
+  * [impress.js ](https://github.com/bartaz/impress.js)如果你容易被好看的动画和没有价值的东西所动摇，这是一个选择。
+
+
+我也见过人们在文本编辑器里敲入东东，调大字体。有时候简单正是你需要的。
+
+记住：衣服不等于男（女）人，软件不等于幻灯片。
+
+好了，软件的确做出了幻灯片，不过你明白了。
+
+原文地址：[http://speaking.io/design/software/](http://speaking.io/design/software/)
+
+————–
+
+译者注：继续阅读，请返回书目,[《speaking.io》演讲](http://www.labazhou.net/speaking/)
