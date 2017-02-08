@@ -4,8 +4,8 @@ layout: default
 
  {% for post in site.posts %}
 <section>
-    <article id="post-{{ page.wordpress_id }}" <?php post_class(); ?>>
-        <h1 class="post-title"><a href="{{ page.link }}">{{ page.title }}</a></h1>
+    <article id="post-{{ post.wordpress_id }}" class="post-3360 post type-post status-publish format-standard hentry category-other tag-101 tag-1003 tag-32">
+        <h1 class="post-title"><a href="{{ post.link }}">{{ post.title }}</a></h1>
          {{ post.content | truncatewords:40}}
     </article>
 </section>
