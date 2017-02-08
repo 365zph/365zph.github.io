@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section>
-    <article id="post-" class="post- post type-post status-publish format-standard hentry category-other tag-101 tag-1003 tag-32">
+    <article id="post-{{ page.wordpress_id }}" class="post-{{ page.wordpress_id }} post type-post status-publish format-standard hentry category-other tag-101 tag-1003 tag-32">
         <h1 class="post-title"><a href="{{ page.link }}">{{ page.title }}</a></h1>
          {{ content }}
     </article>
