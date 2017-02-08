@@ -1,58 +1,63 @@
+<?php
+/**
+ * The Header template for our theme
+ *
+ * Displays all of the <head> section and everything up till <div id="main">
+ *
+ * @package WordPress
+ * @subpackage Twenty_Twelve
+ * @since Twenty Twelve 1.0
+ */
+?><!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" <?php language_attributes(); ?>>
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" <?php language_attributes(); ?>>
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="zh-CN" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
 
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/maxclean/js/html5.js?03a085" type="text/javascript"></script>
+<![endif]-->
+<link rel="icon" href="/wp-content/uploads/2015/04/favicon.ico?03a085" type="image/x-icon" />
+</head>
 
-      <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+<body class="home blog zh single-author">
 
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
-    <meta name="author" content="{{ site.name }}" />
-    <meta name="description" content="{{ site.description }}">
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+      <section>
+        <header>
+          <div class="logo">
+            
+            <a href="{{ site.baseurl }}/" rel="home">{{ site.name }}</a>
+             <small>{{ site.description }}</small>
           </div>
-          
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
+            
+    
+          <nav id="nav" class="nav-collapse">
+          <div class="menu-%e8%8f%9c%e5%8d%951-container"><ul id="menu-%e8%8f%9c%e5%8d%951" class="menu"><li id="menu-item-1025" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1025"><a href="/">首页</a></li>
+<li id="menu-item-1026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1026"><a href="/archives/">列表</a></li>
+<li id="menu-item-3336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3336"><a href="/terminology/">术语</a></li>
+<li id="menu-item-3337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3337"><a href="/aboutus/">关于</a></li>
+</ul></div>  
+                                            </nav>  
+
         </header>
-      </div>
-    </div>
+      </section>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+{{ content }}
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
   </body>
+    
 </html>
+
+
+
+
