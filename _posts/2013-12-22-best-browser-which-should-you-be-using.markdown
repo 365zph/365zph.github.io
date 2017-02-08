@@ -3,7 +3,6 @@ author: viviworld
 comments: true
 date: 2013-12-22 23:40:50+00:00
 layout: post
-link: http://www.labazhou.net/2013/12/best-browser-which-should-you-be-using/
 slug: best-browser-which-should-you-be-using
 title: 最好的浏览器：你应该用哪一款？
 wordpress_id: 7
