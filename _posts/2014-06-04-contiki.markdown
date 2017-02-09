@@ -1,0 +1,52 @@
+---
+author: viviworld
+comments: true
+date: 2014-06-04 09:13:03+00:00
+layout: post
+link: http://www.labazhou.net/2014/06/contiki/
+slug: contiki
+title: 公开了：统治物联网的不为人熟知的开源操作系统
+wordpress_id: 740
+categories:
+- 网络
+- 软件
+tags:
+- Commodore
+- Contiki
+- google
+- GPS
+- LiFX
+- linux
+- Nest
+- Tado
+- windows
+- 物联网
+---
+
+[![Contiki统治着物联网](http://www.labazhou.net/wp-content/uploads/2014/06/Contiki-ipv6-rpl-cooja-simulation-660x667.png)](http://www.labazhou.net/wp-content/uploads/2014/06/Contiki-ipv6-rpl-cooja-simulation-660x667.png)
+
+差不多所有东西都可以连接到计算机网络。灯泡、恒温器、咖啡机，甚至獾。没错，獾。
+
+獾大部分时间在地下，给生物学家和动物学家追踪它们的下落和活动增加了难度。比如，GPS在地下或密闭区域运作不正常。但是大约五年前，牛津大学的研究人员Andrew Markham和Niki Trigoni发明了一种可以在地下运转的无线追踪系统从而[解决了这个问题](http://www.cs.ox.ac.uk/projects/WILDSENSING/)。系统比较聪明，但是它们不能独自运行。和很多其他科学家一样，它们选择了开源，避免不得不白手起家重新建立基础组件。他们使用的一个构成要素就是称作[Contiki](http://www.contiki-os.org/)的开源操作系统。
+
+“Contiki是真正的推动者，它允许我们快速构建原型，并轻松在不同的硬件平台之间切换，”Markham说，他现在是牛津大学的副教授了。
+
+Contiki没有和知名的Windows或OS X、甚至Linux齐名，但是十多年里，对于建立传感器、追踪器和基于web的自动化系统等网络链接设备的黑客、高校科技人员和公司来说，它已经是很有技术含量的操作系统了。开发者喜欢它，因为它是轻量级、免费和成熟。它为急于给我们带来物联网所宣扬的、所有连接因特网配件的开发者和企业家门奠定了基础，不必开发那些配件未来需要的潜在操作系统。
+
+或许Contiki最大的问题就是它很小。真的不大。因为Linux需要1M的RAM，而Contiki只需要数K个字节就能运行。它的发明者，Adam Dunkels，设法在不超过30K字节的空间里安装了一个完整的操作系统，包括一个图形用户接口、网络软件和一个web浏览器。这使得它轻松运行在小的、低电量的芯片上------就是用于连接设备的某种东东------但是它也可以安装到很多老式系统上，比如Apple IIe和Commodore 64上。
+
+Contiki即将面对来自于诸如微软的竞争，后者最近公布了[用于物联网的Windows](http://www.wired.com/2014/04/free-windows/)。但是微软的新操作系统对尺寸小于9英寸的设备免费，它不是开源的。Contiki已经有着11年的先发优势。
+
+[![Adom Dunkels:Contiki操作系统的发明者](http://www.labazhou.net/wp-content/uploads/2014/06/Adam-Dunkels.jpg)](http://www.labazhou.net/wp-content/uploads/2014/06/Adam-Dunkels.jpg)
+
+Contiki开始于2003年，它的起源可追溯到Dunkels还是瑞典梅拉达伦大学的一名计算机科学学生的时候。在2000年，他工作的一个项目是使用无线传感器追踪曲棍球球员的关键信号，并把它们呈现在观众可以看到的屏幕上。Dunkels说，“我们说服他们把传感器放在鼻子上面，这样我们就能测量他们的呼吸频率”。
+
+为了使传感器正常运行，Dunkels不得不编写软件，让它们与计算机网络交互。他把相应的代码叫做[LwIp](https://savannah.nongnu.org/projects/lwip/)，“轻量级因特网协议（light weight internet protocol）”。尽管LwIP今天仍然应用于很多微控制器和其他产品里，Dunkels认为它还不够轻量。在2003年，他创立了microIP，演化成了Contiki。这个操作系统马上引起了研究人员和爱好者的注意，最近几年它还吸引了商业用户，包括[Rad-DX](http://www.dtectsystems.com/rad-DX_page.html)发射物检测设备和[Zolertia](http://zolertia.com/home)噪音监测系统。
+
+而Nest，[Google在1月份花了32亿美金收购](http://www.wired.com/2014/01/googles-3-billion-nest-buy-finally-make-internet-things-real-us/)的这件网络连接恒温器公司，已经开始定义物联网了，Dunkels指出，很多公司已经在应用上使用网络连接设备多年了，包括行业和楼宇自动化。Dunkels说，“在CES上面，你可以看到所有的消费品，但是仍然有太多的不同方面”。
+
+不过消费者技术公司也开始拥抱Contiki了。比如，[LiFX](http://lifx.co/)“小灯泡”正在使用这个操作系统，Nest竞争对手[Tado](http://www.tado.com/de-en/)也是。
+
+为了帮助支持Contiki的快速成长起来的商业应用，Dunkels辞去了瑞典计算机科学院教授的职务，创立了[Thingsquare](http://www.thingsquare.com/)，致力于为Contiki设备提供基于云的后端的一家创业公司。其理念是让开发者更容易地把他们的硬件设备和智能手机、网络连接在一起。Thingsquare管理服务器，提供借助网络管理设备的所有必需软件。
+
+原文地址：[http://www.wired.com/2014/06/contiki/](http://www.wired.com/2014/06/contiki/)

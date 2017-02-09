@@ -1,0 +1,105 @@
+---
+author: viviworld
+comments: true
+date: 2014-01-05 07:49:19+00:00
+layout: post
+link: http://www.labazhou.net/2014/01/%e6%92%a4%e9%94%80/
+slug: '%e6%92%a4%e9%94%80'
+title: 撤销
+wordpress_id: 134
+categories:
+- 设计
+tags:
+- database
+- gmail
+- photoshop
+- phpmyadmin
+- undo
+- 撤销
+---
+
+我爱互联网，不过我仅仅希望它能给我们提供“撤销”功能。
+
+撤销错误的功能是电脑相较于其他同等竞争产品最有力的优势，然而自从网页app开始兴起后，我感觉到我们正慢慢失去这个牛逼的功能。
+
+毕竟，撤销或许普遍存在于桌面端，但是你最后一次看到带有撤销命令的网络app是什么时候呢？
+
+
+### DROP DATABASE
+
+
+我做为web开发人员，在职业生涯初期就着着实实地感受了一次。我为第一位客户搭建了一套定制化的CMS，在用root使用PHPMyAdmin时，错误地删除了整个数据库。
+
+幸亏我有之前的备份，最终整个意外导致他们内部浪费了数个小时再次导入相同的数据。那次我意识到我犯下的愚蠢的、“愚蠢的”错误而带来的痛楚让我记忆犹新，我也是多么地希望能有个简单的 Command-z 快捷键（译者注：mac系统下的撤销，对应于windows下的ctrl-z）来挽回一切。
+
+
+### 到底谁需要一个服务器
+
+
+从那以后，我提交并分享了愚蠢的删除，每次我都诅咒自己，很想知道为什么因特网从来没有听说过撤销。
+
+最近一次的例子发生在上个月，当时我以为正在清理一个没用的实例，实际上清除了产品的Sidebar服务器。
+
+[![do-sure](http://www.labazhou.net/wp-content/uploads/2014/01/do-sure.png)](http://www.labazhou.net/wp-content/uploads/2014/01/do-sure.png)
+
+很明显大部分要归咎于我，我应该更加小心，我应该多做一些定期备份。我非常清楚这些，但是我也想采取措施来避免这种事故。
+
+
+### 责备用户
+
+
+大多数公司好像是这样认为的，这种“责备用户”的方式经常体现在产品设计上。
+
+处理危险操作的惯常做法是用又大又红的字符问你是否确定这样做，如果你犯错误了，就是你的错误，因为你愚蠢到忽视了警告。
+
+[![mc-undo](http://www.labazhou.net/wp-content/uploads/2014/01/mc-undo.png)](http://www.labazhou.net/wp-content/uploads/2014/01/mc-undo.png)
+
+实际上，当你错误点击“删除”时，警告可能有帮助，但是当你错误地删除不该删除的东西时，它根本没有一点儿用处。
+
+进一步地说，这些警告正在快速地失去它们的作用：当你用app时，你正训练大脑快点儿通过它们以节约时间，这就首先挫败了中断操作过程的目的。
+
+因此警告和确认不但不能使你安全，而且会减慢你的速度。这不是一个好的解决方法。
+
+
+### 更聪明的删除
+
+
+我忍不住想知道为什么像这种没有撤销功能的危险操作被认为是ok的。
+
+为特定操作增加一些撤销功能技术上好像不是那么困难。例如，你通过操作之前延迟一会儿达到模拟撤销功能，这样订单就可以用户界面、甚至电话的方式支持被取消。
+
+这对用户是有好处的，还可以减轻公司的支持负担。然而我很少看到这个策略被用到，很可能它需要更多的实现。
+
+[![gmail-undo](http://www.labazhou.net/wp-content/uploads/2014/01/gmail-undo.png)](http://www.labazhou.net/wp-content/uploads/2014/01/gmail-undo.png)
+
+Gmail的“撤销发送”功能是著名的例外，当我意识到刚才的邮件忘写了某些东西时，我很可能每天至少用一次。
+
+
+### 实现撤销
+
+
+实现一个完全撤销功能，可能会扼杀大部分网络app，但是实际上这是可做的。
+
+如果你留意过“Physics 101”，你应该记得每个操作都有一个逆向操作的定律。典型的撤销原理是一样的：用户每一次操作，你需要能够计算出将来对撤销这次操作影响较大的逆向操作。
+
+因此，每个撤销操作首先需要在你的代码里用一个对象实现，这叫 Command Pattern（注1），你可以在维基百科里详细了解一下。
+
+[![photoshophistory](http://www.labazhou.net/wp-content/uploads/2014/01/photoshophistory.png)](http://www.labazhou.net/wp-content/uploads/2014/01/photoshophistory.png)
+
+然后你记下了用户每个操作的历史，一系列撤销动作就和顺着清单、成功运行每个逆向操作一样简单了。
+
+
+### 拯救撤销！
+
+
+相信我，我理解用最少的功能产生最有价值客户，谨慎给产品增加任何不必要的功能。既然没有人期待网络app上的撤销功能，那么人们通常也不会要求。
+
+但是如果你想让用户开心（少花些支持时间！），我强烈建议理解80年代”撤销“的历史，并考虑在你的app里实现一些撤销。
+
+（也可以看看：[Aza Raskin写的伟大的文章](http://alistapart.com/article/neveruseawarning)，他6年前就基本提到了这些。现在还没有多大改观，悲剧……）
+
+原文地址：[http://sachagreif.com/undo/](http://sachagreif.com/undo/)
+注1：[http://en.wikipedia.org/wiki/Command_pattern](http://en.wikipedia.org/wiki/Command_pattern)
+注2：Bells and whistles，详见[http://en.wikipedia.org/wiki/Bells_and_whistles](http://en.wikipedia.org/wiki/Bells_and_whistles)
+
+

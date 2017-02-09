@@ -1,0 +1,228 @@
+---
+author: viviworld
+comments: true
+date: 2014-04-04 01:25:46+00:00
+layout: post
+link: http://www.labazhou.net/2014/04/nweb-2/
+slug: nweb-2
+title: nweb：一个微型、安全的web服务器（仅支持静态页面）（下）
+wordpress_id: 510
+categories:
+- 网络
+- 软件
+tags:
+- firefox
+- linux
+- nweb
+- socket
+---
+
+### 浏览器和web服务器之间使用的协议
+
+
+关于协议的完整细节，请参考[万维网联盟](http://www.w3.org/)【注1】。
+
+浏览器发送：GET URL，很多其它信息能够被忽略，但是某些浏览器或应用程序可能检查浏览器的类型、操作系统等等。
+
+例子： GET /index.html
+
+例子： GET /mydirector/mypicture.jpg
+
+“/“指web服务器支持文件的顶级目录------这是一个目录，在你启动nweb时，可以作为第二个参数。web服务器应该从来不会发送目录之外的任何文件。一些web服务器允许指定其它目录作为指定的文件类型，比如CGI脚本，但是nweb不会处理这种昂贵的服务。
+
+Mozilla 火狐V10浏览器向nweb发起一个请求，代码如下：
+
+
+<blockquote>
+
+>     
+>     GET /index.html HTTP/1.1**Host: 192.168.0.2:8181**User-Ag
+>     ent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.5) Gecko/20100101 Firefox/10.0.
+>     5**Accept: image/png,image/*;q=0.8,*/*;q=0.5**Accept-Language: en-us,en;q=0.5**A
+>     ccept-Encoding: gzip, deflate**DNT: 1**Connection: keep-alive**Referer: http://w
+>     w.abcncc.uk.abc.com:8181/index.html**Cookie: UnicaNIODID=tVJWsYnAGTS-Xf5TqZJ; IB
+>     M_W3ABC_ACCESS=wwww3.abc.abc.com; IBMISP=70fdfc95d93011d783e4de784ea97766-70fdfc
+>     95d93011d783e4de784ea97766-f67749a8b899e8ceed7e940b8c4bf189; returnURL=http%3A%2
+>     F%2Fwww-933.abc.com%2Fsupport%2Ffixcentral%2Faix%2FdownloadOptions; PD-FROMPAGE=
+>     e%3D7.1%26function%3Drelease; PD-REFPAGE=/support/customercare/common/login%3Frt
+>     n%3Dfixcentral; PD-ERR=; PD-HOST=www-304.abc.com; PD-SGNPAGE=%2Fsupport%2Fcustom
+>     ercare%2Fcommon%2Flogin%3Frtn%3Dfixcentral; PD-REFERER=http%3A%2F%2Fwww-933.abc.
+>     com%2Fsupport%2Ffixcentral%2Faix%2FselectFixes%3Frelease%3D7.1%26function%3Drele
+>     ase; IBMISS=70fdfc95d93011d783e4de784ea97766-70fdfc95d93011d783e4de784ea97766-00
+>     012ZSL0GV7c$TERIaw13er_zZ:15afkdghj-1340791897187-781004b2f37ec973cc8136eb5ddb53
+>     67; rlang=en_US; ASESESSION2=EkSpHzOnrtcT90+EMdCXhRrFB3U+LxgKvOgc2ig+py0+Zq4GFgy
+>     UHQB35BGnKy4i3pb6pyO0DkVv+6S/RizqpusAst5sz+xESyBQv4dsfWVm
+> 
+> 
+</blockquote>
+
+
+总共有1300个字节大小。
+
+其中大部分属于web标准，但是它大部分对我无意义！你需要阅读万维网联盟上的信息来了解所有细节。仅仅在第一部分，GET命令和文件名需要被用到，剩下的信息可以被忽略。从HTTP/1.1起，有额外的细节能够被web服务器有选择地使用。要注意的是，它正在发送信息，比如PC操作系统（这里是Microsoft® Windows® 7）和浏览器及版本（这里是Firefox 10.0.4）。这就是web服务器是如何报告正在使用网站的用户详情的。
+
+
+
+	
+  1. nweb服务器检查是否为下面的情况：
+
+	
+  2. 这是一个GET请求，仅仅支持GET或get。
+
+	
+  3. 文件名里不包含”..“。这意味着浏览器或用户正企图请求一个不在web服务器目录下的文件，这是不被允许的。
+
+
+受支持的文件扩展名，比如.hmtl, .jpg, .gif等等；仅仅有限的文件类型受支持。
+
+如果这是一个合法的GET请求，nweb服务器响应为：
+
+
+<blockquote>HTTP/1.1 200 OK[Newline]
+
+Server: nweb/22.0[Newline]
+
+Content-Length: 12345 [Newline]
+
+Connection: close[Newline]
+
+Content-Type: text/html[Newline][Newline]</blockquote>
+
+
+注意这个响应头和返回的文件：
+
+C语言的[Newline]是\n，这意味着两个字符，即回车和换行。这些Newline字符不是可选的。
+
+
+### HTTP/1.1 200 OK
+
+
+nweb不支持昂贵的web服务，因此它允许浏览器知道它只支持HTTP的1.1标准，这是当今最低可用的，200是一个特定数字，告诉浏览器web服务器即将响应。
+
+
+### Server: nweb/22.0
+
+
+它告诉浏览器连接到的web服务器种类和版本号。这种情况下，浏览器由于还没有同意nweb，因此什么也不做，但是浏览器可以告诉用户另一端的web服务器种类、构建数据统计，准备使用web服务器某些功能，或寻找知名web服务器的错误。这取决于浏览器开发者，因为至少他们知道套接字那一头是什么。
+
+
+### Content-Length: 12345
+
+
+将要被发送过来的、文件的精确字节长度。这个例子中，我只是编了个数字。字符计数从[Newline][Newline]之后开始。
+
+
+### Connection: close
+
+
+这告诉浏览器，web服务器不打算为了下一个请求而保持连接，因此对于网页的其它项目，它需要发起另一个套接字请求。通常地，一个网页由基本网页内容和成百上千个图片、Javascript等等组成。立即关闭连接对性能不好，但是这使得nweb服务器代码简单了。然而，我们将不得不在随后某个点关掉套接字。
+
+
+### Content-Type: text/html
+
+
+告诉浏览器从响应那儿将会得到的文件的格式和内容。nweb仅仅返回文本或图片文件，可接受的清单在C代码里的extensions数据结构体内。第二部分是详细的文件类型。这里，由于文件扩展名让生活简单了，我认为情况是，文件或许根本没有扩展名、或者它可能是错误的或无意义的。因此文件扩展名或许没有告诉浏览器文件格式。这给了浏览器处理这些内容的提示。
+
+接下来有两个Newline字符，这不是可选的。它告诉浏览器没有更多的头信息了，文件内容随后就是。
+
+然后，文件内容被发送给了浏览器。浏览器知道什么时候完成，因为上面第三行的长度是从这两个Newline字符开始计数的。
+
+在文件的最后字节发送之后，nweb服务器的web()函数停止1秒。这是为了确保文件内容能够被发送到套接字。如果马上关闭套接字，一些操作系统不会等待套接字完成数据发送、而是非常意外地丢掉连接。这意味着某些文件内容将不能到达浏览器，这让浏览器迷惑，它会为了文件的最后一个字节永远等下去，经常导致显示一个空白网页。
+
+最后，套接字被关闭了，子进程退出（停止）。
+
+
+### 客户端套接字的系统调用
+
+
+nweb.c代码只是向你展示了套接字的服务器端。下面的伪代码解释了客户端需要的代码。幸运的是，客户端非常简单，因为你只需提供向服务器发起连接的IP地址和端口号。在下面的代码，服务器IP地址被假定为192.168.0.42，端口8181.实际上，在代码里硬编码这些数字不是一个好做法。
+
+    
+    int sockfd;
+    
+    static struct sockaddr_in serv_addr;
+    
+    
+    
+    if((sockfd = socket(AF_INET, SOCK_STREAM,0)) <0)
+    
+    	pexit("Network socket system call");
+    
+    serv_addr.sin_family = AF_INET;
+    
+    serv_addr.sin_addr.s_addr = inet_addr("196.168.0.42");
+    
+    serv_addr.sin_port = htons(8181);
+    
+    if(connect(connectfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) <0){
+    
+    	perror("Network connect system call");
+    
+    	exit(3);
+    
+    /* now the sockfd can be used to communicate to the server */
+    
+    /* with read() and write() */
+
+
+注意：bind()和connect()函数把一个结构体作为参数，该参数在被设置为特定选项之前必须用零填充。在nweb.c，这个结构体是一个静态的C变量，确保在程序开始之前它被零填充。如果这个结构体在函数内作为一个变量的栈里、或该进程的堆里，它可以用旧数据填充，因此它的内容将不会被零填充。在这种情况下，你需要确保它被零填充；bzero()函数就是用来做这个的。
+
+
+### 服务器源代码
+
+
+[这里](http://www.ibm.com/developerworks/systems/library/es-nweb/sidefile1.html)有服务器源代码。
+
+大量注释和提示介绍了代码实际上是如何运行的，还有编译、运行、测试nweb代码。
+
+这些200行的代码只是作为一个简单的能用的例子。这是所有基础的UNIX系统编程，大多数程序员都能写出类似的代码，因此它不能作为原创作品而受版权保护。
+
+你可以为了任何目的自由使用，没有限制，和需要出具的或说明的担保。如果你的确把它用在了一些项目或产品，那么推荐你给这个网页或说明加个链接，但是这完全是可选的。
+
+下载包括：
+
+
+
+	
+  * nweb.c：源代码
+
+	
+  * client.c：简单的客户端代码
+
+	
+  * newb可执行文件：
+
+	
+    * AIX 6.1 TL7 for POWER
+
+	
+    * Ubuntu 12.4 for x86_64
+
+	
+    * Fedora 17 Linux for x86_64
+
+	
+    * OpenSUSE 12.1 for x86_64
+
+	
+    * Debian Squeeze for ARM on Raspberry Pi
+
+
+
+
+	
+  * 最小化测试网站
+
+	
+    * index.html：测试网页
+
+	
+    * nigel.jpg：测试图片文件
+
+
+
+
+
+原文地址：[http://www.ibm.com/developerworks/systems/library/es-nweb/index.html](http://www.ibm.com/developerworks/systems/library/es-nweb/index.html)
+
+注1：万维网联盟（World Wide Web Consortium，W3C），又称W3C理事会。[http://zh.wikipedia.org/zh-cn/万维网联盟](http://zh.wikipedia.org/zh-cn/万维网联盟)
