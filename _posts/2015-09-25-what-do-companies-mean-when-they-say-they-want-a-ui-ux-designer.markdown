@@ -97,7 +97,7 @@ tags:
 
 如果产生问题的地方是产品界面，那么我们可以把这些信息提供给 UI 设计师，和他们配合，一起头脑风暴、做原型、测试一些替代方案，直到我们搞清楚了这些问题。
 
-有时候，问题不在于 UI，或许是性能问题。有些用户在某些地方遭遇了加载缓慢的情况，然后放弃了。UX 或许需要和工程师配合，甄别出关键路线，把用户操作流程[note]A major factor affecting your conversions is user flow. It’s the path a user follows through your website interface to complete a task (make a reservation, purchase a product, subscribe to something). It’s also called user journey. [http://conversionxl.com/how-to-design-user-flow/](http://conversionxl.com/how-to-design-user-flow/)[/note]的这些地方的优先级提高。
+有时候，问题不在于 UI，或许是性能问题。有些用户在某些地方遭遇了加载缓慢的情况，然后放弃了。UX 或许需要和工程师配合，甄别出关键路线，把用户操作流程【注1】的这些地方的优先级提高。
 
 我正在描述的是一个过程，关于 UX 专家在沿着用户操作流程方面，该怎么做。写到这里，希望能看出来，UX 会是多么地宽泛。在文中数个段落之前，写到了 UI 怎样成为其中一部分，你注意到了吗？
 
@@ -146,3 +146,8 @@ _我培训那些想获得技能和增强职业信心、并打造个人品牌、�
 _我还为团队提供讲习班，以找到他们的协作魔力，并将精益流程应用到工作中。_
 
 _更多详情，请访问 [sarahharrison.co](http://sarahharrison.co/)_
+
+
+### 注释
+
+* 注1：A major factor affecting your conversions is user flow. It’s the path a user follows through your website interface to complete a task (make a reservation, purchase a product, subscribe to something). It’s also called user journey. [http://conversionxl.com/how-to-design-user-flow/](http://conversionxl.com/how-to-design-user-flow/)
