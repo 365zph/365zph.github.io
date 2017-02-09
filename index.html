@@ -2,7 +2,7 @@
 layout: default
 ---
 
- {% for post in site.posts %}
+ {% for post in paginator.posts %}
 <section>
     <article id="post-{{ post.wordpress_id }}" class="post-{{ post.wordpress_id }} post type-post status-publish format-standard hentry category-other tag-101 tag-1003 tag-32">
         <h1 class="post-title"><a href="{{ post.link }}">{{ post.title }}</a></h1>
@@ -10,3 +10,20 @@ layout: default
     </article>
 </section>
 {% endfor %}
+<section>
+    <aside>
+        <nav id="nav-below" class="navigation" role="navigation">
+                <div class="nav-previous">
+                {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span class="meta-nav">←</span> 早期文章</a>
+                {% endif %}
+                </div>
+
+                <div class="nav-next">
+                 {% if paginator.previous_page %}
+                 <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">较新文章 <span class="meta-nav">→</span></a>
+                 {% endif %}
+                 </div>
+        </nav>
+    </aside>
+</section>
