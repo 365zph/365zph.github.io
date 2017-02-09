@@ -32,7 +32,7 @@ tags:
 
 
 
-本周末，我带孩子们参看计算机历史博物馆[note]计算机历史博物馆（英语：Computer History Museum，缩写：CHM）是以计算机为主题的博物馆，位在美国加州山景城，于1996年建立。它是为了保存和展示信息时代的故事和产品，以及探索计算机的革命和它对人们生活的影响。[https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%86%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A6%86](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%86%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A6%86)[/note]，接待我们的志愿者是个和善的人，带我们四处参观，并谈到了“第一个**装配有电脑的办公室**”。他说，在不远的过去，电脑还不是我们工作生活的一部分------电脑只被大型银行和大学用到，但很少走进中小型企业、甚至相当一部分大型公司。今天，你难以想象，没有电脑的办公场所（稍后谈到了打印机/会议系统也未出现）。
+本周末，我带孩子们参看计算机历史博物馆【注1】，接待我们的志愿者是个和善的人，带我们四处参观，并谈到了“第一个**装配有电脑的办公室**”。他说，在不远的过去，电脑还不是我们工作生活的一部分------电脑只被大型银行和大学用到，但很少走进中小型企业、甚至相当一部分大型公司。今天，你难以想象，没有电脑的办公场所（稍后谈到了打印机/会议系统也未出现）。
 
 [caption id="attachment_3114" align="alignnone" width="400"][![每个办公场所都有一台电脑？](http://www.labazhou.net/wp-content/uploads/2016/02/1-RSCOtkFmRg46HaHXd-2yNg.jpeg)](http://www.labazhou.net/wp-content/uploads/2016/02/1-RSCOtkFmRg46HaHXd-2yNg.jpeg) 每个办公场所都有一台电脑？[/caption]
 
@@ -56,7 +56,7 @@ tags:
 ### 人类和系统开始对话
 
 
-**交谈式办公**时代的真正突破，在于办公场所的工作者们（人）不是加入交谈的唯一一方------办公信息化系统和服务，通过交谈式接口成为另一方。bug 管理系统通过这种接口给我们发送一份状态报告，当有销售交易[note]关于原文中的“lead”，作者给我的答复是：a "lead" is a sales deal before it is closed. A set of potential clients are leads, and you turn the leads into paying clients.[/note]被关闭时，我们的 CRM 会愉快地给我们发送一条消息，我们的服务器会按照人类的方式，向我们请求帮助并发送错误日志。
+**交谈式办公**时代的真正突破，在于办公场所的工作者们（人）不是加入交谈的唯一一方------办公信息化系统和服务，通过交谈式接口成为另一方。bug 管理系统通过这种接口给我们发送一份状态报告，当有销售交易【注2】被关闭时，我们的 CRM 会愉快地给我们发送一条消息，我们的服务器会按照人类的方式，向我们请求帮助并发送错误日志。
 
 [caption id="attachment_3115" align="alignnone" width="1244"][![计算机参与到交谈中](http://www.labazhou.net/wp-content/uploads/2016/02/1-nbUO3LPOyolpSoYKjGeAqQ.png)](http://www.labazhou.net/wp-content/uploads/2016/02/1-nbUO3LPOyolpSoYKjGeAqQ.png) 计算机参与到交谈中[/caption]
 
@@ -107,7 +107,7 @@ Aril说：同意
   * PO 管理机器人
 
 
-想解释一下太空漫游[note]《2001太空漫游》（英语：2001: A Space Odyssey）是一部上映于1968年，由斯坦利·库布里克执导的美国科幻电影。在《2001太空漫游》中，HAL-9000趁著波曼在太空船外努力拯救浦耳时谋杀了三名冬眠的太空人，这一场景可能是库布里克独特处理叙事的手法最好的证明。不人道的凶手简单地输送寒冷，在这一幕只包括了三个基本元素。[https://zh.wikipedia.org/wiki/2001%E5%A4%AA%E7%A9%BA%E6%BC%AB%E9%81%8A_(%E9%9B%BB%E5%BD%B1)](https://zh.wikipedia.org/wiki/2001%E5%A4%AA%E7%A9%BA%E6%BC%AB%E9%81%8A_(%E9%9B%BB%E5%BD%B1)) [/note]------天呀，里面充满了机器人！
+想解释一下太空漫游【注3】------天呀，里面充满了机器人！
 
 [caption id="attachment_3117" align="alignnone" width="1000"][![希望有比 HAL9000 更好的机器人出现](http://www.labazhou.net/wp-content/uploads/2016/02/1-mvKAbQbk7_cKuZJ-3790CA.jpeg)](http://www.labazhou.net/wp-content/uploads/2016/02/1-mvKAbQbk7_cKuZJ-3790CA.jpeg) 希望有比 HAL9000 更好的机器人出现[/caption]
 
@@ -120,3 +120,10 @@ Aril说：同意
 设想一下明天，它已悄然走来。
 
 [在 Slack Platform 平台](https://api.slack.com/bot-users)，了解开发机器人的相关知识，也欢迎查看 [Easy-Peasy Bots](https://medium.com/slack-developer-blog/easy-peasy-bots-getting-started-96b65e6049bf#.uzxz7eu93)。
+
+
+### 注释
+
+* 注1：计算机历史博物馆（英语：Computer History Museum，缩写：CHM）是以计算机为主题的博物馆，位在美国加州山景城，于1996年建立。它是为了保存和展示信息时代的故事和产品，以及探索计算机的革命和它对人们生活的影响。[https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%86%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A6%86](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%86%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A6%86)
+* 注2：关于原文中的“lead”，作者给我的答复是：a "lead" is a sales deal before it is closed. A set of potential clients are leads, and you turn the leads into paying clients.
+* 注3：《2001太空漫游》（英语：2001: A Space Odyssey）是一部上映于1968年，由斯坦利·库布里克执导的美国科幻电影。在《2001太空漫游》中，HAL-9000趁著波曼在太空船外努力拯救浦耳时谋杀了三名冬眠的太空人，这一场景可能是库布里克独特处理叙事的手法最好的证明。不人道的凶手简单地输送寒冷，在这一幕只包括了三个基本元素。[https://zh.wikipedia.org/wiki/2001%E5%A4%AA%E7%A9%BA%E6%BC%AB%E9%81%8A_(%E9%9B%BB%E5%BD%B1)](https://zh.wikipedia.org/wiki/2001%E5%A4%AA%E7%A9%BA%E6%BC%AB%E9%81%8A_(%E9%9B%BB%E5%BD%B1)) 

@@ -49,14 +49,14 @@ tags:
 ### 移除其它选择
 
 
-[席克法则](https://en.wikipedia.org/wiki/Hick%27s_law)[note]Hick 定律（席克法则）：以英国心理学家 William Edmund Hick 命名，当选项增加时，下决定的时间也增加。当有多重选择时，需要多少时间能做出决定，适用于简单判断的场景，对需要大量阅读和思考的情景并不适用。[http://blog.sina.com.cn/s/blog_8de72dd101012jm5.html](http://blog.sina.com.cn/s/blog_8de72dd101012jm5.html) 还有其它多应用于设计方面的法则，参考 [http://www.geekpark.net/topics/166489](http://www.geekpark.net/topics/166489) [/note]是一个设计原则，即 当选择越多时，做出决定所需要的时间就越长。如果你减少可选项的数量，潜在客户就更容易做决定了。如果你移除所有可选项，某个决定就得到了保障。
+[席克法则](https://en.wikipedia.org/wiki/Hick%27s_law)【注1】是一个设计原则，即 当选择越多时，做出决定所需要的时间就越长。如果你减少可选项的数量，潜在客户就更容易做决定了。如果你移除所有可选项，某个决定就得到了保障。
 
 在 2010 年，John 和 Patrick Collision 开始创办移动支付公司 Stripe。现在估值数十亿美元。业绩貌似来得太容易，但是在早期，[Collison 兄弟没有对任何潜在交易置之不顾](http://paulgraham.com/ds.html)。
 
 如果你对 Stripe 表示出兴趣，他们当场就为你安装好。他们不会返回办公室，给你发送一封带有链接的邮件，希望你能注册。不需要选择。如果你说，「同意」试用 Stripe，他们将夺过你的笔记本，为你装好。
 
 
-### Call to action[note]Call to action (以下皆簡稱 CTA ) 是以文字、或圖片加上超連結的形式，邀請使用者進行動作某個動作，例如：「了解更多」或是「立即前往」。[http://blog.newsleopard.com/2015/02/06/%E6%8F%90%E5%8D%87%E9%9B%BB%E5%AD%90%E5%A0%B1%E9%BB%9E%E6%93%8A%E7%8E%87%EF%BC%8C%E4%BD%A0%E7%9A%84cta%E5%81%9A%E5%A5%BD%E4%BA%86%E5%97%8E%EF%BC%9F/](http://blog.newsleopard.com/2015/02/06/%E6%8F%90%E5%8D%87%E9%9B%BB%E5%AD%90%E5%A0%B1%E9%BB%9E%E6%93%8A%E7%8E%87%EF%BC%8C%E4%BD%A0%E7%9A%84cta%E5%81%9A%E5%A5%BD%E4%BA%86%E5%97%8E%EF%BC%9F/) [/note]
+### Call to action【注2】
 
 
 如果有人说「我有兴趣」、或使用某种说辞，表示了他们想使用产品，那么你脑海中要立即产生反应，你需要移除所有障碍，让他们和你一起开始。
@@ -112,3 +112,9 @@ tags:
 感谢阅读。下面的 gif 图，显示了 Crew 工作的情况 :-) 当然，它也是 Crew 创作的。
 
 [![Crew  的工作状态](http://www.labazhou.net/wp-content/uploads/2016/04/1-_ytnV6nddVUg5tixV0dLgQ.gif)](http://www.labazhou.net/wp-content/uploads/2016/04/1-_ytnV6nddVUg5tixV0dLgQ.gif)
+
+
+### 注释
+
+* 注1：Hick 定律（席克法则）：以英国心理学家 William Edmund Hick 命名，当选项增加时，下决定的时间也增加。当有多重选择时，需要多少时间能做出决定，适用于简单判断的场景，对需要大量阅读和思考的情景并不适用。[http://blog.sina.com.cn/s/blog_8de72dd101012jm5.html](http://blog.sina.com.cn/s/blog_8de72dd101012jm5.html) 还有其它多应用于设计方面的法则，参考 [http://www.geekpark.net/topics/166489](http://www.geekpark.net/topics/166489) 
+* 注2：Call to action (以下皆簡稱 CTA ) 是以文字、或圖片加上超連結的形式，邀請使用者進行動作某個動作，例如：「了解更多」或是「立即前往」。[http://blog.newsleopard.com/2015/02/06/%E6%8F%90%E5%8D%87%E9%9B%BB%E5%AD%90%E5%A0%B1%E9%BB%9E%E6%93%8A%E7%8E%87%EF%BC%8C%E4%BD%A0%E7%9A%84cta%E5%81%9A%E5%A5%BD%E4%BA%86%E5%97%8E%EF%BC%9F/](http://blog.newsleopard.com/2015/02/06/%E6%8F%90%E5%8D%87%E9%9B%BB%E5%AD%90%E5%A0%B1%E9%BB%9E%E6%93%8A%E7%8E%87%EF%BC%8C%E4%BD%A0%E7%9A%84cta%E5%81%9A%E5%A5%BD%E4%BA%86%E5%97%8E%EF%BC%9F/) 

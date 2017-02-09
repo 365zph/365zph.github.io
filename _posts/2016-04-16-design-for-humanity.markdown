@@ -37,7 +37,7 @@ tags:
 
 [caption id="attachment_3319" align="alignnone" width="659"][![人性化设计](http://www.labazhou.net/wp-content/uploads/2016/04/1-k8FGDETFUCVTB4Bf5TluYQ.png)](http://www.labazhou.net/wp-content/uploads/2016/04/1-k8FGDETFUCVTB4Bf5TluYQ.png) 构思和作者：Daniel Eckler；合著：Shaun Roncken。《人性化设计》是一篇交互式散文，探索拟人化设计的前世、今生和未来。[/caption]
 
-1950 年，美国心理学家哈利·哈洛[note]哈利·哈洛（英语：Harry F. Harlow，1905年10月31日－1981年12月6日），美国心理学家，早期研究灵长类动物的问题解决和辨别反应学习，其后用学习定势的训练方法比较灵长类和其他动物的智力水准。[https://zh.wikipedia.org/wiki/%E5%93%88%E9%87%8C%C2%B7%E5%93%88%E6%B4%9B](https://zh.wikipedia.org/wiki/%E5%93%88%E9%87%8C%C2%B7%E5%93%88%E6%B4%9B) [/note]开展了一项实验，把刚出生几个小时的小猴子和母亲隔离开。每个月被单独放在一个笼子里，并放置两个伪装的猴妈妈。一个用铁丝做成的妈妈，拿着奶瓶；另一个妈妈则罩着一层人造毛，设计成真猴子的模样，但不提供食物。
+1950 年，美国心理学家哈利·哈洛【注1】开展了一项实验，把刚出生几个小时的小猴子和母亲隔离开。每个月被单独放在一个笼子里，并放置两个伪装的猴妈妈。一个用铁丝做成的妈妈，拿着奶瓶；另一个妈妈则罩着一层人造毛，设计成真猴子的模样，但不提供食物。
 
 哈利·哈洛猜测，小猴子出于本能，将被吸引到铁丝做的猴妈妈那儿，因为它提供了基本需求：食物。
 
@@ -57,7 +57,7 @@ tags:
 
 对于每个人工制品，核心都是功能，比如门把手、椅子。我们设计东西是为了解决问题、满足需求；让你轻松走进另一家屋子的走廊、或可以休息的舒适场所，我们都认为应该如此。
 
-自从路易斯·沙利文[note]路易斯·亨利·沙利文（Louis Henri Sullivan，1856年9月3日－1924年4月14日） 美国建筑师，有人称其为“摩天大楼之父”和“现代主义之父”。 许多人认为是他创造了现代的摩天大楼。 同时他也是影响深远的建筑师。 建筑师法兰克·洛伊·莱特用德语尊称他为“崇敬的宗师（Lieber Meister）”。[https://zh.wikipedia.org/wiki/%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E6%B2%99%E5%88%A9%E6%96%87](https://zh.wikipedia.org/wiki/%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E6%B2%99%E5%88%A9%E6%96%87) [/note]在 20 世纪初期提出「形式追随功能」[note]沙利文出生在 19世紀中葉，被認為是建築上的「現代主義之父」。除了創造出現代摩天大樓的原型，他留給後世的最大寶貝就是「形式追隨功能」（ Form follows function）這句格言了。它的意思很清楚；建築的首要目標在於它的功能，而非它的外形；一間住人的房子要是連讓人舒適安居的基本條件都做不到，就算它裝潢得再漂亮又有甚麼用呢？[http://www.commentshk.com/2010/05/blog-post_717.html](http://www.commentshk.com/2010/05/blog-post_717.html) [/note]之后，在设计原则的核心里，就一直存在着有争议的地方。功能或许是很多设计师主要关注的地方，但遵守这句格言要到什么程度呢？包括奥地利建筑师阿道夫·路斯[note]阿道夫·弗朗兹·卡尔·维克多·玛丽亚·路斯（1870年12月10日－1933年8月23日），奥地利建筑师，出生在摩拉维亚。在欧洲现代主义建筑的发展有很大的影响力。在他的论文《装饰与罪恶》里，提出反对维也纳分离派（新艺术运动的维也纳分支）的观点。在这篇和其他几篇论文里，他为现代主义建筑理论的创建和批判做出了贡献。[https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E8%B7%AF%E6%96%AF](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E8%B7%AF%E6%96%AF) [/note]在内的一些人，将其称之为《[装饰与罪恶](https://en.wikipedia.org/wiki/Ornament_and_Crime)》。
+自从路易斯·沙利文【注2】在 20 世纪初期提出「形式追随功能」【注3】之后，在设计原则的核心里，就一直存在着有争议的地方。功能或许是很多设计师主要关注的地方，但遵守这句格言要到什么程度呢？包括奥地利建筑师阿道夫·路斯【注4】在内的一些人，将其称之为《[装饰与罪恶](https://en.wikipedia.org/wiki/Ornament_and_Crime)》。
 
 为了说清楚，让我们考虑首先具备功能的东西：La-Z-Boy 品牌的躺椅，专为舒适、放松而打造。它的所有特色都和功能有关，比如，臃肿的垫子，侧面用来调整的把手，可以躺下打个小盹。有人认为，它的设计如此明确地注重功能，以致于略显丑陋------不知道该用哪个词了。
 
@@ -79,7 +79,7 @@ tags:
 
 Youtube 视频地址：[https://youtu.be/dBqhIVyfsRg](https://youtu.be/dBqhIVyfsRg) （译者注：好感人哪）
 
-并不是每个物品都能考虑到，情感要明确。只有极少的顶级物品，能够以真正总体感受把功能、形式和情感糅合在一起。Hans Wegner 的贝壳椅[note]韋格納為 Carl Hansen & Son 所設計的椅子之一，又名《CH07》，在這個設計裡面，韋格納將合板優點發揮到極致，整張座椅僅由 3 個組件形成，因而得名「三腳貝殼椅」。韋格納以蒸氣方式加壓，為木材彎出美麗的曲線，座墊看上去就像是微笑般淺淺彎起，因而《3-Legged Shell Chair》有時也被稱為微笑椅。[http://www.mottimes.com/cht/article_detail.php?type=1&serial=628](http://www.mottimes.com/cht/article_detail.php?type=1&serial=628) [/note]立即映入脑海：某种设计，除了优美和高度的功能性之外，赏心悦目的线条和微笑般的坐垫，像是在鼓励我们感受点儿什么，平静、舒适------甚至包括开心。
+并不是每个物品都能考虑到，情感要明确。只有极少的顶级物品，能够以真正总体感受把功能、形式和情感糅合在一起。Hans Wegner 的贝壳椅【注5】立即映入脑海：某种设计，除了优美和高度的功能性之外，赏心悦目的线条和微笑般的坐垫，像是在鼓励我们感受点儿什么，平静、舒适------甚至包括开心。
 
 [caption id="attachment_3317" align="alignnone" width="1100"][![Hans Wegner 的贝壳椅](http://www.labazhou.net/wp-content/uploads/2016/04/1-b5SPdwEHrHxmw3DeJhibLg.jpeg)](http://www.labazhou.net/wp-content/uploads/2016/04/1-b5SPdwEHrHxmw3DeJhibLg.jpeg) Hans Wegner 的三脚贝壳椅[/caption]
 
@@ -95,11 +95,11 @@ Youtube 视频地址：[https://youtu.be/dBqhIVyfsRg](https://youtu.be/dBqhIVyfs
 <blockquote>当你首次见到某人时，你的第一印象不是「他们有什么功能？」，而是「他们给我什么感受？」。</blockquote>
 
 
-这些情感纽带（或缺乏）在当代生活中还不太明显------广告商却精通于此。Trident[note]Trident口香糖是一款美国的木糖醇口香糖，初次吃的人会觉得口味比较重，相对其他木糖醇口香糖而言要甜很多，trident牌子口香糖都是无糖的，之所以会甜，因为有添加好质量的木糖醇。[https://www.douban.com/subject/24840915/](https://www.douban.com/subject/24840915/) [/note] 品牌的某个 30 秒口香糖广告并不关心形式（口香糖本身）、或功能（消除口腔异味），他们卖给你的是一种情感体验（首次约会的一个吻）。如果广告有收效，那是因为他们已经把一种无害的灰色方糖包装成了你和某个魅力女人的某种情感联系。
+这些情感纽带（或缺乏）在当代生活中还不太明显------广告商却精通于此。Trident【注6】 品牌的某个 30 秒口香糖广告并不关心形式（口香糖本身）、或功能（消除口腔异味），他们卖给你的是一种情感体验（首次约会的一个吻）。如果广告有收效，那是因为他们已经把一种无害的灰色方糖包装成了你和某个魅力女人的某种情感联系。
 
 Youtube 地址：[https://youtu.be/mwwQyHVOaQA](https://youtu.be/mwwQyHVOaQA)
 
-大众甲壳虫[note]大众甲壳虫（德语：VW Käfer、英语：Volkswagen Beetle），正式名称为大众1型（Volkswagen Type 1），是由大众汽车在1938年至2003年间生产的一款小型轿车。[https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BC%97%E7%94%B2%E5%A3%B3%E8%99%AB](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BC%97%E7%94%B2%E5%A3%B3%E8%99%AB) [/note] 1938 年参展，一直生产到 2003 年，曾是汽车历史上销量最佳的设计，这毫不奇怪。它被称为「国民的汽车」，友善的圆形轮廓，配备的一对车灯，像卡通风格的眼睛，还有一个欢快的保险杠。这款汽车的设计如此友善，以致于迪斯尼以它为基础，拍摄了一部真人动作电影：一个会思考、无人驾驶的甲壳虫，名叫万能金龟车[note]在电影史上，万能金龟车（Herbie the Love Bug）应该算是非常标志性的汽车了。这车是很多迪斯尼电影中的明星——在电影《金龟车大闹蒙特卡罗（Herbie goes to Monte Carlo）》这部电影中的其中一辆最近被找出来，然后拿去拍卖了，据说这车保留原有的样子非常完整。[http://www.cnbeta.com/articles/452223.htm](http://www.cnbeta.com/articles/452223.htm) [/note]。
+大众甲壳虫【注7】 1938 年参展，一直生产到 2003 年，曾是汽车历史上销量最佳的设计，这毫不奇怪。它被称为「国民的汽车」，友善的圆形轮廓，配备的一对车灯，像卡通风格的眼睛，还有一个欢快的保险杠。这款汽车的设计如此友善，以致于迪斯尼以它为基础，拍摄了一部真人动作电影：一个会思考、无人驾驶的甲壳虫，名叫万能金龟车【注8】。
 
 Youtube 地址：[https://youtu.be/jiZYodbww5A](https://youtu.be/jiZYodbww5A)
 
@@ -134,3 +134,15 @@ Youtube 地址：[https://youtu.be/jiZYodbww5A](https://youtu.be/jiZYodbww5A)
 嗨，我叫 Daniel。我创办过一些公司，比如 Piccsy、EveryGuyed。我目前在寻找新的职业和咨询机会。请用 [email](mailto:hi@danieleckler.com) 联系。
 
 [Shaun Roncken](http://www.shaunroncken.com/) 是本文的合著者。
+
+
+### 注释
+
+* 注1：哈利·哈洛（英语：Harry F. Harlow，1905年10月31日－1981年12月6日），美国心理学家，早期研究灵长类动物的问题解决和辨别反应学习，其后用学习定势的训练方法比较灵长类和其他动物的智力水准。[https://zh.wikipedia.org/wiki/%E5%93%88%E9%87%8C%C2%B7%E5%93%88%E6%B4%9B](https://zh.wikipedia.org/wiki/%E5%93%88%E9%87%8C%C2%B7%E5%93%88%E6%B4%9B) 
+* 注2：路易斯·亨利·沙利文（Louis Henri Sullivan，1856年9月3日－1924年4月14日） 美国建筑师，有人称其为“摩天大楼之父”和“现代主义之父”。 许多人认为是他创造了现代的摩天大楼。 同时他也是影响深远的建筑师。 建筑师法兰克·洛伊·莱特用德语尊称他为“崇敬的宗师（Lieber Meister）”。[https://zh.wikipedia.org/wiki/%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E6%B2%99%E5%88%A9%E6%96%87](https://zh.wikipedia.org/wiki/%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E6%B2%99%E5%88%A9%E6%96%87) 
+* 注3：沙利文出生在 19世紀中葉，被認為是建築上的「現代主義之父」。除了創造出現代摩天大樓的原型，他留給後世的最大寶貝就是「形式追隨功能」（ Form follows function）這句格言了。它的意思很清楚；建築的首要目標在於它的功能，而非它的外形；一間住人的房子要是連讓人舒適安居的基本條件都做不到，就算它裝潢得再漂亮又有甚麼用呢？[http://www.commentshk.com/2010/05/blog-post_717.html](http://www.commentshk.com/2010/05/blog-post_717.html) 
+* 注4：阿道夫·弗朗兹·卡尔·维克多·玛丽亚·路斯（1870年12月10日－1933年8月23日），奥地利建筑师，出生在摩拉维亚。在欧洲现代主义建筑的发展有很大的影响力。在他的论文《装饰与罪恶》里，提出反对维也纳分离派（新艺术运动的维也纳分支）的观点。在这篇和其他几篇论文里，他为现代主义建筑理论的创建和批判做出了贡献。[https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E8%B7%AF%E6%96%AF](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E8%B7%AF%E6%96%AF) 
+* 注5：韋格納為 Carl Hansen & Son 所設計的椅子之一，又名《CH07》，在這個設計裡面，韋格納將合板優點發揮到極致，整張座椅僅由 3 個組件形成，因而得名「三腳貝殼椅」。韋格納以蒸氣方式加壓，為木材彎出美麗的曲線，座墊看上去就像是微笑般淺淺彎起，因而《3-Legged Shell Chair》有時也被稱為微笑椅。[http://www.mottimes.com/cht/article_detail.php?type=1&serial=628](http://www.mottimes.com/cht/article_detail.php?type=1&serial=628) 
+* 注6：Trident口香糖是一款美国的木糖醇口香糖，初次吃的人会觉得口味比较重，相对其他木糖醇口香糖而言要甜很多，trident牌子口香糖都是无糖的，之所以会甜，因为有添加好质量的木糖醇。[https://www.douban.com/subject/24840915/](https://www.douban.com/subject/24840915/) 
+* 注7：大众甲壳虫（德语：VW Käfer、英语：Volkswagen Beetle），正式名称为大众1型（Volkswagen Type 1），是由大众汽车在1938年至2003年间生产的一款小型轿车。[https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BC%97%E7%94%B2%E5%A3%B3%E8%99%AB](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BC%97%E7%94%B2%E5%A3%B3%E8%99%AB) 
+* 注8：在电影史上，万能金龟车（Herbie the Love Bug）应该算是非常标志性的汽车了。这车是很多迪斯尼电影中的明星——在电影《金龟车大闹蒙特卡罗（Herbie goes to Monte Carlo）》这部电影中的其中一辆最近被找出来，然后拿去拍卖了，据说这车保留原有的样子非常完整。[http://www.cnbeta.com/articles/452223.htm](http://www.cnbeta.com/articles/452223.htm) 

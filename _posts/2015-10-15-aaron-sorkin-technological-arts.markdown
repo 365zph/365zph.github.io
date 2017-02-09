@@ -34,23 +34,23 @@ tags:
 
 
 
-我想，我最终搞懂了艾伦·索金[note]阿伦·本杰明·索尔金（Aaron Benjamin Sorkin，1961年6月9日－），知名美国编剧。著名作品包括《好人寥寥》（A Few Good Men）及《白宫夜未眠》（American President）等；电视片集方面则有《白宫风云》（The West Wing）等。[https://zh.wikipedia.org/wiki/%E8%89%BE%E5%80%AB%C2%B7%E7%B4%A2%E9%87%91](https://zh.wikipedia.org/wiki/%E8%89%BE%E5%80%AB%C2%B7%E7%B4%A2%E9%87%91) [/note]，他在逃避我。
+我想，我最终搞懂了艾伦·索金【注1】，他在逃避我。
 
-我对《白宫群英》[note]《白宫群英》（The West Wing）是一部以政治为题材的美国电视连续剧，于1999年至2006年期间分七季放送播映，由原创人艾伦·索金担任前四季的剧本创作与监制工作，后两季的监制工作改由约翰·威尔士担任。本剧场景设定在美国总统官邸白宫的西翼，该处是虚构人物美国民主党总统约书亚·巴特勒的椭圆形办公室和总统高级幕僚办公区所在地。[https://zh.wikipedia.org/wiki/%E7%99%BD%E5%AE%AB%E7%BE%A4%E8%8B%B1](https://zh.wikipedia.org/wiki/%E7%99%BD%E5%AE%AB%E7%BE%A4%E8%8B%B1)[/note]记忆深刻，以致于我不敢再看一遍，我现在算是全明白了，我可能发现了艾伦·索金所谓的名作，实际上只不过是另一部带有说教的肥皂剧。我喜欢《体育之夜》，至少节目做得很努力。我也愿意原谅《Studio 60》[note]Studio 60 on the Sunset Strip is an American comedy-drama television series created and primarily written by Aaron Sorkin. [https://en.wikipedia.org/wiki/Studio_60_on_the_Sunset_Strip](https://en.wikipedia.org/wiki/Studio_60_on_the_Sunset_Strip)[/note]。
+我对《白宫群英》【注2】记忆深刻，以致于我不敢再看一遍，我现在算是全明白了，我可能发现了艾伦·索金所谓的名作，实际上只不过是另一部带有说教的肥皂剧。我喜欢《体育之夜》，至少节目做得很努力。我也愿意原谅《Studio 60》【注3】。
 
 但是，对于艾伦·索金在《社交网络》中[就事实](http://buzzmachine.com/2010/09/28/the-antisocial-movie/)和马克·扎克伯格、以及最近就史蒂夫•乔布斯的做法，我表示不齿：魔鬼化他俩。我[无法忍受](http://www.theguardian.com/commentisfree/2013/jul/18/the-newsroom-hbo-series-hate-it)他在有线新闻（Cable News）的《新闻编辑室》的做法：崇拜它。
 
-本周，看完了电影《Steve Jobs》，还听了艾伦·索金接受 Nilay Patel 在 The Verge 网站[note]The Verge是一个美国的科技新闻及媒体网络，由Vox媒体在纽约曼哈顿的办事处操作。此网络发布新闻、长篇专题报道、产品评价、博客，以及娱乐节目。[https://zh.wikipedia.org/wiki/The_Verge](https://zh.wikipedia.org/wiki/The_Verge)[/note]的采访，我想，我最终明白了艾伦·索金。
+本周，看完了电影《Steve Jobs》，还听了艾伦·索金接受 Nilay Patel 在 The Verge 网站【注4】的采访，我想，我最终明白了艾伦·索金。
 
 他嫉妒别人。
 
-艾伦·索金羡慕改变世界的那些人。在《白宫群英》里，他按照自己的设想，把美国人自己选不出来的、理想中存在、现实中却不可能存在的总统带到了生活中------上帝也做不到。他诱惑我们所有人去赞美、去崇拜 Josiah Bartlet：而艾伦·索金就是造王者。在《新闻编辑室》[note]《新闻编辑室》（英语：The Newsroom）是一部由阿伦·索尔金原创的美国剧情类电视剧，于2012年6月24日在HBO电视台首播。[https://zh.wikipedia.org/wiki/%E6%96%B0%E8%81%9E%E7%B7%A8%E8%BC%AF%E5%AE%A4](https://zh.wikipedia.org/wiki/%E6%96%B0%E8%81%9E%E7%B7%A8%E8%BC%AF%E5%AE%A4)[/note]，艾伦·索金创造了有着被夸大了新闻业的、改变世界的人（但愿他们没有如此多的可怕的缺点，厌恶女人，华而不实，啰嗦，浮夸，无耻混蛋以及背信弃义）。
+艾伦·索金羡慕改变世界的那些人。在《白宫群英》里，他按照自己的设想，把美国人自己选不出来的、理想中存在、现实中却不可能存在的总统带到了生活中------上帝也做不到。他诱惑我们所有人去赞美、去崇拜 Josiah Bartlet：而艾伦·索金就是造王者。在《新闻编辑室》【注5】，艾伦·索金创造了有着被夸大了新闻业的、改变世界的人（但愿他们没有如此多的可怕的缺点，厌恶女人，华而不实，啰嗦，浮夸，无耻混蛋以及背信弃义）。
 
 但是，根据他在《Other Coast》、《Lesser Coast》中的谈话，我相信，我能够听到艾伦·索金内心的对话：
 
 _你只不过是做了个玩具，孩子。扎克：你安排人们，是因为你无法安排你自己。你有一个女朋友，我选择了无视，请不要介意。我决定，你没有女朋友。这是我的权利，我是编剧。至于你，史蒂夫：我让你女儿来说，不过我也这样认为：你的 iMac 看起来像是一个很矬的易烘烤炉( Easy-Bake Oven)。你最大的发明，你唯一真正的发明就是，------正如你的技术社区所说的------Walkman 2.0 玩具，除了玩具，别无它用。_
 
-在电影《Steve Jobs》，艾伦·索金为我们提供了一部硅谷剧、一部电信方面的小说，促使我们去观看，因为他设想一些可怕的、不舒服的场景，并强加到男主角的生活当中：对他的女儿、对他的每一名员工、以及他的雨人[note]《雨人》（英语：Rain Man）是1988年上映的美国电影，以兄弟之情为主题。是由巴瑞·莱文森执导，剧本是由罗纳德·贝斯（Ronald Bass）及巴利·摩亚（Barry Morrow）撰写。[https://zh.wikipedia.org/wiki/%E9%9B%A8%E4%BA%BA](https://zh.wikipedia.org/wiki/%E9%9B%A8%E4%BA%BA)[/note]（艾伦·索金的话）Woz 冷酷无情。在艾伦·索金的眼里，乔布斯是不可救药的。这部电影是最不舒服的两个小时，就像和你熟悉的、让人厌恶的不和睦家人一道，困在电梯里一样。或者，像是一家糟糕公司的董事会会议。
+在电影《Steve Jobs》，艾伦·索金为我们提供了一部硅谷剧、一部电信方面的小说，促使我们去观看，因为他设想一些可怕的、不舒服的场景，并强加到男主角的生活当中：对他的女儿、对他的每一名员工、以及他的雨人【注6】（艾伦·索金的话）Woz 冷酷无情。在艾伦·索金的眼里，乔布斯是不可救药的。这部电影是最不舒服的两个小时，就像和你熟悉的、让人厌恶的不和睦家人一道，困在电梯里一样。或者，像是一家糟糕公司的董事会会议。
 
 我又听到了艾伦·索金的声音：
 
@@ -70,8 +70,19 @@ _扎克和史蒂夫，你们俩甚至没有努力取悦人们，你俩不理解�
 
 艾伦·索金还愿意相信，电影制片是高于扎克伯克和乔布斯目前所取得成就的形式。但是艾伦·索金拍摄的、关于他俩的电影，却说明了艾伦·索金是错误的，无论他能否容忍这种看法。艾伦·索金没有像他所说的那样改变世界。艾伦·索金的工作鲜有艺术------尽管如此，他习惯了撕裂这些孩子，以中伤其角色。
 
-艾伦·索金相当于他们这些莫扎特身旁的萨列里[note]萨列里是与莫扎特同时代的杰出音乐家。但因为美国导演米洛斯·福曼（Milos Forman）所执导的电影《阿玛迪斯》（Amadeus）中浪漫的幻想和渲染下使得人们产生出，他是一个才能不及莫扎特，妒忌心重的迷思。[https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C](https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C)[/note]，和艾伦·索金比起来，他们是更伟大的艺术家。他们以及他们所产生的影响，将名垂青史------这不是因为有了艾伦·索金为他们拍的电影，因为电影将很快被忘得一干二净。他们已经改变了世界，远远多于艾伦·索金或他所深爱的、想象中的总统或新闻工作者曾经希望的改变。然而，艾伦·索金注定要在电影里把他们说成是该死的、受人唾弃的极客。
+艾伦·索金相当于他们这些莫扎特身旁的萨列里【注7】，和艾伦·索金比起来，他们是更伟大的艺术家。他们以及他们所产生的影响，将名垂青史------这不是因为有了艾伦·索金为他们拍的电影，因为电影将很快被忘得一干二净。他们已经改变了世界，远远多于艾伦·索金或他所深爱的、想象中的总统或新闻工作者曾经希望的改变。然而，艾伦·索金注定要在电影里把他们说成是该死的、受人唾弃的极客。
 
 一大憾事。
 
 视频：《[萨列里与莫扎特的较量](https://youtu.be/-ciFTP_KRy4?t=152)》
+
+
+### 注释
+
+* 注1：阿伦·本杰明·索尔金（Aaron Benjamin Sorkin，1961年6月9日－），知名美国编剧。著名作品包括《好人寥寥》（A Few Good Men）及《白宫夜未眠》（American President）等；电视片集方面则有《白宫风云》（The West Wing）等。[https://zh.wikipedia.org/wiki/%E8%89%BE%E5%80%AB%C2%B7%E7%B4%A2%E9%87%91](https://zh.wikipedia.org/wiki/%E8%89%BE%E5%80%AB%C2%B7%E7%B4%A2%E9%87%91) 
+* 注2：《白宫群英》（The West Wing）是一部以政治为题材的美国电视连续剧，于1999年至2006年期间分七季放送播映，由原创人艾伦·索金担任前四季的剧本创作与监制工作，后两季的监制工作改由约翰·威尔士担任。本剧场景设定在美国总统官邸白宫的西翼，该处是虚构人物美国民主党总统约书亚·巴特勒的椭圆形办公室和总统高级幕僚办公区所在地。[https://zh.wikipedia.org/wiki/%E7%99%BD%E5%AE%AB%E7%BE%A4%E8%8B%B1](https://zh.wikipedia.org/wiki/%E7%99%BD%E5%AE%AB%E7%BE%A4%E8%8B%B1)
+* 注3：Studio 60 on the Sunset Strip is an American comedy-drama television series created and primarily written by Aaron Sorkin. [https://en.wikipedia.org/wiki/Studio_60_on_the_Sunset_Strip](https://en.wikipedia.org/wiki/Studio_60_on_the_Sunset_Strip)
+* 注4：The Verge是一个美国的科技新闻及媒体网络，由Vox媒体在纽约曼哈顿的办事处操作。此网络发布新闻、长篇专题报道、产品评价、博客，以及娱乐节目。[https://zh.wikipedia.org/wiki/The_Verge](https://zh.wikipedia.org/wiki/The_Verge)
+* 注5：《新闻编辑室》（英语：The Newsroom）是一部由阿伦·索尔金原创的美国剧情类电视剧，于2012年6月24日在HBO电视台首播。[https://zh.wikipedia.org/wiki/%E6%96%B0%E8%81%9E%E7%B7%A8%E8%BC%AF%E5%AE%A4](https://zh.wikipedia.org/wiki/%E6%96%B0%E8%81%9E%E7%B7%A8%E8%BC%AF%E5%AE%A4)
+* 注6：《雨人》（英语：Rain Man）是1988年上映的美国电影，以兄弟之情为主题。是由巴瑞·莱文森执导，剧本是由罗纳德·贝斯（Ronald Bass）及巴利·摩亚（Barry Morrow）撰写。[https://zh.wikipedia.org/wiki/%E9%9B%A8%E4%BA%BA](https://zh.wikipedia.org/wiki/%E9%9B%A8%E4%BA%BA)
+* 注7：萨列里是与莫扎特同时代的杰出音乐家。但因为美国导演米洛斯·福曼（Milos Forman）所执导的电影《阿玛迪斯》（Amadeus）中浪漫的幻想和渲染下使得人们产生出，他是一个才能不及莫扎特，妒忌心重的迷思。[https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C](https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C)

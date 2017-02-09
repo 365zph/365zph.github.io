@@ -39,7 +39,7 @@ tags:
 ### 我为什么关心？
 
 
-毕竟，你可以无需满足 REST 约束就能使用 HTTP。当然，你越是彻底地利用该协议，你最终就越多地符合 REST 约束，因为 HTTP 的设计是 REST 的基础。但是，这根本上还是循环论证[note]循环论证（circular argument）、循环推理（循环推论；circular reasoning）、或循环证成（循环证立；circular justification），是论点的真确性最终由自身支持的推理方式循环论证或循环推理有时也泛指包括循环证成、循环因果、循环定义、循环解释等各种有循环形式的陈述。[https://zh.wikipedia.org/wiki/%E5%BE%AA%E7%92%B0%E8%AB%96%E8%AD%89](https://zh.wikipedia.org/wiki/%E5%BE%AA%E7%92%B0%E8%AB%96%E8%AD%89) [/note]。当然，随着协议的发展，HTTP 已经取得了划时代的成功。这当然说明了其研究价值。但是仍然没有回答这个问题。为什么 REST 风格如此地重要？为什么完全发挥 HTTP 协议的效用如此重要呢？为什么我们发现忍不住要花时间[对其解释](https://www.pandastrike.com/posts/20131211-http-made-simple)呢？或者解释与之相关的[开发工具](https://github.com/pandastrike/jsck)、[资源库](https://github.com/pandastrike/pbx)和[框架](https://github.com/patchboard)呢？
+毕竟，你可以无需满足 REST 约束就能使用 HTTP。当然，你越是彻底地利用该协议，你最终就越多地符合 REST 约束，因为 HTTP 的设计是 REST 的基础。但是，这根本上还是循环论证【注1】。当然，随着协议的发展，HTTP 已经取得了划时代的成功。这当然说明了其研究价值。但是仍然没有回答这个问题。为什么 REST 风格如此地重要？为什么完全发挥 HTTP 协议的效用如此重要呢？为什么我们发现忍不住要花时间[对其解释](https://www.pandastrike.com/posts/20131211-http-made-simple)呢？或者解释与之相关的[开发工具](https://github.com/pandastrike/jsck)、[资源库](https://github.com/pandastrike/pbx)和[框架](https://github.com/patchboard)呢？
 
 
 ### 一次显现
@@ -51,7 +51,7 @@ Roy Fielding 是 HTTP 规范的主要作者以及 REST 风格的创建者，[在
 <blockquote>关于如何使用一种风格来开发面向 web 的应用程序，它可以长期良好地运行，而且相应地能够创造更多的 web（更多可访问的资源），因此广为人知。我的建议仍然是 REST。</blockquote>
 
 
-这里的循环论证就是「创造更多的 web」。如果你认为 web 是一个巨大的进步（继印刷术之后最伟大的进步），你自然就喜欢创造更多的 web。值得一提的是，web 是那些得益于网络效应[note]网络外部性（英语：network externality），又称网络效应（英语：network effect），或需求方规模经济（英语：demand-side economies of scale），指在经济学或商业中，消费者选用某项商品或服务，其所获得的效用与“使用该商品或服务的其他用户人数”具有相关性时，此商品或服务即被称为具有网络外部性。 最常见的例子是电话或社群网络服务：采用某一种社交媒体的用户人数越多，每一位用户获得越高的使用价值。[https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%A4%96%E9%83%A8%E6%80%A7](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%A4%96%E9%83%A8%E6%80%A7) [/note]的技术之一。
+这里的循环论证就是「创造更多的 web」。如果你认为 web 是一个巨大的进步（继印刷术之后最伟大的进步），你自然就喜欢创造更多的 web。值得一提的是，web 是那些得益于网络效应【注2】的技术之一。
 
 例如，根据网络效应，我现在只能链接到维基百科上的一个词条。回到百科全书还是商业上售卖的 DVD 时，我是做不到的，你或许还没有买到呢。维基百科词条的存在，为我的博文增加了价值。
 
@@ -74,10 +74,10 @@ REST 正面对的问题是，如果它们是 web 页，又该如何呢？
 但是，如果我们坚持摒弃和拒绝世界上最成功的应用程序协议 HTTP，并发明我们自己定义的变量，比如 [Realy](https://facebook.github.io/relay/)、[Falcor](https://github.com/Netflix/falcor)、[JetStream](https://github.com/uber/jetstream)，那么，我们就永远无法走到那一步。API 生态的网络效应就永远无法累积起来。
 
 
-### Yoder 第十定律[note]笔者通过 twitter 联系了原文作者，他说，引用的文字是格林斯潘的，但是，删除线以后增加的那一版，据作者猜测应该是 Yoder 提出的：[https://twitter.com/deliciousbamboo/status/659912242805104640](https://twitter.com/deliciousbamboo/status/659912242805104640)[/note]
+### Yoder 第十定律【注3】
 
 
-对于早期打造分布式系统的努力，REST 和 HTTP 也从中吸取了大量经验并编入规范。我们已经尝试过 RPC、面向对象的 RPC 和查询语言，或许 HTTP 运作良好是有原因的，或许我们吸取了过去犯错的教训，或许你也能从中学到什么。我喜欢把格林斯潘第十定律[note]格林斯潘第十定律是计算机编程领域，尤其是编程语言领域的一句格言：「任何 C 或 Fortran 程序复杂到一定程度之后，都会包含一个临时开发的、不合规范的、充满程序错误的、运行速度很慢的、只有一半功能的 Common Lisp 实现。」这表现了 Lisp 语言的灵活性和可扩展性，它包含了理论上编写复杂计算机程序需要的所有功能。而其他编程语言的核心实现却不能提供开发复杂程序的关键性功能支持。[https://zh.wikipedia.org/wiki/%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E7%AC%AC%E5%8D%81%E5%AE%9A%E5%BE%8B](https://zh.wikipedia.org/wiki/%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E7%AC%AC%E5%8D%81%E5%AE%9A%E5%BE%8B) [/note]应用到 HTTP：
+对于早期打造分布式系统的努力，REST 和 HTTP 也从中吸取了大量经验并编入规范。我们已经尝试过 RPC、面向对象的 RPC 和查询语言，或许 HTTP 运作良好是有原因的，或许我们吸取了过去犯错的教训，或许你也能从中学到什么。我喜欢把格林斯潘第十定律【注4】应用到 HTTP：
 
 
 <blockquote>任何 <del>C或Fortran程序</del> API 复杂到一定程度之后，都会包含一个临时开发的、不合规范的、充满程序错误的、运行速度很慢的、只有一半功能的 <del>Common Lisp</del> HTTP 实现。</blockquote>
@@ -107,3 +107,11 @@ REST 正面对的问题是，如果它们是 web 页，又该如何呢？
 或许我们已经有了足够多的 web，或许如果 API 不是更多的 web，也没关系。但是我们现有的 web，可能只是它应有规模的一半、四分之一、八分之一……
 
 对于 web 应有的样子，我充满期待。
+
+
+### 注释
+
+* 注1：循环论证（circular argument）、循环推理（循环推论；circular reasoning）、或循环证成（循环证立；circular justification），是论点的真确性最终由自身支持的推理方式循环论证或循环推理有时也泛指包括循环证成、循环因果、循环定义、循环解释等各种有循环形式的陈述。[https://zh.wikipedia.org/wiki/%E5%BE%AA%E7%92%B0%E8%AB%96%E8%AD%89](https://zh.wikipedia.org/wiki/%E5%BE%AA%E7%92%B0%E8%AB%96%E8%AD%89) 
+* 注2：网络外部性（英语：network externality），又称网络效应（英语：network effect），或需求方规模经济（英语：demand-side economies of scale），指在经济学或商业中，消费者选用某项商品或服务，其所获得的效用与“使用该商品或服务的其他用户人数”具有相关性时，此商品或服务即被称为具有网络外部性。 最常见的例子是电话或社群网络服务：采用某一种社交媒体的用户人数越多，每一位用户获得越高的使用价值。[https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%A4%96%E9%83%A8%E6%80%A7](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%A4%96%E9%83%A8%E6%80%A7) 
+* 注3：笔者通过 twitter 联系了原文作者，他说，引用的文字是格林斯潘的，但是，删除线以后增加的那一版，据作者猜测应该是 Yoder 提出的：[https://twitter.com/deliciousbamboo/status/659912242805104640](https://twitter.com/deliciousbamboo/status/659912242805104640)
+* 注4：格林斯潘第十定律是计算机编程领域，尤其是编程语言领域的一句格言：「任何 C 或 Fortran 程序复杂到一定程度之后，都会包含一个临时开发的、不合规范的、充满程序错误的、运行速度很慢的、只有一半功能的 Common Lisp 实现。」这表现了 Lisp 语言的灵活性和可扩展性，它包含了理论上编写复杂计算机程序需要的所有功能。而其他编程语言的核心实现却不能提供开发复杂程序的关键性功能支持。[https://zh.wikipedia.org/wiki/%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E7%AC%AC%E5%8D%81%E5%AE%9A%E5%BE%8B](https://zh.wikipedia.org/wiki/%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E7%AC%AC%E5%8D%81%E5%AE%9A%E5%BE%8B) 

@@ -56,9 +56,9 @@ Youtube 视频地址：[https://www.youtube.com/watch?v=SkAAl7ERZPo](https://www
 这就是[塔夫斯大学](http://hrilab.tufts.edu/)（美国一大学名）一组研究人员希望完成的结果，他们在开发一种机制，让机器人拒绝接收人类的命令，只是要有充足的理由：
 
 
-<blockquote>「现在，我们探讨一下所有这些因素在实践中的运作过程，即人类和机器人的真实交互。总体目标，除了教机器人什么时候应该（以及不应该）服从命令，还要提供一种框架，让机器人能够有效地沟通它拒绝某条命令的理由。这很重要，因为它允许人类提供额外的指令，或许能够满足某种把引起错误摆在首位的[适切条件](https://en.wikipedia.org/wiki/Felicity_conditions)。[note]转喻连接的力度与语用推理：我们认为言语行为和其适切条件（felicity conditions）都可由言语行为脚本来描写。但需要强调指出的是，言语行为脚本的部分转喻整个脚本的力度是有差异的。[http://www.daixie.org.cn/wenshi/yuyanxue/40396.html](http://www.daixie.org.cn/wenshi/yuyanxue/40396.html) [/note]
+<blockquote>「现在，我们探讨一下所有这些因素在实践中的运作过程，即人类和机器人的真实交互。总体目标，除了教机器人什么时候应该（以及不应该）服从命令，还要提供一种框架，让机器人能够有效地沟通它拒绝某条命令的理由。这很重要，因为它允许人类提供额外的指令，或许能够满足某种把引起错误摆在首位的[适切条件](https://en.wikipedia.org/wiki/Felicity_conditions)。【注1】
 
-当人类命令可能导致伤害机器人本身时，机器人会无视命令，因此就颠倒了[机器人第二定律和第三定律](https://en.wikipedia.org/wiki/Laws_of_robotics#Isaac_Asimov.27s_.22Three_Laws_of_Robotics.22)[note]机器人三定律（Three Laws of Robotics）是科幻小说家艾萨克·阿西莫夫（Isaac Asimov）在他的机器人相关作品和其他机器人相关小说中为机器人设定的行为准则，是阿西莫夫除“心理史学”（Psychohistory）外另一个著名的虚构学说。[https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%AE%9A%E5%BE%8B](https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%AE%9A%E5%BE%8B) [/note]的顺序。
+当人类命令可能导致伤害机器人本身时，机器人会无视命令，因此就颠倒了[机器人第二定律和第三定律](https://en.wikipedia.org/wiki/Laws_of_robotics#Isaac_Asimov.27s_.22Three_Laws_of_Robotics.22)【注2】的顺序。
 
 我们正在设定能够毁灭人类的危险范例吗？是的，可能吧。但是，期望机器人完全服从它们接触到的所有人类的定律，也是不现实的：如果我们尽量用计算机和软件实现，就会导致大量的、带有毁灭性的混乱，并且机器人学的现在和未来就没有什么不同。」</blockquote>
 
@@ -72,3 +72,9 @@ Youtube 视频地址：[https://www.youtube.com/watch?v=SkAAl7ERZPo](https://www
 为什么？想想大脑训练设备、而非机器人管家。这样一种机器人将有希望让我保持警醒，我们的关系也不会递减到检查员 Clouseau 与 Cato 的那种水平：
 
 Youtube 视频地址：[https://www.youtube.com/watch?time_continue=50&v=S2l5Yt6LBfo](https://www.youtube.com/watch?time_continue=50&v=S2l5Yt6LBfo)
+
+
+### 注释
+
+* 注1：转喻连接的力度与语用推理：我们认为言语行为和其适切条件（felicity conditions）都可由言语行为脚本来描写。但需要强调指出的是，言语行为脚本的部分转喻整个脚本的力度是有差异的。[http://www.daixie.org.cn/wenshi/yuyanxue/40396.html](http://www.daixie.org.cn/wenshi/yuyanxue/40396.html) 
+* 注2：机器人三定律（Three Laws of Robotics）是科幻小说家艾萨克·阿西莫夫（Isaac Asimov）在他的机器人相关作品和其他机器人相关小说中为机器人设定的行为准则，是阿西莫夫除“心理史学”（Psychohistory）外另一个著名的虚构学说。[https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%AE%9A%E5%BE%8B](https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%AE%9A%E5%BE%8B) 

@@ -57,8 +57,13 @@ tags:
 
 在我做[自由职业者](http://www.labazhou.net/2016/03/how-i-used-writing-to-double-my-freelancing-rate-as-a-programmer/)初期，当人们听我说，我为自己工作时，很多人表示不解。和他们做的全职工作不同，尤其对于互联网而言。现在，自由职业者到处都是，我交往的人中，大部分人也在做同样的事情。
 
-为自己工作、发布数字产品、真正地在网上谋生，这就是自由职业，属于相对新颖的职业。人们对它知之甚少，没有数据、研究或信息（询问 Zoltar 预言家机器[note]A fortune teller machine is a type of amusement, which upon receiving credit gives out a card with a prediction of the reader's future. [https://en.wikipedia.org/wiki/Fortune_teller_machine](https://en.wikipedia.org/wiki/Fortune_teller_machine) [/note]的除外），来告诉我们未来几十年会是什么样子。
+为自己工作、发布数字产品、真正地在网上谋生，这就是自由职业，属于相对新颖的职业。人们对它知之甚少，没有数据、研究或信息（询问 Zoltar 预言家机器【注1】的除外），来告诉我们未来几十年会是什么样子。
 
 你有长期规划吗？有退出策略吗？有关于增长、适应和发展的指导吗？你有想过，20 年里你会在哪里、做什么工作吗？或者，你对那份工作还感到满意吗？
 
 我正在做。即使我现阶段没有答案，也要开始探索我目前所走的道路。
+
+
+### 注释
+
+* 注1：A fortune teller machine is a type of amusement, which upon receiving credit gives out a card with a prediction of the reader's future. [https://en.wikipedia.org/wiki/Fortune_teller_machine](https://en.wikipedia.org/wiki/Fortune_teller_machine) 

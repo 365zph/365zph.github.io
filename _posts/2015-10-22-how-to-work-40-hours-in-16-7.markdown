@@ -61,7 +61,7 @@ _以前，我每周工作时间实在太多了------60、80、甚至 100 小时�
 
 [![进入番茄工作法](http://www.labazhou.net/wp-content/uploads/2015/10/1-DnPiEW4JwqB-jGsH34UsSQ-600x336.jpeg)](http://www.labazhou.net/wp-content/uploads/2015/10/1-DnPiEW4JwqB-jGsH34UsSQ.jpeg)
 
-多年前，我听到过一个时间管理方法，名叫番茄工作法[note]番茄工作法（英语：Pomodoro Technique）是一种时间管理法方法，在上世纪八十年代由Francesco Cirillo创立。该方法使用一个定时器来分割出一个一般为25分钟的工作时间和5分钟的休息时间，而那些时间段被称为pomodori，为意大利语单词 pomodoro（中文：番茄）之复数。[https://zh.wikipedia.org/wiki/%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95](https://zh.wikipedia.org/wiki/%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95) [/note]。貌似过于简单，但是正如人们说的，最简单的东西往往最好使。
+多年前，我听到过一个时间管理方法，名叫番茄工作法【注1】。貌似过于简单，但是正如人们说的，最简单的东西往往最好使。
 
 我阅读了其创立者 Francesco Cirillo [在 2006 年发布的论文](http://caps.ucsd.edu/Downloads/tx_forms/koch/pomodoro_handouts/ThePomodoroTechnique_v1-3.pdf)，文章解释了这种方法，重要的是，还有背后所蕴藏的心理学。这套革命性的时间管理系统易于上手，但是只有应用得当才能改变生活。[番茄工作法](http://pomodorotechnique.com/)能够被分解为下面四个基本原则。
 
@@ -234,3 +234,8 @@ _以前，我每周工作时间实在太多了------60、80、甚至 100 小时�
 这份指导详细解释了我的简单工作方法，包括工作表格、工具和资源，你可以打印出来使用。
 
 [![番茄工作法追踪表格](http://www.labazhou.net/wp-content/uploads/2015/10/1-ZJH9nxkuNCOqsgn8R7YUuA-600x290.png)](http://www.labazhou.net/wp-content/uploads/2015/10/1-ZJH9nxkuNCOqsgn8R7YUuA.png)
+
+
+### 注释
+
+* 注1：番茄工作法（英语：Pomodoro Technique）是一种时间管理法方法，在上世纪八十年代由Francesco Cirillo创立。该方法使用一个定时器来分割出一个一般为25分钟的工作时间和5分钟的休息时间，而那些时间段被称为pomodori，为意大利语单词 pomodoro（中文：番茄）之复数。[https://zh.wikipedia.org/wiki/%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95](https://zh.wikipedia.org/wiki/%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95) 

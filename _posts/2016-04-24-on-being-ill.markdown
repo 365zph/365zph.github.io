@@ -34,13 +34,13 @@ tags:
 
 如果你看到了本文，那么我有可能在浴缸里。
 
-如果你正和我通电话，我可能在浴缸里。如果我说我正在看书、写作、标记《新英格兰医学杂志》[note]新英格兰医学杂志（英语：The New England Journal of Medicine；简称 NEJM）是由麻省医学协会所出版的同行评审性质之医学期刊。它也是一种目前全世界最受欢迎，及广受阅读的同侪审阅性质之综合性医学期刊。[https://zh.wikipedia.org/wiki/%E6%96%B0%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8C%BB%E5%AD%A6%E6%9D%82%E5%BF%97](https://zh.wikipedia.org/wiki/%E6%96%B0%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8C%BB%E5%AD%A6%E6%9D%82%E5%BF%97) [/note]的过期刊物、品茶、为我的狗狗敲着 JAY Z[note]JAY Z（1969年12月4日－），本名萧恩·蔻利·卡特（Shawn Corey Carter），是一个美国嘻哈音乐艺术家、企业家。他的艺名原本为Jay-Z，但在2013年7月改写成”JAY Z”。[https://zh.wikipedia.org/wiki/Jay_Z](https://zh.wikipedia.org/wiki/Jay_Z) [/note] 的歌曲------那么，我可能是在盛满热水的浴缸里做着这些事情。
+如果你正和我通电话，我可能在浴缸里。如果我说我正在看书、写作、标记《新英格兰医学杂志》【注1】的过期刊物、品茶、为我的狗狗敲着 JAY Z【注2】 的歌曲------那么，我可能是在盛满热水的浴缸里做着这些事情。
 
 我身体一直处于疼痛之中。每天醒来，我的骨盆像灌了铅，伴随着抽搐的巨大疼痛。不管我坐着、还是躺着、走着、伸展身体，都能感到身体内部像是有块石头，吊在纤维模样的铰链上，来回摆动，导致韧带过度拉伸，这种撕裂感让我痛苦万分。
 
 阵痛感和刺痛感，让我恶心、心力憔悴。这已经成为我这 5 年来生活的一部分。5 年！5 年来，我一直带着它，极不情愿地接受这一现实。
 
-你或许没有见过，如果你和我的生活有那么一些联系，你迟早会碰到。当我们喝咖啡时，我的脸会突然扭曲，我抓住桌子边缘，道歉，取消计划，推开饭店里微烹[note]菜單分成三部份：生食（simply raw）、微烹(barely touched)與熱主菜。http://beccco.blogspot.jp/2008/04/le-bernardin-nyc.html [/note]的菜，尽管我们想尝这道菜有好几个月了，不适时地保持沉默。我推开了你的手，扭过头。
+你或许没有见过，如果你和我的生活有那么一些联系，你迟早会碰到。当我们喝咖啡时，我的脸会突然扭曲，我抓住桌子边缘，道歉，取消计划，推开饭店里微烹【注3】的菜，尽管我们想尝这道菜有好几个月了，不适时地保持沉默。我推开了你的手，扭过头。
 
 你，某天醒来，想起------我好几星期没听到 Abby 的声音了。而我，某天醒来，想到的是，我这几天没有说过话了。
 
@@ -66,11 +66,11 @@ tags:
 
 后来，我发现，当水温降下来时，我还在浴缸里，因为我十分不想出来。我跳过舞，曾经强壮的双腿开始变弱，我上半身的肌肉开始萎缩。四肢永远带着淤青，几周前做了一次报告，因为长时间站立，脚趾发黑。每当我挪动位置，我就头晕得厉害，呼吸急促------所谓的[起立性低血压](http://www.merckmanuals.com/professional/cardiovascular-disorders/symptoms-of-cardiovascular-disorders/orthostatic-hypotension)。当你站起来时，血压骤降；有时候，也会倒地，重重地摔在地板上，再次受伤或出血。
 
-和大部分长期疾病一样，子宫内膜异位不会单独出现；子宫内膜异位的女性[更倾向于患有自体免疫性疾病](http://humrep.oxfordjournals.org/content/17/10/2715.full)[note]自体免疫性疾病（Autoimmune disease），亦作自体免疫问题，是一种人体内自己的免疫系统攻击自己身体正常细胞的疾病，就是正常的免疫能力下降，而异常的免疫能力却突显的一种问题。[https://zh.wikipedia.org/wiki/%E8%87%AA%E9%AB%94%E5%85%8D%E7%96%AB%E6%80%A7%E7%96%BE%E7%97%85](https://zh.wikipedia.org/wiki/%E8%87%AA%E9%AB%94%E5%85%8D%E7%96%AB%E6%80%A7%E7%96%BE%E7%97%85) [/note]。
+和大部分长期疾病一样，子宫内膜异位不会单独出现；子宫内膜异位的女性[更倾向于患有自体免疫性疾病](http://humrep.oxfordjournals.org/content/17/10/2715.full)【注4】。
 
-极为疼痛的情形有[间质性膀胱炎](http://emedicine.medscape.com/article/2055505-overview)[note]间质性膀胱炎（Interstitial cystitis ，IC）是一种原因不明的膀胱疾病，其病征是频尿（通常每10分钟一次）、尿急，与骨盆或是膀胱感到压力或疼痛。[https://zh.wikipedia.org/wiki/%E9%96%93%E8%B3%AA%E6%80%A7%E8%86%80%E8%83%B1%E7%82%8E](https://zh.wikipedia.org/wiki/%E9%96%93%E8%B3%AA%E6%80%A7%E8%86%80%E8%83%B1%E7%82%8E) [/note]、肠胃病和不孕症，或许都是子宫内膜异位引起的。
+极为疼痛的情形有[间质性膀胱炎](http://emedicine.medscape.com/article/2055505-overview)【注5】、肠胃病和不孕症，或许都是子宫内膜异位引起的。
 
-我一直怀疑患有潜在的自体免疫性疾病，我的医生也有同样看法，她认为根源或许在于我的肾上腺，即爱迪生氏病[note]爱迪生氏病（Addison's disease），即原发性肾上腺功能不足（primary adrenal insufficiency），是肾上腺无法分泌足够的皮质醇所引发的疾病。爱迪生氏病的症状微小不易诊断，常见症状包含疲倦、直立时头晕、头痛、肌肉无力、站立困难、发烧、体重减轻、焦躁、头晕呕吐、腹泻、多汗、人格/情绪变化、关节及肌肉疼痛。部分病患会因为尿液排泄过多钠而追求重咸饮食。高色素沉着的现像增加。[https://zh.wikipedia.org/wiki/%E6%84%9B%E8%BF%AA%E7%94%9F%E6%B0%8F%E7%97%85](https://zh.wikipedia.org/wiki/%E6%84%9B%E8%BF%AA%E7%94%9F%E6%B0%8F%E7%97%85) [/note]。
+我一直怀疑患有潜在的自体免疫性疾病，我的医生也有同样看法，她认为根源或许在于我的肾上腺，即爱迪生氏病【注6】。
 
 貌似子宫内膜异位本身不够明显；尤其是新研究发现，这种疾病会[增加心脏病的风险](http://endometriosisnews.com/2016/04/01/new-study-links-endometriosis-to-higher-risk-of-heart-disease/)。
 
@@ -127,4 +127,15 @@ tags:
 ### 作者简介
 
 
-Abby Norman 只是 [Twitter](http://www.twitter.com/notabbynormal) 上又一名作家/无知者。她的自传《FLARE》即将由 Nation Books 出版，她的代理人是 Tisse Takagi。Abby Norman 和她的狗狗生活在新英格兰地区，环境非常类似于《灰色花园》[note]《灰色花园》（Grey Gardens），是一部2009年由HBO制作的电视电影，改编自1975年著名的同名记录片，以回忆和记录片拍摄者角度讲述一对同名母女的生平和她们的住所灰色花园的故事。[https://zh.wikipedia.org/wiki/%E7%81%B0%E8%89%B2%E8%8A%B1%E5%9C%92_(2009%E5%B9%B4%E9%9B%BB%E5%BD%B1)](https://zh.wikipedia.org/wiki/%E7%81%B0%E8%89%B2%E8%8A%B1%E5%9C%92_(2009%E5%B9%B4%E9%9B%BB%E5%BD%B1)) [/note]。
+Abby Norman 只是 [Twitter](http://www.twitter.com/notabbynormal) 上又一名作家/无知者。她的自传《FLARE》即将由 Nation Books 出版，她的代理人是 Tisse Takagi。Abby Norman 和她的狗狗生活在新英格兰地区，环境非常类似于《灰色花园》【注7】。
+
+
+### 注释
+
+* 注1：新英格兰医学杂志（英语：The New England Journal of Medicine；简称 NEJM）是由麻省医学协会所出版的同行评审性质之医学期刊。它也是一种目前全世界最受欢迎，及广受阅读的同侪审阅性质之综合性医学期刊。[https://zh.wikipedia.org/wiki/%E6%96%B0%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8C%BB%E5%AD%A6%E6%9D%82%E5%BF%97](https://zh.wikipedia.org/wiki/%E6%96%B0%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8C%BB%E5%AD%A6%E6%9D%82%E5%BF%97) 
+* 注2：JAY Z（1969年12月4日－），本名萧恩·蔻利·卡特（Shawn Corey Carter），是一个美国嘻哈音乐艺术家、企业家。他的艺名原本为Jay-Z，但在2013年7月改写成”JAY Z”。[https://zh.wikipedia.org/wiki/Jay_Z](https://zh.wikipedia.org/wiki/Jay_Z) 
+* 注3：菜單分成三部份：生食（simply raw）、微烹(barely touched)與熱主菜。http://beccco.blogspot.jp/2008/04/le-bernardin-nyc.html 
+* 注4：自体免疫性疾病（Autoimmune disease），亦作自体免疫问题，是一种人体内自己的免疫系统攻击自己身体正常细胞的疾病，就是正常的免疫能力下降，而异常的免疫能力却突显的一种问题。[https://zh.wikipedia.org/wiki/%E8%87%AA%E9%AB%94%E5%85%8D%E7%96%AB%E6%80%A7%E7%96%BE%E7%97%85](https://zh.wikipedia.org/wiki/%E8%87%AA%E9%AB%94%E5%85%8D%E7%96%AB%E6%80%A7%E7%96%BE%E7%97%85) 
+* 注5：间质性膀胱炎（Interstitial cystitis ，IC）是一种原因不明的膀胱疾病，其病征是频尿（通常每10分钟一次）、尿急，与骨盆或是膀胱感到压力或疼痛。[https://zh.wikipedia.org/wiki/%E9%96%93%E8%B3%AA%E6%80%A7%E8%86%80%E8%83%B1%E7%82%8E](https://zh.wikipedia.org/wiki/%E9%96%93%E8%B3%AA%E6%80%A7%E8%86%80%E8%83%B1%E7%82%8E) 
+* 注6：爱迪生氏病（Addison's disease），即原发性肾上腺功能不足（primary adrenal insufficiency），是肾上腺无法分泌足够的皮质醇所引发的疾病。爱迪生氏病的症状微小不易诊断，常见症状包含疲倦、直立时头晕、头痛、肌肉无力、站立困难、发烧、体重减轻、焦躁、头晕呕吐、腹泻、多汗、人格/情绪变化、关节及肌肉疼痛。部分病患会因为尿液排泄过多钠而追求重咸饮食。高色素沉着的现像增加。[https://zh.wikipedia.org/wiki/%E6%84%9B%E8%BF%AA%E7%94%9F%E6%B0%8F%E7%97%85](https://zh.wikipedia.org/wiki/%E6%84%9B%E8%BF%AA%E7%94%9F%E6%B0%8F%E7%97%85) 
+* 注7：《灰色花园》（Grey Gardens），是一部2009年由HBO制作的电视电影，改编自1975年著名的同名记录片，以回忆和记录片拍摄者角度讲述一对同名母女的生平和她们的住所灰色花园的故事。[https://zh.wikipedia.org/wiki/%E7%81%B0%E8%89%B2%E8%8A%B1%E5%9C%92_(2009%E5%B9%B4%E9%9B%BB%E5%BD%B1)](https://zh.wikipedia.org/wiki/%E7%81%B0%E8%89%B2%E8%8A%B1%E5%9C%92_(2009%E5%B9%B4%E9%9B%BB%E5%BD%B1)) 

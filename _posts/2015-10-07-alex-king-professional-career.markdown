@@ -48,7 +48,7 @@ tags:
 ### 长话短说
 
 
-我涉足数字版面设计[note]版面设计，又称为版式设计，是平面设计中的一大分支，主要指运用造型要素及形式原理，对版面内的文字字体、图像图形、线条、表格、色块等要素，按照一定的要求进行编排，并以视觉方式艺术地表达出来，并通过对这些要素的编排，使观看者直觉的感受到某些要传递的意思。[https://zh.wikipedia.org/wiki/%E7%89%88%E9%9D%A2%E8%AE%BE%E8%AE%A1](https://zh.wikipedia.org/wiki/%E7%89%88%E9%9D%A2%E8%AE%BE%E8%AE%A1)[/note]是在高中报纸行业，这个兴趣让我在 1990 年代中期恶补了 web 设计方面的知识。我在 1990 年代末期就成了一把老手，并在旧金山湾区做企业 web 软件相关的 UI 设计和开发，一做就是五年。在那段时间，我还启动了这个网站，并帮助 b2 变成了如今的 WordPress。然后我搬到了科罗拉多州丹佛市，开始自己创业。我创立并卖掉了我自己的 web 软件、与人合伙创办了一家 feed reading 的创业公司、最终开办了一家名叫 Crowd Favorite 的 web 开发机构。在运作 Crowd Favorite 七年之后，员工增长到 17 名，我在 2014 年卖掉了这项业务。我一直在这家公司逗留到 2015 年，此后，我再次成为一名[独立开发者](http://monarchyllc.com/)。
+我涉足数字版面设计【注1】是在高中报纸行业，这个兴趣让我在 1990 年代中期恶补了 web 设计方面的知识。我在 1990 年代末期就成了一把老手，并在旧金山湾区做企业 web 软件相关的 UI 设计和开发，一做就是五年。在那段时间，我还启动了这个网站，并帮助 b2 变成了如今的 WordPress。然后我搬到了科罗拉多州丹佛市，开始自己创业。我创立并卖掉了我自己的 web 软件、与人合伙创办了一家 feed reading 的创业公司、最终开办了一家名叫 Crowd Favorite 的 web 开发机构。在运作 Crowd Favorite 七年之后，员工增长到 17 名，我在 2014 年卖掉了这项业务。我一直在这家公司逗留到 2015 年，此后，我再次成为一名[独立开发者](http://monarchyllc.com/)。
 
 
 ### 好吧，是有点儿简练------听我慢慢道来
@@ -98,7 +98,7 @@ tags:
 
 对于 Octane 的应用程序团队，我是第一名被雇佣进来的，但是我们扩张很快。当大约两年后，公司被 E.piphany 收购时，价格破了记录，达到 38 亿美元，应用程序团队大约有 25 人，公司总人数从约 25个 增加到了约 350 个。此次收购是一个让人着迷的过程。很多地方有重叠，我看到很多人因此而离开了公司。我还看到了很多 Octane 的领导们支持 E.piphany 的领导层。我在各轮裁员中幸存下来，2 年后成为合并后的公司。
 
-就是在 E.piphany，我首次接触了博客的概念。我在 E.piphany 的 UI 领导是一位名叫 Eric Cheng 的家伙。他有一个个人站点和博客，由他维护，他还维护着一家外包公司的博客。Eric 是一位优秀的摄影师，非常有趣的是，通读文章的历史，并且从各种事件中查看图片。正是 Eric 的博客激发我去创建属于自己的博客。我一直都在鼓捣着 PHP 和 MySQL，因此我被吸引到了 b2[note]2003年5月27日，WordPress从b2/cafelog分支，由马特·查尔斯·穆伦维格（Matt Mullenweg）和Mike Little开发。[https://zh.wikipedia.org/wiki/WordPress](https://zh.wikipedia.org/wiki/WordPress)[/note]，它是使用这些技术的博客系统。我创建我的网站，开始为其开发插件，并发布到 b2 社区。不久，b2 变成了 WordPress（这包含了我的一些代码）。
+就是在 E.piphany，我首次接触了博客的概念。我在 E.piphany 的 UI 领导是一位名叫 Eric Cheng 的家伙。他有一个个人站点和博客，由他维护，他还维护着一家外包公司的博客。Eric 是一位优秀的摄影师，非常有趣的是，通读文章的历史，并且从各种事件中查看图片。正是 Eric 的博客激发我去创建属于自己的博客。我一直都在鼓捣着 PHP 和 MySQL，因此我被吸引到了 b2【注2】，它是使用这些技术的博客系统。我创建我的网站，开始为其开发插件，并发布到 b2 社区。不久，b2 变成了 WordPress（这包含了我的一些代码）。
 
 我自己开始利用晚上和周末时间，开发基于 web 的图片数据库。我开始深入数字摄影，我想对我的照片进行归类。我学习越来越多的开发，并和 WordPress 使用的 PHP 和 MySQL 一样的技术，开发这个图片数据库。所有这些东西都可以从我的网站免费获取。当我开发时，我还在良好地执行有趣想法方面，收获了名声。
 
@@ -136,7 +136,7 @@ tags:
 
 最后我和朋友 [Adam Tow](http://tow.com/) 建立了这个网站，使用了旧金山的 [Mule Design](http://muledesign.com/) 提供的设计。这个站点成功登陆了 WordPress.com 的商业托管平台。在这一点上，我再次打算回到我要专注的 Tasks Pro 软件上。
 
-AllThingsD 网站的成功，伴随着「WordPress as a CMS」[note]把 WordPress 变成一套 CMS，涉及到个性化主题以及可能的管理面板，这需要用到编程和 WordPress 插件。然而，你不必是 XHTML、CSS 或 PHP 方面的专家，它就能胜任。所有这些都是可选的，你能够使用一种或任意组合把 WordPress 变成一套 CMS。[https://codex.wordpress.org/User:Lastnode/Wordpress_CMS](https://codex.wordpress.org/User:Lastnode/Wordpress_CMS)[/note]兴趣的扩大，导致了更多的人来到我的数字化大门。从 2004 年起，我在我的博客上写了关于「WordPress as a CMS」、以及我成功将其用在 AllThingsD 网站上的文章------我一不小心完美地让自己做了一个姿态，很多人想把「WordPress as a CMS」用在各种有意思的项目上。
+AllThingsD 网站的成功，伴随着「WordPress as a CMS」【注3】兴趣的扩大，导致了更多的人来到我的数字化大门。从 2004 年起，我在我的博客上写了关于「WordPress as a CMS」、以及我成功将其用在 AllThingsD 网站上的文章------我一不小心完美地让自己做了一个姿态，很多人想把「WordPress as a CMS」用在各种有意思的项目上。
 
 我从来没有正式声明我自己是顾问，然而，我在网站上留有联系方式。除了 AllThingsD 网站，我还把一些 WordPress 插件做为付费项目。很快，我在一天之内就能收到多次请求，多数和 WordPress 的某些方式、外观或形式有关。这些潜在客户和项目非常有趣，我突然到了一种境地，时间和精力成了我的限制因素。我决定，我尝试[雇佣别人](http://alexking.org/blog/2007/05/21/introducing-eric-miller)。
 
@@ -162,7 +162,7 @@ AllThingsD 网站的成功，伴随着「WordPress as a CMS」[note]把 WordPres
 
 说下我在 Crowd Favorite 作为技术领导的角色，管理我们所有的项目，确保我们用聪明、可重复的方式解决问题。我们的 Carrington 产品就是一个例子，它能够识别重叠、以及可用系统方式解决的问题（或问题的一些方面），然后生成优雅的解决方案。
 
-在 2011 年，我们[推出了又一个商业化的 WordPress 产品，RAMP](http://alexking.org/blog/2011/07/20/ramp-content-deploy-wordpress)。和我们的 Carrington 产品不同，RAMP 的想法来自一名客户、而不是我们发现的需求。这名客户使用了 Drupal 平台上面的一个工具，它支持数据迁移，因此想要 WordPress 下的同等工具，然后将数据从一个实例迁移到另一个实例（为了方便在准生产环境下[note]The staging phase of the software life-cycle is often tested in an environment (hardware and software) that mirrors that of the production environment. The staging site is often different from the development site, and provides a QA zone that is separate from the development and production environments. [https://en.wikipedia.org/wiki/Staging_site](https://en.wikipedia.org/wiki/Staging_site) [/note]创建内容，我们有选择地将这些修改推到产品里）。因为种种原因，为 WordPress 开发类似的东西，总是一个重大的技术挑战。我们几乎没有能够覆盖开发成本的预算，但是我们认为这个想法有意思，我们能够使之成功出现在商业化产品上。正如我在 2015 年所写到的，RAMP 仍然是 WordPress 同类产品的唯一工具。
+在 2011 年，我们[推出了又一个商业化的 WordPress 产品，RAMP](http://alexking.org/blog/2011/07/20/ramp-content-deploy-wordpress)。和我们的 Carrington 产品不同，RAMP 的想法来自一名客户、而不是我们发现的需求。这名客户使用了 Drupal 平台上面的一个工具，它支持数据迁移，因此想要 WordPress 下的同等工具，然后将数据从一个实例迁移到另一个实例（为了方便在准生产环境下【注4】创建内容，我们有选择地将这些修改推到产品里）。因为种种原因，为 WordPress 开发类似的东西，总是一个重大的技术挑战。我们几乎没有能够覆盖开发成本的预算，但是我们认为这个想法有意思，我们能够使之成功出现在商业化产品上。正如我在 2015 年所写到的，RAMP 仍然是 WordPress 同类产品的唯一工具。
 
 我们也持续开发着内部工具集，创建了一套 Capistrano 工具，让开发者更容易地配置本地项目环境，并部署到生产环境。经过短暂优化，我们最终以开源协议，[免费发布](http://alexking.org/blog/2013/07/17/introducing-ruby-gems-capistrano-wp-and-steps)到了开发者社区。
 
@@ -251,3 +251,11 @@ alexking.org 第三版与 2011-8 发布。主题是 [FavePersonal](http://crowdf
 [![alexking.org](http://www.labazhou.net/wp-content/uploads/2015/10/alexking-org-002-290x474-@2x-367x600.png)](http://www.labazhou.net/wp-content/uploads/2015/10/alexking-org-002-290x474-@2x.png)
 
 [![alexking.org](http://www.labazhou.net/wp-content/uploads/2015/10/alexking-org-004a-94x474-@2x.png)](http://www.labazhou.net/wp-content/uploads/2015/10/alexking-org-004a-94x474-@2x.png)
+
+
+### 注释
+
+* 注1：版面设计，又称为版式设计，是平面设计中的一大分支，主要指运用造型要素及形式原理，对版面内的文字字体、图像图形、线条、表格、色块等要素，按照一定的要求进行编排，并以视觉方式艺术地表达出来，并通过对这些要素的编排，使观看者直觉的感受到某些要传递的意思。[https://zh.wikipedia.org/wiki/%E7%89%88%E9%9D%A2%E8%AE%BE%E8%AE%A1](https://zh.wikipedia.org/wiki/%E7%89%88%E9%9D%A2%E8%AE%BE%E8%AE%A1)
+* 注2：2003年5月27日，WordPress从b2/cafelog分支，由马特·查尔斯·穆伦维格（Matt Mullenweg）和Mike Little开发。[https://zh.wikipedia.org/wiki/WordPress](https://zh.wikipedia.org/wiki/WordPress)
+* 注3：把 WordPress 变成一套 CMS，涉及到个性化主题以及可能的管理面板，这需要用到编程和 WordPress 插件。然而，你不必是 XHTML、CSS 或 PHP 方面的专家，它就能胜任。所有这些都是可选的，你能够使用一种或任意组合把 WordPress 变成一套 CMS。[https://codex.wordpress.org/User:Lastnode/Wordpress_CMS](https://codex.wordpress.org/User:Lastnode/Wordpress_CMS)
+* 注4：The staging phase of the software life-cycle is often tested in an environment (hardware and software) that mirrors that of the production environment. The staging site is often different from the development site, and provides a QA zone that is separate from the development and production environments. [https://en.wikipedia.org/wiki/Staging_site](https://en.wikipedia.org/wiki/Staging_site) 

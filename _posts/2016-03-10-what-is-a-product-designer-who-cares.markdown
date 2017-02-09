@@ -41,7 +41,7 @@ tags:
 
 在过去的 15 年里，我有幸和很多设计师在各种项目中一起工作。我注意到，关于设计的命名频频发生着变化，但是这些名称的变化不一定反映出设计过程中的主要变化。从市场行情看，这些头衔趋向于体现出更宽泛的变化。
 
-在上世纪五、六十年代，杂志行业在转型。由于特殊兴趣杂志的兴起，公共兴趣杂志开始衰落，因此市场上出现了大量的杂志。在这次转型中，杂志之外也有很多地方发生着变化。我会略过历史教训，但是在上世纪五、六十年代，也是历史上经济飞速发展最长的时期（美国经济翻翻），需要记住，这个时期和本文话题是有关系的。人们工作更加努力，赚更多的钱，但是可支配的时间更少了。结果，杂志变成了传递娱乐、产品、文化和信息的专有媒介。设计师们希望被称作艺术指导（Art Director）[note]艺术指导（或艺术总监，art director）在广告、出版、电影和电视、网络，以及电玩产业中所负责的工作都十分类似。[https://zh.wikipedia.org/wiki/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1](https://zh.wikipedia.org/wiki/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1)[/note]或报刊设计师（Publication Designer），使得他们更为容易地从事其它职业，并从杂志行业复兴中获益。这些假名在十多年里饱受推崇。
+在上世纪五、六十年代，杂志行业在转型。由于特殊兴趣杂志的兴起，公共兴趣杂志开始衰落，因此市场上出现了大量的杂志。在这次转型中，杂志之外也有很多地方发生着变化。我会略过历史教训，但是在上世纪五、六十年代，也是历史上经济飞速发展最长的时期（美国经济翻翻），需要记住，这个时期和本文话题是有关系的。人们工作更加努力，赚更多的钱，但是可支配的时间更少了。结果，杂志变成了传递娱乐、产品、文化和信息的专有媒介。设计师们希望被称作艺术指导（Art Director）【注1】或报刊设计师（Publication Designer），使得他们更为容易地从事其它职业，并从杂志行业复兴中获益。这些假名在十多年里饱受推崇。
 
 在那个年代，最好的杂志融合了优秀的内容和伟大的设计。出版一本杂志，要付出十分艰辛的努力，每一期大约需要 4 个月（[参考杂志的历史](http://www.magazinedesigning.com/history-of-the-magazines/)）。像 Henry Wolfe 和 Alexey Brodovitch 之类的设计师，为那一代的艺术指导和报刊设计师铺平了道路，并经历了前所未有的成功。这两名设计师和今天设计「产品」的设计师没有什么不同。媒体不同了；最终结果不同了；但是为终端用户创造和设计一种尖叫的体验，仍然没有改变。以前，这些设计师工作的方式是具有意图、井井有条、以用户为中心、以及创新------这些特质也是我们今天对产品设计师的要求。所有优秀的设计都具备这些特质。下面左图是 Alexey Brodovitch 在确认版面设计，右图是当今最棒的产品设计师在查看线框图和便利贴。
 
@@ -55,11 +55,11 @@ tags:
 
 由于 Eliot Noyes 的工作成果，IBM 的 CEO Thomas Watson Jr. 后来宣称「[好设计就是好业务](http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/gooddesign/)」。这让我想明白了，为什么设计师的命名变化如此频繁：设计师改变不同的头衔，是因为这是好的业务。如果你是一名设计师，具有某个特殊兴趣，那么，很可能你在那个领域具备更多专长。很可能你想在符合兴趣的领域里工作。因此，为自己取一个独特的头衔，从营销角度看是合情合理的。设计师爱好发明这些头衔，尤其当某个头衔贴合于经济领域某个具体小众市场时。比如，如果你想帮助城市、为市民创建更好的体验，那么，你或许给自己冠以城市体验设计师（Civic Experience Designer，简写 CxD）。[或许已经出现了这种头衔](http://www.google.com/search?q=civic+experience+designer)？
 
-在 15-20 年前，大部分最优秀的产品设计师都算不上真正的产品设计师。他们中间有企业识别设计师[note]企业识别（英语：Corporate Identity），常简称为CI，一般指品牌的物理表现。通常来说，这一概念包含了标志（包括标准字和标准图形）和一系列配套设计。一套企业识别系统（Corporate Identity System；CIS）通常有特定的指引，用以指导和管理相关的设计的使用，如标准色、字体、页面布局等一系列品牌识别设计，以保持品牌形象的视觉连续性与稳定性。 [https://zh.wikipedia.org/wiki/%E4%BC%81%E4%B8%9A%E8%AF%86%E5%88%AB](https://zh.wikipedia.org/wiki/%E4%BC%81%E4%B8%9A%E8%AF%86%E5%88%AB) [/note]、信息架构、传媒设计师[note]传媒设计（Communication design）是一个关注包括印刷、手工、电子媒体或呈现手段在内的媒体如何与人进行交流的设计过程，是设计与信息建设的交叉学科。传媒设计途径不仅考虑媒体中除了美学外对信息的建立，同时也关注为了将信息传递给目标人群而创造新的媒体形态。[https://zh.wikipedia.org/wiki/%E4%BC%A0%E5%AA%92%E8%AE%BE%E8%AE%A1](https://zh.wikipedia.org/wiki/%E4%BC%A0%E5%AA%92%E8%AE%BE%E8%AE%A1) [/note]、交互设计师、工业设计师[note]工业设计（英语：Industrial Design）是以工学、美学、经济学为基础对工业产品进行的设计，它是20世纪初工业化社会的产物，其设计理念从产生之初的“形式随机能”发展到现今的“在符合各方面需求的基础上兼具特色”。[https://zh.wikipedia.org/wiki/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1](https://zh.wikipedia.org/wiki/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1) [/note]、或其它叫法。今后他们的头衔可能还会有变化。对于当下，市场已经决定了，做一名产品设计师是有利可图的。具有讽刺意味的是，市场不一定需要一大波带有产品设计师头衔（或其它头衔）的设计师。市场需要优秀的设计师，他们会关心用户、乐于发明、愿意迭代、和其他人良好协作。
+在 15-20 年前，大部分最优秀的产品设计师都算不上真正的产品设计师。他们中间有企业识别设计师【注2】、信息架构、传媒设计师【注3】、交互设计师、工业设计师【注4】、或其它叫法。今后他们的头衔可能还会有变化。对于当下，市场已经决定了，做一名产品设计师是有利可图的。具有讽刺意味的是，市场不一定需要一大波带有产品设计师头衔（或其它头衔）的设计师。市场需要优秀的设计师，他们会关心用户、乐于发明、愿意迭代、和其他人良好协作。
 
 [caption id="attachment_3170" align="alignnone" width="600"][![在 Radius 公司，不同设计的草图示例](http://www.labazhou.net/wp-content/uploads/2016/03/1_SlwCtu8L6UZ22Z77KRy1Xg-600x300.jpg)](http://www.labazhou.net/wp-content/uploads/2016/03/1_SlwCtu8L6UZ22Z77KRy1Xg.jpg) 在 Radius 公司，不同设计的草图示例[/caption]
 
-Donald Norman 在深受喜爱的《[设计心理学](http://www.amazon.com/gp/product/0465050654?keywords=design%20of%20everyday%20things&qid=1454603188&ref_=sr_1_1&sr=8-1)》[note]诺曼博士用诙谐的语言讲述了许多我们日常生活中常常会遇到的挫折和危险，帮我们找到了这些问题的关键，即产品设计忽略了使用者在一定情境中的真实需求，甚至违背了认知学原理。诺曼博士本书中强调以使用者为中心的设计哲学，提醒消费者在挑选的物品，必须要方便好用，易于理解，希望设计师在注重设计美感的同时，不要忽略设计的一些必要因素，因为对于产品设计来说，安全好用永远是竞争的关键。[http://book.douban.com/subject/4606471/](http://book.douban.com/subject/4606471/)[/note]一书中，谈到了设计：
+Donald Norman 在深受喜爱的《[设计心理学](http://www.amazon.com/gp/product/0465050654?keywords=design%20of%20everyday%20things&qid=1454603188&ref_=sr_1_1&sr=8-1)》【注5】一书中，谈到了设计：
 
 
 <blockquote>设计的确是一种沟通行为，意味着对设计师正在沟通的那个人，要有深入理解。</blockquote>
@@ -77,3 +77,12 @@ _本文大部分想法都源于我最近和一名同事展开的对话。我本�
 
 Photo Credits:
 [Alexy Brodovitch](http://www.aiga.org/medalist-alexeybrodovitch/) | [Google Ventures Sprint](http://thenextweb.com/google/2013/03/15/how-google-ventures-instills-design-into-the-heart-of-its-portfolio-companies/#gref) | [IBM Selectric](http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/selectric/)
+
+
+### 注释
+
+* 注1：艺术指导（或艺术总监，art director）在广告、出版、电影和电视、网络，以及电玩产业中所负责的工作都十分类似。[https://zh.wikipedia.org/wiki/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1](https://zh.wikipedia.org/wiki/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1)
+* 注2：企业识别（英语：Corporate Identity），常简称为CI，一般指品牌的物理表现。通常来说，这一概念包含了标志（包括标准字和标准图形）和一系列配套设计。一套企业识别系统（Corporate Identity System；CIS）通常有特定的指引，用以指导和管理相关的设计的使用，如标准色、字体、页面布局等一系列品牌识别设计，以保持品牌形象的视觉连续性与稳定性。 [https://zh.wikipedia.org/wiki/%E4%BC%81%E4%B8%9A%E8%AF%86%E5%88%AB](https://zh.wikipedia.org/wiki/%E4%BC%81%E4%B8%9A%E8%AF%86%E5%88%AB) 
+* 注3：传媒设计（Communication design）是一个关注包括印刷、手工、电子媒体或呈现手段在内的媒体如何与人进行交流的设计过程，是设计与信息建设的交叉学科。传媒设计途径不仅考虑媒体中除了美学外对信息的建立，同时也关注为了将信息传递给目标人群而创造新的媒体形态。[https://zh.wikipedia.org/wiki/%E4%BC%A0%E5%AA%92%E8%AE%BE%E8%AE%A1](https://zh.wikipedia.org/wiki/%E4%BC%A0%E5%AA%92%E8%AE%BE%E8%AE%A1) 
+* 注4：工业设计（英语：Industrial Design）是以工学、美学、经济学为基础对工业产品进行的设计，它是20世纪初工业化社会的产物，其设计理念从产生之初的“形式随机能”发展到现今的“在符合各方面需求的基础上兼具特色”。[https://zh.wikipedia.org/wiki/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1](https://zh.wikipedia.org/wiki/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1) 
+* 注5：诺曼博士用诙谐的语言讲述了许多我们日常生活中常常会遇到的挫折和危险，帮我们找到了这些问题的关键，即产品设计忽略了使用者在一定情境中的真实需求，甚至违背了认知学原理。诺曼博士本书中强调以使用者为中心的设计哲学，提醒消费者在挑选的物品，必须要方便好用，易于理解，希望设计师在注重设计美感的同时，不要忽略设计的一些必要因素，因为对于产品设计来说，安全好用永远是竞争的关键。[http://book.douban.com/subject/4606471/](http://book.douban.com/subject/4606471/)

@@ -38,7 +38,7 @@ tags:
 
 倾听故事、倾听观点、倾听问及你的问题、倾听耳目所及的话语。
 
-故事常常来自于不太可能出现的地方。几天前，我开车时正在收听 Q（如果你来自加拿大，就明白我在说什么了），The Lumineers[note]The Lumineers是一支来自美国的民谣摇滚乐队，由主唱兼吉他手Wesley Schultz、鼓手Jeremiah Fraites和大提琴手Neyla Pekarek组成。首张专辑“The Lumineers”于2012年4月3日发行，最终在2013年1月在Billboard专辑榜上获得亚军，在美国、英国、澳大利亚、加拿大获得“金唱片”认证，在爱尔兰获得“白金唱片”认证。2012年12月5日，The Lumineers获得第55届格莱美奖最佳新人奖和最佳美国专辑奖两项提名。[https://site.douban.com/thelumineers/](https://site.douban.com/thelumineers/) [/note] 乐队正在讨论他们最新专辑，以及专辑同名主打歌「Cleopatra」的故事。
+故事常常来自于不太可能出现的地方。几天前，我开车时正在收听 Q（如果你来自加拿大，就明白我在说什么了），The Lumineers【注1】 乐队正在讨论他们最新专辑，以及专辑同名主打歌「Cleopatra」的故事。
 
 提到了格鲁吉亚第一名女出租车司机的凄美故事。她父亲去世那天，她男朋友向她求婚。她又震惊、又悲伤，以致于不置可否。男朋友将其误解为「拒绝」，就走出了她的房子，地板上留下了他靴子上的一串泥脚印。她从未擦掉这些泥巴，再也看不到他了，由于不合时宜而失去了毕生的爱情，从而悔恨不已。对于她所失去的东西，一直无法释怀。
 
@@ -81,3 +81,8 @@ Creative Class（我的第一节课）开始了，因为我每天至少要收到
 收听我的播客《[The Freelancer](https://itunes.apple.com/us/podcast/the-freelancer/id1037145052?mt=2)》：每周一次，时间不长。我讨论的话题和本文类似。没有客套、没有 15 分钟的介绍，只有我的、带有浓重鼻音的嗓音，和你分享一些故事。
 
 ![Paul Jarvis 的播客](http://www.labazhou.net/wp-content/uploads/2016/05/7c3e4caf-74e6-4c20-bcf2-d7bdf6fd6b2e-600x353.png)
+
+
+### 注释
+
+* 注1：The Lumineers是一支来自美国的民谣摇滚乐队，由主唱兼吉他手Wesley Schultz、鼓手Jeremiah Fraites和大提琴手Neyla Pekarek组成。首张专辑“The Lumineers”于2012年4月3日发行，最终在2013年1月在Billboard专辑榜上获得亚军，在美国、英国、澳大利亚、加拿大获得“金唱片”认证，在爱尔兰获得“白金唱片”认证。2012年12月5日，The Lumineers获得第55届格莱美奖最佳新人奖和最佳美国专辑奖两项提名。[https://site.douban.com/thelumineers/](https://site.douban.com/thelumineers/) 

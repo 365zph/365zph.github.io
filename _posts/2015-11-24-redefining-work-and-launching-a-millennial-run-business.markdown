@@ -45,10 +45,10 @@ tags:
 不管什么理由，我知道，在我的同龄人中，我不是一个人在战斗。
 
 
-<blockquote>我是 Y 世代[note]Y世代，专指1981年～2000年出生的人。[https://zh.wikipedia.org/wiki/Y%E4%B8%96%E4%BB%A3](https://zh.wikipedia.org/wiki/Y%E4%B8%96%E4%BB%A3) [/note]。这一代人普遍反对把传统工作当做铁饭碗。这些疯狂的孩子们呼吁变革所有朝九晚五的事情。</blockquote>
+<blockquote>我是 Y 世代【注1】。这一代人普遍反对把传统工作当做铁饭碗。这些疯狂的孩子们呼吁变革所有朝九晚五的事情。</blockquote>
 
 
-不过，工作已经发生了变化，这就是现实。它已经向海外移动，到了中国和印度之类的地方，尽管如此，国内的技术已经支持我们外包每样工作，无论人力资源还是邮件传送。学生的负债让人难以想象，中产阶级已经消亡，地平线上看不到白马王子[note]"A Knight in Shining Armour"，指的是一個穿著銀白色閃亮盔甲的騎士。他的出現，往往是為了拯救陷入困境的少女（Damsel in Distress），他是少女們夢寐以求的英雄伴侶。這個語詞已經被專有化了，感覺上，和「夢中情人」、「白馬王子」的意思相當。除非有特別提到該「盔甲閃耀的騎士」的穿著、形象，或指涉其位階、身分，而不得不把「盔甲」、「閃耀」和「騎士」等詞譯出，否則「白馬王子」是意思相近的翻譯。[http://fafner-hideaway.blogspot.com/2011/01/knight-in-shining-armour.html](http://fafner-hideaway.blogspot.com/2011/01/knight-in-shining-armour.html) [/note]。
+不过，工作已经发生了变化，这就是现实。它已经向海外移动，到了中国和印度之类的地方，尽管如此，国内的技术已经支持我们外包每样工作，无论人力资源还是邮件传送。学生的负债让人难以想象，中产阶级已经消亡，地平线上看不到白马王子【注2】。
 
 「经济中的零部门正在朝着更多全职工人靠近。每项工作，要么削减、外包给国外，要么雇佣临时工。这些工作不仅仅是针对低收入的产业工人，还包括管理人员、计算机程序员、会计、律师，甚至高级执行人员」，James Altucher 说道，他是《Choose Yourself: Be Happy, Make Millions, Live the Dream》的作者。他的解决方案就是：选择你自己、躬行、专业、财务、情感和心灵。
 
@@ -63,3 +63,9 @@ tags:
 感谢你读到这里。
 
 本文首发于 Forbes.com。[点击这里](http://forbes.com/sites/andreawien)关注实时动态。
+
+
+### 注释
+
+* 注1：Y世代，专指1981年～2000年出生的人。[https://zh.wikipedia.org/wiki/Y%E4%B8%96%E4%BB%A3](https://zh.wikipedia.org/wiki/Y%E4%B8%96%E4%BB%A3) 
+* 注2："A Knight in Shining Armour"，指的是一個穿著銀白色閃亮盔甲的騎士。他的出現，往往是為了拯救陷入困境的少女（Damsel in Distress），他是少女們夢寐以求的英雄伴侶。這個語詞已經被專有化了，感覺上，和「夢中情人」、「白馬王子」的意思相當。除非有特別提到該「盔甲閃耀的騎士」的穿著、形象，或指涉其位階、身分，而不得不把「盔甲」、「閃耀」和「騎士」等詞譯出，否則「白馬王子」是意思相近的翻譯。[http://fafner-hideaway.blogspot.com/2011/01/knight-in-shining-armour.html](http://fafner-hideaway.blogspot.com/2011/01/knight-in-shining-armour.html) 

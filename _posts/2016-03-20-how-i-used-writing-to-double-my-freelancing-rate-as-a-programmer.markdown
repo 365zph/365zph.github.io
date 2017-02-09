@@ -162,7 +162,7 @@ tags:
 
 你还可以为客户及其员工撰写文档。在我为客户创建 WordPress 站点之后，我就开始撰写了，当我把他们的网站上线并祝他们好运时，他们茫然地盯着我，仿佛在问「WordPress 该怎么用呢？」。
 
-为了应付这种情况，我撰写了一份简短的手册「WordPress 基础」。还有，对于我用到的具体主题和插件，我还在手册里添加了注解（它们可以从之前的手册拷贝）。基于 WordPress 搭建的网站是一回事，但是一个 WordPress 网站 + 使用它来增长业务的手册，就完全算另一回事了。这有点儿像月亮石，让自由职业者 Pokeman 转型为顾问[note]"The Moon Stone evolves certain Pokemon, such as Clefairy."[http://www.crossroad.to/text/articles/pokemon5-99.html](http://www.crossroad.to/text/articles/pokemon5-99.html) [/note]。
+为了应付这种情况，我撰写了一份简短的手册「WordPress 基础」。还有，对于我用到的具体主题和插件，我还在手册里添加了注解（它们可以从之前的手册拷贝）。基于 WordPress 搭建的网站是一回事，但是一个 WordPress 网站 + 使用它来增长业务的手册，就完全算另一回事了。这有点儿像月亮石，让自由职业者 Pokeman 转型为顾问【注1】。
 
 
 #### 装着装着，你就像了
@@ -261,7 +261,7 @@ tags:
 
 如果你英语水平不高，也不要担心。现在你在互联网、而非大学，如果你没有学到合适的风格，不要担心，因为你不需要（你或许注意到，本文使用了更宽松的圆括号和省略号。还有，我认为，老师是不可能告诉你要使用项目列表符号、或加粗和倾斜）。
 
-我推荐找一份《[风格的要素](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?s=books&ie=UTF8&qid=1407851743&sr=1-1&keywords=the+elements+of+style)》[note]《全球英语写作经典:风格的要素(全新双色中英对照版)》一书完全尊重原书风格，主要包含了18条英语写作的用法和写作的一些基本原则或者在写作时需要注意的重要规则。中文版与英文版二书合一，一边学习英文写作，一边增进阅读能力，更超值！不只是写作指南，更是具跨界影响力的风格经典！用欧美人士的不朽经典学习最地道的英文写作，没读过《全球英语写作经典:风格的要素(全新双色中英对照版)》，别说你懂得英文写作！[https://book.douban.com/subject/10807960/](https://book.douban.com/subject/10807960/)[/note]，有空常翻翻。简短、清晰和优雅，属于永恒的；而与之相关的写作指导也不会有太大变化。
+我推荐找一份《[风格的要素](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?s=books&ie=UTF8&qid=1407851743&sr=1-1&keywords=the+elements+of+style)》【注2】，有空常翻翻。简短、清晰和优雅，属于永恒的；而与之相关的写作指导也不会有太大变化。
 
 
 ### 学以致用
@@ -310,3 +310,9 @@ tags:
 
 
 更新：我已经收集了一些模板和示例，希望有助于你着手这些技巧。请参考《[The Valuable Writing Package](http://glennstovall.com/valuable-writing-package/)》。
+
+
+### 注释
+
+* 注1："The Moon Stone evolves certain Pokemon, such as Clefairy."[http://www.crossroad.to/text/articles/pokemon5-99.html](http://www.crossroad.to/text/articles/pokemon5-99.html) 
+* 注2：《全球英语写作经典:风格的要素(全新双色中英对照版)》一书完全尊重原书风格，主要包含了18条英语写作的用法和写作的一些基本原则或者在写作时需要注意的重要规则。中文版与英文版二书合一，一边学习英文写作，一边增进阅读能力，更超值！不只是写作指南，更是具跨界影响力的风格经典！用欧美人士的不朽经典学习最地道的英文写作，没读过《全球英语写作经典:风格的要素(全新双色中英对照版)》，别说你懂得英文写作！[https://book.douban.com/subject/10807960/](https://book.douban.com/subject/10807960/)

@@ -45,7 +45,7 @@ JavaScript 诞生于混乱的年代，因此一些好的和坏的特性就构成
 ### 1.改变头等函数
 
 
-头等函数[note]头等函数（first-class function）是指在程序设计语言中，函数被当作头等公民。这意味着，函数可以作为别的函数的参数、函数的返回值，赋值给变量或存储在数据结构中。 有人主张应包括支持匿名函数（函数字面量，function literals）。在这样的语言中，函数的名字没有特殊含义，它们被当作具有函数类型的普通的变量对待。1960年代中期，克里斯托弗·斯特雷奇在“functions as first-class citizens”中提出这一概念。[https://zh.wikipedia.org/wiki/%E5%A4%B4%E7%AD%89%E5%87%BD%E6%95%B0](https://zh.wikipedia.org/wiki/%E5%A4%B4%E7%AD%89%E5%87%BD%E6%95%B0)[/note]将一门编程语言变成了成年人的乐高积木。简而言之，有了头等函数，意味着 JavaScript 能够把函数做为参数传递，还能做为另一个函数的返回值、并赋给变量。这意味着你用很少的代码就能实现非常强大的功能，尤其在函数式编程中。举个实际例子：
+头等函数【注1】将一门编程语言变成了成年人的乐高积木。简而言之，有了头等函数，意味着 JavaScript 能够把函数做为参数传递，还能做为另一个函数的返回值、并赋给变量。这意味着你用很少的代码就能实现非常强大的功能，尤其在函数式编程中。举个实际例子：
 
     
     var myArray = [1, 2, 3, 4, 5, 6]
@@ -61,7 +61,7 @@ JavaScript 诞生于混乱的年代，因此一些好的和坏的特性就构成
     getTotal(myArray); // => 21
 
 
-在第 7 行，我们将一个匿名函数赋给了 `getTotal` 变量。在第 8 行，我们把 `add` 函数做为参数传给了 `reduce` 函数。我们就可以创建更高层次的通用函数，避免了不必要的重复（符合 DRY 原则[note]一次且仅一次（once and only once，简称OAOO）又称为Don't repeat yourself（不要重复你自己，简称DRY）或一个规则，实现一次（one rule, one place）是面向对象编程中的基本原则，程序员的行事准则。旨在软件开发中，减少重复的信息。[https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E4%B8%94%E4%BB%85%E4%B8%80%E6%AC%A1](https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E4%B8%94%E4%BB%85%E4%B8%80%E6%AC%A1) [/note]）。我们还能实现复合函数[note]在数学领域，两个函数的复合函数指一个将第一个函数作用于参数，然后再将第二个函数作用于所得结果的函数。[https://zh.wikipedia.org/wiki/%E5%A4%8D%E5%90%88%E5%87%BD%E6%95%B0](https://zh.wikipedia.org/wiki/%E5%A4%8D%E5%90%88%E5%87%BD%E6%95%B0) [/note]，在例子中，我们把 `add` 函数做为 `reduce` 的参数，组成了复合函数。
+在第 7 行，我们将一个匿名函数赋给了 `getTotal` 变量。在第 8 行，我们把 `add` 函数做为参数传给了 `reduce` 函数。我们就可以创建更高层次的通用函数，避免了不必要的重复（符合 DRY 原则【注2】）。我们还能实现复合函数【注3】，在例子中，我们把 `add` 函数做为 `reduce` 的参数，组成了复合函数。
 
 
 ### 2.学习 Array 的原生方法
@@ -202,3 +202,10 @@ ES6 特性为编写 JavaScript 引入了一种相当新颖的方式，多研究�
 
 
 **传送门**：阮一峰《[ECMAScript 6简介](http://es6.ruanyifeng.com/)》
+
+
+### 注释
+
+* 注1：头等函数（first-class function）是指在程序设计语言中，函数被当作头等公民。这意味着，函数可以作为别的函数的参数、函数的返回值，赋值给变量或存储在数据结构中。 有人主张应包括支持匿名函数（函数字面量，function literals）。在这样的语言中，函数的名字没有特殊含义，它们被当作具有函数类型的普通的变量对待。1960年代中期，克里斯托弗·斯特雷奇在“functions as first-class citizens”中提出这一概念。[https://zh.wikipedia.org/wiki/%E5%A4%B4%E7%AD%89%E5%87%BD%E6%95%B0](https://zh.wikipedia.org/wiki/%E5%A4%B4%E7%AD%89%E5%87%BD%E6%95%B0)
+* 注2：一次且仅一次（once and only once，简称OAOO）又称为Don't repeat yourself（不要重复你自己，简称DRY）或一个规则，实现一次（one rule, one place）是面向对象编程中的基本原则，程序员的行事准则。旨在软件开发中，减少重复的信息。[https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E4%B8%94%E4%BB%85%E4%B8%80%E6%AC%A1](https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E4%B8%94%E4%BB%85%E4%B8%80%E6%AC%A1) 
+* 注3：在数学领域，两个函数的复合函数指一个将第一个函数作用于参数，然后再将第二个函数作用于所得结果的函数。[https://zh.wikipedia.org/wiki/%E5%A4%8D%E5%90%88%E5%87%BD%E6%95%B0](https://zh.wikipedia.org/wiki/%E5%A4%8D%E5%90%88%E5%87%BD%E6%95%B0) 

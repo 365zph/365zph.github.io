@@ -50,11 +50,11 @@ tags:
 
 [![1-lDGObCfmwZgzj16tTTW_ag](http://www.labazhou.net/wp-content/uploads/2015/12/1-lDGObCfmwZgzj16tTTW_ag-414x600.jpeg)](http://www.labazhou.net/wp-content/uploads/2015/12/1-lDGObCfmwZgzj16tTTW_ag.jpeg)
 
-所有创新性行业都关乎畅销[note]本文将 hits 翻译为「畅销」，参考：何为长尾理论？书中阐述，商业和文化的未来不在于传统需求曲线上那个代表“畅销商品”（hits）的头部；而是那条代表“冷门商品”（misses）经常为人遗忘的长尾。[http://www.bijia123.com/232706.html](http://www.bijia123.com/232706.html)[/note]的玩法。对于任何领域的创作者，它常常意味着盛宴或稀缺。但是我们看到了它正在发生变化的迹象。我们或许正在进入一个世界，全职创作者的[长尾](https://en.wikipedia.org/wiki/The_Long_Tail_%28book%29)现象正成为可能。
+所有创新性行业都关乎畅销【注1】的玩法。对于任何领域的创作者，它常常意味着盛宴或稀缺。但是我们看到了它正在发生变化的迹象。我们或许正在进入一个世界，全职创作者的[长尾](https://en.wikipedia.org/wiki/The_Long_Tail_%28book%29)现象正成为可能。
 
 众所周知，web 的诞生[不超过 8,000 天](http://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web?language=en)，却是「[创新性的启示](http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=1)」，有人预测，当互联网到来时，它不会出现。结果呢， web 提供的、产品的自由分发和廉价方式，只伤害到了「中间人」，而非创作者本身。
 
-Kickstarter[note]Kickstarter是一间于2009年在美国纽约成立、基于美国人的商业公司，它通过该网站进行公众集资以提供人们进行创意项目的筹集资金。 Kickstarter可以许多种创意项目募集资金，譬如电影、音乐、舞台剧、漫画、新闻学、电视游戏以及与食物有关的项目。[https://zh.wikipedia.org/wiki/Kickstarter](https://zh.wikipedia.org/wiki/Kickstarter) [/note] 就是这种勇敢新世界的极好例子。为了筹措项目，你不再需要知名的唱片公司或电影工作室。如果你能引起一群人的注意，并拉来投资，就放手去做。但是，正如曾经运作过公司的人所证实的那样，开公司并不简单。
+Kickstarter【注2】 就是这种勇敢新世界的极好例子。为了筹措项目，你不再需要知名的唱片公司或电影工作室。如果你能引起一群人的注意，并拉来投资，就放手去做。但是，正如曾经运作过公司的人所证实的那样，开公司并不简单。
 
 Kickstarter 解决了关键的商务和内容方面的问题。在这里，你可以把你的受众直接送到交易和消费内容上。但是，它没有解决「受众的问题」，这是我提出的术语，用来描述创新常常面对的基本挑战：
 
@@ -75,7 +75,7 @@ Kickstarter 解决了关键的商务和内容方面的问题。在这里，你�
 
 [![1-LucOkwRZahGBo-UWPYScVg](http://www.labazhou.net/wp-content/uploads/2015/12/1-LucOkwRZahGBo-UWPYScVg.gif)](http://www.labazhou.net/wp-content/uploads/2015/12/1-LucOkwRZahGBo-UWPYScVg.gif)
 
-上面的文氏图[note]文氏图（英语：Venn diagram），或译Venn图、温氏图、维恩图、范氏图，是在所谓的集合论（或者类的理论）数学分支中，在不太严格的意义下用以表示集合（或类）的一种草图。它们用于展示在不同的事物群组（集合）之间的数学或逻辑联系，尤其适合用来表示集合（或）类之间的“大致关系”，它也常常被用来帮助推导（或理解推导过程）关于集合运算（或类运算）的一些规律。[https://zh.wikipedia.org/wiki/%E6%96%87%E6%B0%8F%E5%9B%BE](https://zh.wikipedia.org/wiki/%E6%96%87%E6%B0%8F%E5%9B%BE) [/note]表示得很清楚了。「如果你还不足以从激情中取得报酬，就再加强些。」这是先决条件。当你能够让人为你的作品买单时，哪怕只有一个人，你就可以准备解决受众问题了。在此之前，要坚持埋头苦干。我还想重点论述图中的「学会变现（learn to monetize）」，前提假设你具备了相应的才能。
+上面的文氏图【注3】表示得很清楚了。「如果你还不足以从激情中取得报酬，就再加强些。」这是先决条件。当你能够让人为你的作品买单时，哪怕只有一个人，你就可以准备解决受众问题了。在此之前，要坚持埋头苦干。我还想重点论述图中的「学会变现（learn to monetize）」，前提假设你具备了相应的才能。
 
 [Jay Abraham](http://www.amazon.com/Getting-Everything-You-Can-Youve/dp/0312284543) 指出，在任何业务中，只有 3 种赚钱方式：
 
@@ -141,3 +141,10 @@ Kickstarter 解决了关键的商务和内容方面的问题。在这里，你�
 机会就是让合适的内容到达合适的受众。你因而构建和他们的关系，并开始变现你的艺术。从今天开始，不要等到可能第一百万个粉丝，他可能永远也不会出现。
 
 但是，如果这不适合你，你可以继续把你的有限时间投入在[增加 Twitter 关注者的数量](http://www.hypebot.com/hypebot/2013/08/12-tips-for-promoting-your-music-on-twitter.html)上。
+
+
+### 注释
+
+* 注1：本文将 hits 翻译为「畅销」，参考：何为长尾理论？书中阐述，商业和文化的未来不在于传统需求曲线上那个代表“畅销商品”（hits）的头部；而是那条代表“冷门商品”（misses）经常为人遗忘的长尾。[http://www.bijia123.com/232706.html](http://www.bijia123.com/232706.html)
+* 注2：Kickstarter是一间于2009年在美国纽约成立、基于美国人的商业公司，它通过该网站进行公众集资以提供人们进行创意项目的筹集资金。 Kickstarter可以许多种创意项目募集资金，譬如电影、音乐、舞台剧、漫画、新闻学、电视游戏以及与食物有关的项目。[https://zh.wikipedia.org/wiki/Kickstarter](https://zh.wikipedia.org/wiki/Kickstarter) 
+* 注3：文氏图（英语：Venn diagram），或译Venn图、温氏图、维恩图、范氏图，是在所谓的集合论（或者类的理论）数学分支中，在不太严格的意义下用以表示集合（或类）的一种草图。它们用于展示在不同的事物群组（集合）之间的数学或逻辑联系，尤其适合用来表示集合（或）类之间的“大致关系”，它也常常被用来帮助推导（或理解推导过程）关于集合运算（或类运算）的一些规律。[https://zh.wikipedia.org/wiki/%E6%96%87%E6%B0%8F%E5%9B%BE](https://zh.wikipedia.org/wiki/%E6%96%87%E6%B0%8F%E5%9B%BE) 

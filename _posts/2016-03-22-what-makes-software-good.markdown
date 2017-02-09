@@ -39,7 +39,7 @@ tags:
 
 我开发过开源软件，为此花了很多时间，思考怎样做才能让软件更优秀。有一些是不可避免的事情：在 StackOverflow、GitHub 和 Slack，包括电子邮件和 twitter 消息，永远都有需要帮助的请求。好在你看到有人超越了你的想象，取得成功并作出刁炸天的软件，这和你的帮助是分不开的。
 
-或许 [Dieter Rams](http://www.labazhou.net/2015/04/timeless-design-10-principles-of-a-good-design/) 的[优秀设计原则](https://www.vitsoe.com/us/about/good-design)[note]在上世纪七十年代后期，迪特·拉姆斯开始日益关注这个令他感到“由形状、颜色和噪音所组成的混乱不堪”的世界。意识到自己也是这个世界的参与者之一，他向自己提出了一个重要的问题：“我的设计是好的设计吗？”他归纳了他认为好的设计应当满足的十条要求。（这些要求有时也被人称为“设计十诫”。）相关翻译摘自于此。[https://zh.wikipedia.org/wiki/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF](https://zh.wikipedia.org/wiki/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF) [/note]，就是为软件量身定制的？
+或许 [Dieter Rams](http://www.labazhou.net/2015/04/timeless-design-10-principles-of-a-good-design/) 的[优秀设计原则](https://www.vitsoe.com/us/about/good-design)【注1】，就是为软件量身定制的？
 
 
 <blockquote>好的设计是革新的。
@@ -58,7 +58,7 @@ tags:
 
 即使你在宏观方面做好了，可能还无法保证设计的成功。想法的执行和想法本身同样重要，真真知易行难。
 
-Green & Petre 提出了[符号认知维度](https://en.wikipedia.org/wiki/Cognitive_dimensions_of_notations)[note]认知维度（也称作符号认知维度，Cognitive Dimensions or Cognitive Dimensions of Notations，简称CD）是一套关于符号标记、用户界面和编程语言的设计原则。认知维度提供一种轻量级的方法来帮助分析设计，它包含了14条不同的维度来指导设计。[http://www.yslow.net/show.php?tid=943](http://www.yslow.net/show.php?tid=943) [/note]，定义了一套「讨论工具」，以提高「信息人工制品（比如代码）」可用性的「论述水准」：
+Green & Petre 提出了[符号认知维度](https://en.wikipedia.org/wiki/Cognitive_dimensions_of_notations)【注2】，定义了一套「讨论工具」，以提高「信息人工制品（比如代码）」可用性的「论述水准」：
 
 
 <blockquote>抽象层次
@@ -89,12 +89,12 @@ Secondary notation
 
 想把一段代码放在手里，感受其重量和材质，这是做不到的。代码是「信息人工制品」，不是物理存在的、或图形化的东西。你和 API 的交互，是通过在编辑器或命令行里操作文本完成的。
 
-因此我们不能像评估任何工具一样来评估代码，而要看是否容易掌握它，以及使用代码时，是否具备效率和快乐。我们应该考虑代码的承担特质[note]承担特质：环境赋使（affordance），或称为预设用途、可操作暗示、支应性、示能性等，指一件物品实际上用来做何用途，或被认为有什么用途。也就是说在物品的某个方面，具有让人明显知道该如何使用它的特性。例如门提供“打开”的功能，椅子提供“支撑”的功能。人们得知如何使用物品有一部分来自认知心理学，另一部分来自物品的外形。[https://zh.wikipedia.org/wiki/%E6%89%BF%E6%93%94%E7%89%B9%E8%B3%AA](https://zh.wikipedia.org/wiki/%E6%89%BF%E6%93%94%E7%89%B9%E8%B3%AA) [/note]、甚至还有审美。
+因此我们不能像评估任何工具一样来评估代码，而要看是否容易掌握它，以及使用代码时，是否具备效率和快乐。我们应该考虑代码的承担特质【注3】、甚至还有审美。
 
 编程接口就是用户接口。另一种说法：程序员也是人。说到了这个话题，我们需要再次倾听 Rams 说的话：
 
 
-<blockquote>“冷漠地对待他人和生活，是设计的头等大罪。”[note]此句翻译引用自 [http://www.voicer.me/archives/6251](http://www.voicer.me/archives/6251)[/note]</blockquote>
+<blockquote>“冷漠地对待他人和生活，是设计的头等大罪。”【注4】</blockquote>
 
 
 这暗示着，优秀的文档不能成为糟糕设计的借口。你可以要求人们[阅读文档](https://en.wikipedia.org/wiki/RTFM)，但是臆测他们会通读文档并记住每个细节，是非常愚蠢的。在现实世界中，示例的清晰，软件的可破译和可调试，可能更重要些。外形必须能够表达功能。
@@ -118,3 +118,11 @@ Secondary notation
 **优秀的软件以人文本**。
 
 注：《[永恒设计：优秀设计的 10 个标准](http://www.labazhou.net/2015/04/timeless-design-10-principles-of-a-good-design/)》也针对迪特·拉姆斯的「设计十诫」做过探讨。
+
+
+### 注释
+
+* 注1：在上世纪七十年代后期，迪特·拉姆斯开始日益关注这个令他感到“由形状、颜色和噪音所组成的混乱不堪”的世界。意识到自己也是这个世界的参与者之一，他向自己提出了一个重要的问题：“我的设计是好的设计吗？”他归纳了他认为好的设计应当满足的十条要求。（这些要求有时也被人称为“设计十诫”。）相关翻译摘自于此。[https://zh.wikipedia.org/wiki/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF](https://zh.wikipedia.org/wiki/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF) 
+* 注2：认知维度（也称作符号认知维度，Cognitive Dimensions or Cognitive Dimensions of Notations，简称CD）是一套关于符号标记、用户界面和编程语言的设计原则。认知维度提供一种轻量级的方法来帮助分析设计，它包含了14条不同的维度来指导设计。[http://www.yslow.net/show.php?tid=943](http://www.yslow.net/show.php?tid=943) 
+* 注3：承担特质：环境赋使（affordance），或称为预设用途、可操作暗示、支应性、示能性等，指一件物品实际上用来做何用途，或被认为有什么用途。也就是说在物品的某个方面，具有让人明显知道该如何使用它的特性。例如门提供“打开”的功能，椅子提供“支撑”的功能。人们得知如何使用物品有一部分来自认知心理学，另一部分来自物品的外形。[https://zh.wikipedia.org/wiki/%E6%89%BF%E6%93%94%E7%89%B9%E8%B3%AA](https://zh.wikipedia.org/wiki/%E6%89%BF%E6%93%94%E7%89%B9%E8%B3%AA) 
+* 注4：此句翻译引用自 [http://www.voicer.me/archives/6251](http://www.voicer.me/archives/6251)

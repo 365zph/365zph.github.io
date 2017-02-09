@@ -66,7 +66,7 @@ tags:
 
 当平板问世时，发布商认为，app 将成为解决方案：「我需要拥有自己的 app，我的 app 就等同于之前的印刷产品，这样我们就能回到过去的样子了，仅此而已。」事实并非如此，因为人们在移动设备上的行为不同了。人们不想奔波于 app、网站等各种地方，而是要把信息都集中起来。SmartNews 就做到了这一点。
 
-SmartNews 要解决的第二个问题，可以先回溯到基于 web 的发布和数字发布的年代。很长时间以来，人们梦寐以求的是终极个性化的报纸------The Daily Me[note]The Daily Me is a term popularized by MIT Media Lab founder Nicholas Negroponte to describe a virtual daily newspaper customized for an individual's tastes. [https://en.wikipedia.org/wiki/Daily_Me](https://en.wikipedia.org/wiki/Daily_Me) [/note]。我关心的才是头条，技术帮我过滤并定制，专为我打造的、十分个性化的信息。
+SmartNews 要解决的第二个问题，可以先回溯到基于 web 的发布和数字发布的年代。很长时间以来，人们梦寐以求的是终极个性化的报纸------The Daily Me【注1】。我关心的才是头条，技术帮我过滤并定制，专为我打造的、十分个性化的信息。
 
 我对此表示忧虑，个性化的后果就是你就再也发现不了新的信息，如果你之前没有表现出兴趣，你就再也没机会了，这样你的视野就越来越窄。最终人们就不会满意他们得到的新闻，因为他们总是得到同样的内容，了无新意。
 
@@ -121,3 +121,8 @@ SmartNews 是一款完全免费的 app，我们该怎样和发布商合作，从
 我担心：新闻业变得越来越碎片化，越来越小众化，想为高质量的新闻付费，也将越来越难，有见地的人们将会离开。
 
 我的最大希望就是，在混乱和不确定的时期里，新闻业能够运作良好，使人们总是得到他们想要的信息，以帮助自己做出理智的决定。
+
+
+### 注释
+
+* 注1：The Daily Me is a term popularized by MIT Media Lab founder Nicholas Negroponte to describe a virtual daily newspaper customized for an individual's tastes. [https://en.wikipedia.org/wiki/Daily_Me](https://en.wikipedia.org/wiki/Daily_Me) 

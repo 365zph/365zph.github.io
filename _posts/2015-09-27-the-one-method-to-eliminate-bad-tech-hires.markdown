@@ -129,7 +129,7 @@ tags:
 <blockquote>创建一个单页（single page）应用，支持录入我的家庭电影收藏里的电影，用线下存储来保存、可搜索。可以根据类型、电影名称和演员搜索。</blockquote>
 
 
-实际上，我没有告诉他们进一步的方向，比如使用网页存储[note]网页存储和DOM存储（文档对象模型）是网络应用程序用于在网络浏览器存储数据的方法和通讯协议。网络存储支持持久性数据存储，类似于 Cookie，以及 window-local 存储。[https://zh.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E5%AD%98%E5%82%A8](https://zh.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E5%AD%98%E5%82%A8) [/note]或 cookies，支持多个平台的响应式设计，使用 CSS。我把这些东东留给他们来决定。一些人选择按要求做，另一些人做得更多。
+实际上，我没有告诉他们进一步的方向，比如使用网页存储【注1】或 cookies，支持多个平台的响应式设计，使用 CSS。我把这些东东留给他们来决定。一些人选择按要求做，另一些人做得更多。
 
 总之，我们喜欢最终结果，这是关键的。
 
@@ -221,3 +221,8 @@ tags:
 我精通数种语言，对高性能、可扩展性、软件架构和总体攻坚工作有着浓厚兴趣。你可以[在 Medium 上关注我](https://medium.com/@ayasin)，我写了一些关于软件工程的博客；还可以[在 Twitter 上关注我](https://twitter.com/ayasin)，我偶尔说一些有意思的话；或者查看[我在 GitHub 上为 FOSS 社区的所做的贡献](https://github.com/ayasin)。
 
 如果你喜欢文本，请推荐给别人，对此我深表感激（点击下面的心形图标即可）。
+
+
+### 注释
+
+* 注1：网页存储和DOM存储（文档对象模型）是网络应用程序用于在网络浏览器存储数据的方法和通讯协议。网络存储支持持久性数据存储，类似于 Cookie，以及 window-local 存储。[https://zh.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E5%AD%98%E5%82%A8](https://zh.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E5%AD%98%E5%82%A8) 

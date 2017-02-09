@@ -50,7 +50,7 @@ tags:
 
 每天早上，我从公寓出来时，都要捧着一杯咖啡------新做的一杯美味拿铁咖啡，帮助我迎接一天的工作。
 
-上班路上，我要经过附近的一家小超市 Migros [note]Federation of Migros Cooperatives 成立于1925年，是瑞士最大的零售商（食品和非食品）和私营企业。Migros被公认为瑞士最为知名和最受尊崇的品牌。 Federation of Migros Cooperatives 旗下拥有700多家店铺，种类包括超级市场、百货商店和专业店铺，例如 Micasa (家具)、SportXX(运动产品)和Do it+Garden(自助产品)。[http://wiki.mbalib.com/wiki/%E7%91%9E%E5%A3%ABMigros%E5%85%AC%E5%8F%B8](http://wiki.mbalib.com/wiki/%E7%91%9E%E5%A3%ABMigros%E5%85%AC%E5%8F%B8) [/note]，外面配有休息区。Micros 有一些地方让我耿耿于怀：椅子太丑了！
+上班路上，我要经过附近的一家小超市 Migros 【注1】，外面配有休息区。Micros 有一些地方让我耿耿于怀：椅子太丑了！
 
 它们的设计让我感到困惑------每一次都如此。
 
@@ -94,7 +94,7 @@ tags:
 
 我大为震惊……这怎么可能呢？更重要的是：[好的设计是什么](http://www.labazhou.net/2015/04/timeless-design-10-principles-of-a-good-design/)？
 
-德国家电制造商百灵（博朗）前首席设计师迪特·拉姆斯[note]在上世纪七十年代后期，迪特·拉姆斯开始日益关注这个令他感到“由形状、颜色和噪音所组成的混乱不堪”的世界。意识到自己也是这个世界的参与者之一，他向自己提出了一个重要的问题：“我的设计是好的设计吗？”他归纳了他认为好的设计应当满足的十条要求。（这些要求有时也被人称为“设计十诫”。）[https://zh.wikipedia.org/wiki/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF](https://zh.wikipedia.org/wiki/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF) [/note]创立了设计十诫。其中一条提到：
+德国家电制造商百灵（博朗）前首席设计师迪特·拉姆斯【注2】创立了设计十诫。其中一条提到：
 
 
 <blockquote>好的设计是诚实的。</blockquote>
@@ -127,3 +127,9 @@ tags:
 当我下次评价某个设计时，我打算深吸一口气，走到 Migros，要一杯拿铁咖啡，然后坐在那把红椅子上。
 
 有类似的观察吗？我们可以继续探讨，你可以关注我的 [twitter](https://twitter.com/azumbrunnen_)。
+
+
+### 注释
+
+* 注1：Federation of Migros Cooperatives 成立于1925年，是瑞士最大的零售商（食品和非食品）和私营企业。Migros被公认为瑞士最为知名和最受尊崇的品牌。 Federation of Migros Cooperatives 旗下拥有700多家店铺，种类包括超级市场、百货商店和专业店铺，例如 Micasa (家具)、SportXX(运动产品)和Do it+Garden(自助产品)。[http://wiki.mbalib.com/wiki/%E7%91%9E%E5%A3%ABMigros%E5%85%AC%E5%8F%B8](http://wiki.mbalib.com/wiki/%E7%91%9E%E5%A3%ABMigros%E5%85%AC%E5%8F%B8) 
+* 注2：在上世纪七十年代后期，迪特·拉姆斯开始日益关注这个令他感到“由形状、颜色和噪音所组成的混乱不堪”的世界。意识到自己也是这个世界的参与者之一，他向自己提出了一个重要的问题：“我的设计是好的设计吗？”他归纳了他认为好的设计应当满足的十条要求。（这些要求有时也被人称为“设计十诫”。）[https://zh.wikipedia.org/wiki/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF](https://zh.wikipedia.org/wiki/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF) 

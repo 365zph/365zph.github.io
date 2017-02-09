@@ -72,7 +72,7 @@ tags:
 ### 理解
 
 
-90% 的编程工作是为了解决问题，剩下的 10% 的工作需要再用 90% 的时间用来理解问题是怎样被解决的。[note]90-90法则（ninety-ninety rule，九九定律，99定律）是计算机编程和软件工程领域的一个有名的法则，出自于一句幽默的格言：（开发软件时）前90%的代码要花费90%的开发时间，剩余的10%的代码要再花费90%的开发时间。 [https://zh.wikipedia.org/wiki/90-90%E6%B3%95%E5%88%99](https://zh.wikipedia.org/wiki/90-90%E6%B3%95%E5%88%99) [/note]
+90% 的编程工作是为了解决问题，剩下的 10% 的工作需要再用 90% 的时间用来理解问题是怎样被解决的。【注1】
 
 阅读代码和阅读散文，有着极大的不同。我们期望作者能够清晰地解释他们的语句，而不是用他们选中的语言过于冗长地说些不相干的东东，我们都期待普通的语法风格。
 
@@ -96,7 +96,7 @@ tags:
 ### 为什么使用等宽字体？
 
 
-在所有著名的、老生常谈的舌战中，有两个实力基本相当的阵营，即 等宽字体 [note]等宽字体（Monospaced Font）是指字符宽度相同的电脑字体。与此相对，字符宽度不尽相同的电脑字体称为比例字体。在等宽字体中，字母i,j显得两侧余白较多，而字母w,m等的笔画显得相当拥挤。但是随着图形用户界面主流的更新和电脑技术的提高，处理比例字体的局限性得到了突破，因此现在排版上显得比较自然的比例字体的使用已经相当普及。另外，代码也经常使用等宽字体。[https://zh.wikipedia.org/wiki/%E7%AD%89%E5%AE%BD%E5%AD%97%E4%BD%93](https://zh.wikipedia.org/wiki/%E7%AD%89%E5%AE%BD%E5%AD%97%E4%BD%93) [/note]VS 比例字体[note]比例字体（Proportional Font）是指字符宽度不尽相同的电脑字体。与此相对，字符宽度相同的电脑字体称为等宽字体。[https://zh.wikipedia.org/wiki/%E6%AF%94%E4%BE%8B%E5%AD%97%E4%BD%93](https://zh.wikipedia.org/wiki/%E6%AF%94%E4%BE%8B%E5%AD%97%E4%BD%93)[/note] 的争论。
+在所有著名的、老生常谈的舌战中，有两个实力基本相当的阵营，即 等宽字体 【注2】VS 比例字体【注3】 的争论。
 
 某些异教徒会对你说，[比例](https://code.google.com/p/i3project/wiki/Fonts)[字体](http://nickgravgaard.com/elastictabstops/news/programming-fonts/)是[最棒的](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)------无视这些异教徒吧。另一些异教徒则在他们争论[比例](http://blog.codinghorror.com/revisiting-programming-fonts/)[字体](http://programmers.stackexchange.com/questions/5473/does-anyone-prefer-proportional-fonts)所具有的上等[纯洁度](https://news.ycombinator.com/item?id=4623781)时，给你的心灵留下了不和谐------这些可怜的、受谴责的灵魂呀。
 
@@ -135,3 +135,10 @@ tags:
 垂直排列不适用于每个场景，但是对于快速评估代码，其可读性是无与伦比的。
 
 代码是具有创造性的平台，我们通过这个平台来表达想法。如果工具增加了理解这些想法的难度，那么，需要改变的就是工具、而非我们。
+
+
+### 注释
+
+* 注1：90-90法则（ninety-ninety rule，九九定律，99定律）是计算机编程和软件工程领域的一个有名的法则，出自于一句幽默的格言：（开发软件时）前90%的代码要花费90%的开发时间，剩余的10%的代码要再花费90%的开发时间。 [https://zh.wikipedia.org/wiki/90-90%E6%B3%95%E5%88%99](https://zh.wikipedia.org/wiki/90-90%E6%B3%95%E5%88%99) 
+* 注2：等宽字体（Monospaced Font）是指字符宽度相同的电脑字体。与此相对，字符宽度不尽相同的电脑字体称为比例字体。在等宽字体中，字母i,j显得两侧余白较多，而字母w,m等的笔画显得相当拥挤。但是随着图形用户界面主流的更新和电脑技术的提高，处理比例字体的局限性得到了突破，因此现在排版上显得比较自然的比例字体的使用已经相当普及。另外，代码也经常使用等宽字体。[https://zh.wikipedia.org/wiki/%E7%AD%89%E5%AE%BD%E5%AD%97%E4%BD%93](https://zh.wikipedia.org/wiki/%E7%AD%89%E5%AE%BD%E5%AD%97%E4%BD%93) 
+* 注3：比例字体（Proportional Font）是指字符宽度不尽相同的电脑字体。与此相对，字符宽度相同的电脑字体称为等宽字体。[https://zh.wikipedia.org/wiki/%E6%AF%94%E4%BE%8B%E5%AD%97%E4%BD%93](https://zh.wikipedia.org/wiki/%E6%AF%94%E4%BE%8B%E5%AD%97%E4%BD%93)

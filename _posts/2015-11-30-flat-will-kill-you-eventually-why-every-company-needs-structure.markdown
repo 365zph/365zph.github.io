@@ -71,7 +71,7 @@ tags:
 
 当你抛弃中层管理人员时，你也消除那些瓶颈了吗？它们被处于高层的、甚至更小的瓶颈取代了。还记得我刚才对你说的那些 Flow 项目吗？嗯。
 
-但是，除了这种划定好的、或至少公认的自上而下的系统之外，一种暗示性的结构诞生了：它非常难以改变，让身处其间工作的人们倍感沮丧。困惑、毫无头绪的员工们，就创造了一种自我管理的临时系统，它具有毁灭性的非公共性质，最终导致某种类似《蝇王》[note]《蝇王》（Lord of the Flies）是威廉·高丁发表于1954年的寓言体小说。小说讲述了一群被困在荒岛上的儿童在完全没有成人的引导下如何建立起一个脆弱的文明体系。最终由于人类内心的黑暗面导致这个文明体系无可避免地被野蛮与暴力所代替。主题是备受争议的人性，个体权益与集体利益的冲突，是当代英文小说中的经典。威廉·高丁也为此获得1983年诺贝尔文学奖。 [https://zh.wikipedia.org/wiki/%E8%9D%87%E7%8E%8B](https://zh.wikipedia.org/wiki/%E8%9D%87%E7%8E%8B) [/note]的混乱。
+但是，除了这种划定好的、或至少公认的自上而下的系统之外，一种暗示性的结构诞生了：它非常难以改变，让身处其间工作的人们倍感沮丧。困惑、毫无头绪的员工们，就创造了一种自我管理的临时系统，它具有毁灭性的非公共性质，最终导致某种类似《蝇王》【注1】的混乱。
 
 HolacracyOne 的联合创始人 Brian Robertson [描述了这种疯狂](http://events.holacracy.org/blog/obsoleting-organizational-politics)：
 
@@ -87,7 +87,7 @@ YouTube 视频地址：[https://www.youtube.com/watch?v=qr1Gjwf_kWg](https://www
 ### Holacracy：接近了，但还不够
 
 
-Holacracy[note]Holacracy 的诞生正是为了解决这些问题，它能让员工实时构建项目、按需组队，不仅提高了生产力，员工也更开心。如果 Holacracy 能按预期实施，那么员工与经理将有更多时间来与不同的团队相处，公司管理层花在决策及总署上的时间也就少了。[http://36kr.com/p/208860.html](http://36kr.com/p/208860.html) 详情可参考维基百科：[https://en.wikipedia.org/wiki/Holacracy](https://en.wikipedia.org/wiki/Holacracy) [/note] 是应对暗示性结构问题的有趣方法：它致力于维护扁平化组织所培育的开放和创新，给每个角色明确的结构和权力。它让组织的中央集权和独裁得到了良好的混合，你可以从 Holacrary.org 的图片看到：
+Holacracy【注2】 是应对暗示性结构问题的有趣方法：它致力于维护扁平化组织所培育的开放和创新，给每个角色明确的结构和权力。它让组织的中央集权和独裁得到了良好的混合，你可以从 Holacrary.org 的图片看到：
 
 [![Holacrary.org 组织结构](http://www.labazhou.net/wp-content/uploads/2015/11/holacracy-600x400.png)](http://www.labazhou.net/wp-content/uploads/2015/11/holacracy.png)
 
@@ -105,7 +105,7 @@ Holacracy[note]Holacracy 的诞生正是为了解决这些问题，它能让员�
 ### 有时候，我们只需要一张幕帘
 
 
-Ethan Bernstein 在哈佛商业评论[note]哈佛商业评论（英文：Harvard Business Review；简称：HBR）是自1922年起，由哈佛商学院集结专家、教授，针对管理事务的研究而出版的专业杂志。HBR是一份专门提供予专业经理人及工商管理者参考的月刊，其主要读者群是产业领袖、学者、高阶管理者及管理顾问等。[https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%95%86%E6%A5%AD%E8%A9%95%E8%AB%96](https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%95%86%E6%A5%AD%E8%A9%95%E8%AB%96) [/note]发表了一篇不错的文章《[透明的困境](https://hbr.org/2014/10/the-transparency-trap/ar/1)》，他提出了一个想法：对于普通工人而言，在私密环境下工作的能力和在开放、透明的环境下的效率一样重要；工作群体过大、或权力过大，会让人们没有安全感、易受伤害。
+Ethan Bernstein 在哈佛商业评论【注3】发表了一篇不错的文章《[透明的困境](https://hbr.org/2014/10/the-transparency-trap/ar/1)》，他提出了一个想法：对于普通工人而言，在私密环境下工作的能力和在开放、透明的环境下的效率一样重要；工作群体过大、或权力过大，会让人们没有安全感、易受伤害。
 
 他在研究中描述了一家中国手机工厂的情景，它是世界上最大的工厂之一。工厂有 14,000 名工人，且堪称开放的典范------很大的楼层，没有墙和隔断。每个人都能看到其他人：这是一种已经实现为结构的扁平化组织。
 
@@ -163,3 +163,10 @@ Bernstein 要求管理人员建立一个实验性的生产线，无意间听到�
 
 
 [Fabio Napoleoni](http://ecgallery.com/exclusive-artists/home/fabio-napoleoni/) 的《欢迎来到未知世界》是我们本周的特色绘画。很多事件在影响着 Fabio 的艺术作品，最大的时间莫过于他的第二个孩子降临后所产生的痛苦遭遇。他的女儿患有先天性心脏畸形，为了不让病魔影响她的未来，而不得不面临一系列外科手术的治疗。有了这些经历，Fabio 意识到有种东西正从他的作品中溜走------情感。
+
+
+### 注释
+
+* 注1：《蝇王》（Lord of the Flies）是威廉·高丁发表于1954年的寓言体小说。小说讲述了一群被困在荒岛上的儿童在完全没有成人的引导下如何建立起一个脆弱的文明体系。最终由于人类内心的黑暗面导致这个文明体系无可避免地被野蛮与暴力所代替。主题是备受争议的人性，个体权益与集体利益的冲突，是当代英文小说中的经典。威廉·高丁也为此获得1983年诺贝尔文学奖。 [https://zh.wikipedia.org/wiki/%E8%9D%87%E7%8E%8B](https://zh.wikipedia.org/wiki/%E8%9D%87%E7%8E%8B) 
+* 注2：Holacracy 的诞生正是为了解决这些问题，它能让员工实时构建项目、按需组队，不仅提高了生产力，员工也更开心。如果 Holacracy 能按预期实施，那么员工与经理将有更多时间来与不同的团队相处，公司管理层花在决策及总署上的时间也就少了。[http://36kr.com/p/208860.html](http://36kr.com/p/208860.html) 详情可参考维基百科：[https://en.wikipedia.org/wiki/Holacracy](https://en.wikipedia.org/wiki/Holacracy) 
+* 注3：哈佛商业评论（英文：Harvard Business Review；简称：HBR）是自1922年起，由哈佛商学院集结专家、教授，针对管理事务的研究而出版的专业杂志。HBR是一份专门提供予专业经理人及工商管理者参考的月刊，其主要读者群是产业领袖、学者、高阶管理者及管理顾问等。[https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%95%86%E6%A5%AD%E8%A9%95%E8%AB%96](https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%95%86%E6%A5%AD%E8%A9%95%E8%AB%96) 

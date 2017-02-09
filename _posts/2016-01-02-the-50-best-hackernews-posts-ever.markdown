@@ -44,7 +44,7 @@ _如果你没有时间阅读所有文章，请[加入 HackerCanon](http://eepurl
 
 虽然我还没有忘记 [Paul Ford](https://medium.com/u/168dab556633) 在 Bloomberg 网站发表的 38,000 字的[巨作](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)（也没忘记 BuzzFeed 上的一篇文章，提到了可变色的结婚礼服），但是在我印象中，2015 年就没有什么其它文章了。我能够轻松说出今年喜欢的一堆书、专辑和电影，但是说起互联网作品，我的脑海一片空白。是我的记忆力不好了，还是互联网作品固有的、容易被遗忘的特性？
 
-这个疑问促使我开展了一项假期实验：回首今年，哪篇作品能够经得起时间检验？我决定把 HackerNews 做为实验项目，因为它相较于其它形式媒体（视频、猫的 gif 图、清单文章[note]“微在”是美国著名新媒体 BuzzFeed 的模仿者。“微在”与其它只用文字来传达内容的媒体不同，它的文章标题和内容大部分是“数字＋抢眼球的内容”这种形式。BuzzFeed 的独创性在于一种叫“listicles”（清单文章）的文章形式，就是上面提到的“微在”模仿的对象。[http://www.pingwest.com/demo/wezeit/ ，还可以参考 https://en.wikipedia.org/wiki/Listicle](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) [/note]），属于格外重视写作内容的少数社交媒体之一。
+这个疑问促使我开展了一项假期实验：回首今年，哪篇作品能够经得起时间检验？我决定把 HackerNews 做为实验项目，因为它相较于其它形式媒体（视频、猫的 gif 图、清单文章【注1】），属于格外重视写作内容的少数社交媒体之一。
 
 下面是我找到的清单（有意思的地方在后面，请跳过该清单）：
 
@@ -107,3 +107,8 @@ _如果你没有时间阅读所有文章，请[加入 HackerCanon](http://eepurl
   * PS 3：非常感谢 Michal Pawlowski，提供了此次分析所需的数据。
 
 
+
+
+### 注释
+
+* 注1：“微在”是美国著名新媒体 BuzzFeed 的模仿者。“微在”与其它只用文字来传达内容的媒体不同，它的文章标题和内容大部分是“数字＋抢眼球的内容”这种形式。BuzzFeed 的独创性在于一种叫“listicles”（清单文章）的文章形式，就是上面提到的“微在”模仿的对象。[http://www.pingwest.com/demo/wezeit/ ，还可以参考 https://en.wikipedia.org/wiki/Listicle](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) 

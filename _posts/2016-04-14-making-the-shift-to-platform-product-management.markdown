@@ -81,7 +81,7 @@ tags:
 ### 5.技术背景的帮助
 
 
-在某些大型产品组织里，我们把平台产品经理又称作[技术产品经理](http://www.mindtheproduct.com/2014/05/technical-product-manager-anyway/)（TPM）。在 Amazon 或微软，他们有时候称之为 Program Manager[note] 一个 Program Manager 需要项目管理的技巧，Program Manager 也需要负责功能需求、Program Manager 还要写功能规范说明书、Program Manager 还要负责设计原型。Program Manager 要有三大硬功夫：Technical Proficiency，Project Management 和 Design Sensibility，而且还要有内功，拥有非凡的 Communication 能力和 Leadership。[http://www.360doc.com/content/06/0702/19/9564_147415.shtml](http://www.360doc.com/content/06/0702/19/9564_147415.shtml) [/note]。很多平台 PM 以前都是工程师，这是有道理的，因为这个角色对内要面向工程师团队，对外要面向客户。人们常常问，「只有做过工程师的产品经理才能成功吗？」我答，这取决于哪种产品经理。通常来说，不是这样的，他们不必做过工程师，我曾见过没有工程师背景的、世界级的 PM。然而，和客户产品管理相比，在平台产品管理上有技术背景是有帮助的，因为你要解决的很多问题都是传统的计算机科学问题，比如扩展性、可维护性和架构设计。何况你的技术平台上的核心客户之一都是其他开发人员了，因此有技术总归是好事。
+在某些大型产品组织里，我们把平台产品经理又称作[技术产品经理](http://www.mindtheproduct.com/2014/05/technical-product-manager-anyway/)（TPM）。在 Amazon 或微软，他们有时候称之为 Program Manager【注1】。很多平台 PM 以前都是工程师，这是有道理的，因为这个角色对内要面向工程师团队，对外要面向客户。人们常常问，「只有做过工程师的产品经理才能成功吗？」我答，这取决于哪种产品经理。通常来说，不是这样的，他们不必做过工程师，我曾见过没有工程师背景的、世界级的 PM。然而，和客户产品管理相比，在平台产品管理上有技术背景是有帮助的，因为你要解决的很多问题都是传统的计算机科学问题，比如扩展性、可维护性和架构设计。何况你的技术平台上的核心客户之一都是其他开发人员了，因此有技术总归是好事。
 
 
 ### 6.痴迷于准确、简明的交流
@@ -123,4 +123,10 @@ tags:
 
 
 
-世界上有成千上万家公司，均成功发布了一款产品，但是未能过渡到平台、也未能有成功的二次动作。网上有很多优秀资源，做了细致探讨。采用 MVP[note]最小可行产品（Minimum Viable Product）：维基百科解释：[http://en.wikipedia.org/wiki/Minimum_viable_product](http://en.wikipedia.org/wiki/Minimum_viable_product)[/note] 或原型，开发出耀眼新产品和功能，让想法一飞冲天，但是很少能过度到可扩展的基础架构，而后者是用来系统化地启动新产品、以及增长业务的。只有理解了平台产品管理将会怎样改变你的产品组织和公司，才能理解基业长青的公司和跳梁小丑之间的差别。
+世界上有成千上万家公司，均成功发布了一款产品，但是未能过渡到平台、也未能有成功的二次动作。网上有很多优秀资源，做了细致探讨。采用 MVP【注2】 或原型，开发出耀眼新产品和功能，让想法一飞冲天，但是很少能过度到可扩展的基础架构，而后者是用来系统化地启动新产品、以及增长业务的。只有理解了平台产品管理将会怎样改变你的产品组织和公司，才能理解基业长青的公司和跳梁小丑之间的差别。
+
+
+### 注释
+
+* 注1： 一个 Program Manager 需要项目管理的技巧，Program Manager 也需要负责功能需求、Program Manager 还要写功能规范说明书、Program Manager 还要负责设计原型。Program Manager 要有三大硬功夫：Technical Proficiency，Project Management 和 Design Sensibility，而且还要有内功，拥有非凡的 Communication 能力和 Leadership。[http://www.360doc.com/content/06/0702/19/9564_147415.shtml](http://www.360doc.com/content/06/0702/19/9564_147415.shtml) 
+* 注2：最小可行产品（Minimum Viable Product）：维基百科解释：[http://en.wikipedia.org/wiki/Minimum_viable_product](http://en.wikipedia.org/wiki/Minimum_viable_product)

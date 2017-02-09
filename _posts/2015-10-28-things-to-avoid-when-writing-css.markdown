@@ -41,7 +41,7 @@ tags:
 
 很多 web 开发貌似都和将任务分割为可管理的块或「组件」相关。对于每一个分离的 JavaScript 功能块、或 HTML 局部，我可以做一个专门文件，并把相关文件组织到文件夹里，以 javascript、html 或 controller、templates 命名。你怎么做都行。这样，你就能轻松查看文件系统，只关注包含有你当时想要编辑的代码文件即可。
 
-这种方式不适用于 CSS。JavaScript 函数可以放在它们被调用位置的前后，HTML 模块可以在任何地方插入，只要你觉得它们适合当前文档流。另一方面，CSS 是按照时间顺序发生的。它和你声明样式的顺序，有着很大关系。由于该语言的继承和 specificity[note]CSS 的 specificity 特性或称非凡性，它是衡量一个衡量CSS值优先级的一个标准，既然作为标准，就具有一套相关的判定规定及计算方式，specificity用一个四位的数字串(CSS2是三位)来表示，更像四个级别，值从左到右，左面的最大，一级大于一级，数位之间没有进制，级别之间不可超越。[http://www.cnblogs.com/yizuierguo/archive/2009/03/16/1413721.html](http://www.cnblogs.com/yizuierguo/archive/2009/03/16/1413721.html) [/note]，你应该从一般样式（比如对 body 设置 font-family）开始，并过度到更多具体的定义。
+这种方式不适用于 CSS。JavaScript 函数可以放在它们被调用位置的前后，HTML 模块可以在任何地方插入，只要你觉得它们适合当前文档流。另一方面，CSS 是按照时间顺序发生的。它和你声明样式的顺序，有着很大关系。由于该语言的继承和 specificity【注1】，你应该从一般样式（比如对 body 设置 font-family）开始，并过度到更多具体的定义。
 
 CSS 是一个有序的、以例外为基础的语言，没有简单的方法来连贯地表示一个文件列表（通常按照字母顺序组织）。它给了你一个印象，每个 CSS 文件都是自治的，事实上却不是。
 
@@ -112,7 +112,7 @@ IE6 不再是一个问题了，但是大多数操作系统和浏览器的用户�
     }
 
 
-你的响应式设计的 90% 策略都在这里了。而且，你还能在所有同级的流元素之间设置通用的 margin，比如使用 [Lobotomized Owls](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)[note]可参考 [https://css-tricks.com/lobotomized-owls/](https://css-tricks.com/lobotomized-owls/) [/note] 的选择器：
+你的响应式设计的 90% 策略都在这里了。而且，你还能在所有同级的流元素之间设置通用的 margin，比如使用 [Lobotomized Owls](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)【注2】 的选择器：
 
     
     body * + * { 
@@ -149,3 +149,9 @@ IE6 不再是一个问题了，但是大多数操作系统和浏览器的用户�
 
 
 感谢你们容忍我对 CSS 作者的看法。如果你是 web 可访问性和音乐（谁不是呢）的粉丝，你可能乐于支持一些优秀的组织，请查看 [A11Y ROCKS](http://heydonworks.com/a11y_rocks/)。
+
+
+### 注释
+
+* 注1：CSS 的 specificity 特性或称非凡性，它是衡量一个衡量CSS值优先级的一个标准，既然作为标准，就具有一套相关的判定规定及计算方式，specificity用一个四位的数字串(CSS2是三位)来表示，更像四个级别，值从左到右，左面的最大，一级大于一级，数位之间没有进制，级别之间不可超越。[http://www.cnblogs.com/yizuierguo/archive/2009/03/16/1413721.html](http://www.cnblogs.com/yizuierguo/archive/2009/03/16/1413721.html) 
+* 注2：可参考 [https://css-tricks.com/lobotomized-owls/](https://css-tricks.com/lobotomized-owls/) 

@@ -118,7 +118,7 @@ Amazon 在这方面就做得不错：
 
 如果 Amazon 专注于最慢的页面载入，那么一定有人被激怒。他们却专注于在最早的 packet 里发送最重要的字节。再进一步，他们可能在[第一个 packet 里塞满最重要的字节](https://plus.google.com/+IlyaGrigorik/posts/GTWYbYWP6xP)。我敢打赌，他们还专注于尽快地为你发送那些字节。
 
-这就是 **TTFB** (Time To First Byte) [note]TTFB，是最初的网络请求被发起到从服务器接收到第一个字节这段时间，它包含了 TCP连接时间，发送HTTP请求时间和获得响应消息第一个字节的时间。[http://baike.baidu.com/view/4538320.htm](http://baike.baidu.com/view/4538320.htm) [/note] 的由来。
+这就是 **TTFB** (Time To First Byte) 【注1】 的由来。
 
 当浏览器发起一个页面请求时，它就处于等待响应的状态。TTFB 代表了它需要多长时间才能收到第一个响应的字节。这个时间不但代表了你的服务器产生响应所需要的时间，而且意味着经过线缆传输所需要的时间。
 
@@ -202,3 +202,8 @@ Amazon 在这方面就做得不错：
 本文只是整个采访过程的简短摘要，我们在采访中深入了大量细节，涵盖了更多重要的主题（比如 HTTP/2 有什么不同，以及我们是否仍然需要最小化和串连）。
 
 你可以在[这里](https://scaleyourcode.com/interviews/interview/20)阅读全部摘要或收听采访。如果你需要，请参考下面的视频：[https://youtu.be/Aayh2FAYGqc](https://youtu.be/Aayh2FAYGqc)
+
+
+### 注释
+
+* 注1：TTFB，是最初的网络请求被发起到从服务器接收到第一个字节这段时间，它包含了 TCP连接时间，发送HTTP请求时间和获得响应消息第一个字节的时间。[http://baike.baidu.com/view/4538320.htm](http://baike.baidu.com/view/4538320.htm) 

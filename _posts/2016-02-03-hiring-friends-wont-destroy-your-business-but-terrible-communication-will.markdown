@@ -155,7 +155,7 @@ Ward 正在讨论通常意义上的低效员工，但是我认为，上图非常
 ### 关心个人发展，直接挑战
 
 
-在 First Round Capital 的 CEO 峰会上，Kim Scott 在其精彩演讲中[提出了一个沟通方面的概念](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)，很快成为创业圈里受欢迎的词语：坦诚相待[note]在 First Round 的最近 CEO 峰会上，Scott 分享了一种简单的方法，[确保你的团队能够得到正确的指导](http://www.labazhou.net/2015/08/how-measuring-happiness-helped-us-build-a-better-team/)，她把这种方法称作 “Radical Candor”（坦诚相待）。[http://36kr.com/p/5040779.html](http://36kr.com/p/5040779.html) [/note]。
+在 First Round Capital 的 CEO 峰会上，Kim Scott 在其精彩演讲中[提出了一个沟通方面的概念](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)，很快成为创业圈里受欢迎的词语：坦诚相待【注1】。
 
 如下图所示，坦诚相待是其中一个象限，包含了诚实和个人关系，这是沟通所需的两个绝对要素，它们共存于愉悦的和谐之中。
 
@@ -192,3 +192,8 @@ Scott 推荐鼓励你的所有员工坦诚相待，因此，即使你不方便�
 
 
 如果你遇到了问题，要记得问题不在于只和与你共事的朋友沟通；问题在于要负责任地和每个人沟通。如果我们不能尽早稳固地沟通问题，那么随着时间的发展，我们就会真的搞砸，我们雇佣的人就搞不定我们犯下的错误。
+
+
+### 注释
+
+* 注1：在 First Round 的最近 CEO 峰会上，Scott 分享了一种简单的方法，[确保你的团队能够得到正确的指导](http://www.labazhou.net/2015/08/how-measuring-happiness-helped-us-build-a-better-team/)，她把这种方法称作 “Radical Candor”（坦诚相待）。[http://36kr.com/p/5040779.html](http://36kr.com/p/5040779.html) 

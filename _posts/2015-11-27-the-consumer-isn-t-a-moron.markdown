@@ -83,7 +83,7 @@ Buffer 在完全透明方面享有盛名，包括[对外公开他们的薪水](h
 
 因此，很多人参与了 Buffer 的讨论。
 
-很多人承认，他们的社交流量也到达历史最低点，包括 [Rand Fishkin](https://medium.com/u/10e7e9d0a0af) 在内的行业专家，就 Buffer 可能已经失去一半 Referral 引荐流量[note]Referral 引荐流量：用户通过第三方站点来到网站的话就会被归属为引荐流量，例如一般的导航网址，或者hao123或者 神奇的网站之类，登陆页的上级页面是第三方站点同时又不属于搜索结果的话就会被归属于这一类。[http://www.zhihu.com/question/20121326](http://www.zhihu.com/question/20121326) [/note]的原因，表达了自己的观点。
+很多人承认，他们的社交流量也到达历史最低点，包括 [Rand Fishkin](https://medium.com/u/10e7e9d0a0af) 在内的行业专家，就 Buffer 可能已经失去一半 Referral 引荐流量【注1】的原因，表达了自己的观点。
 
 [caption id="attachment_2798" align="alignnone" width="600"][![该领域的内容饱和危害尤其严重。web 营销信息消费者们的选择过剩。](http://www.labazhou.net/wp-content/uploads/2015/11/rand-fishkin-1-600x216.png)](http://www.labazhou.net/wp-content/uploads/2015/11/rand-fishkin-1.png) 该领域的内容饱和危害尤其严重。web 营销信息消费者们的选择过剩。[/caption]
 
@@ -148,7 +148,7 @@ Buffer 在完全透明方面享有盛名，包括[对外公开他们的薪水](h
 #### 在你有留存（retention）之前就专注增长，会带来麻烦
 
 
-被世人称为「广告教父」的[大卫·奥格威](https://en.wikipedia.org/wiki/David_Ogilvy_%28businessman%29)[note]大卫·麦肯兹·奥格威（David MacKenzie Ogilvy，1911年－1999年）曾被称为“广告怪杰”的人现在已经成为了举世闻名的“广告教父”（又称广告教皇，“The Father of Advertising”），其创办的奥美广告公司今天已成为世界上最大的广告公司之一。[https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%A5%A5%E6%A0%BC%E5%A8%81](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%A5%A5%E6%A0%BC%E5%A8%81) [/note]，在 52 年前就警告我们，**不要低估消费者的力量**：
+被世人称为「广告教父」的[大卫·奥格威](https://en.wikipedia.org/wiki/David_Ogilvy_%28businessman%29)【注2】，在 52 年前就警告我们，**不要低估消费者的力量**：
 
 
 <blockquote>「消费者不是傻瓜，她是你的妻子。」</blockquote>
@@ -257,9 +257,9 @@ Kevin Kelly 的忠实粉丝原则建立在一个假设之上，即每个忠实�
 
 **帮助客户，把他们要做的事做得更好**：根据来自 Help Scout 的 [Gregory Ciotti](https://medium.com/u/515997e8c7e3) 所言，「_没有人想成为摄影专家------他们想成为优秀的摄影师。成功意味着帮助客户做好他们的事情。_」像 [Help Scout](http://www.helpscout.net/)、Buffer 之类的创业公司就是这样[取悦用户](http://www.labazhou.net/2015/10/giving-the-users-what-they-want/)的，为用户发布高质量内容，以改善他们用户的业务。
 
-**选择一种专业，为此建立社区**：Hubspot 的联合创始人 [Dharmesh Shah](https://medium.com/u/d5d49189c3e7) 除了采用传统的营销策略，还在九年前创造了一个新的品牌名词「集客营销（Inbound marketing）」[note]集客营销（Inbound marketing）：Inbound Marketing 的前提是当潜在客户有需求是，他们会主动地利用搜索引擎、社会化媒体和博客来进行内容搜索（get found），商家需要在合适的时候提供信息与服务来将访客转化为潜力客户甚至消费客户（conversion），并在事后利用营销管理工具对消费者数据进行分析，从而优化自己的营销体系（analytics）。而在每一个阶段，都有其对应的优化方法，比如Blogging、SEO、Social Media、Mobile等等，这里不赘述了。[http://www.zhihu.com/question/20143143](http://www.zhihu.com/question/20143143)；还可以访问百科，[http://baike.baidu.com/view/6505921.htm](http://baike.baidu.com/view/6505921.htm) [/note]。这不但推动了 Hubspot 的意识，而且还催生出当今颇为流行的社区网站 [inbound.org](http://inbound.org/)。同样的一幕又发生了，当 Sean Ellis 创造「增长黑客（growth hacking）」[note]增长黑客（growth hacking）：很多公司对此只是为了追赶时髦和受不断商品化的驱使，却很少能意识到破解发展密码的真正意义，只是简单地认为这些人能够为公司“增长销量”和“获得用户”。跟大多数技术专才所不同的是，growth hacker并非一组技能或知识的组合。Clarity的创始人Dan Martell说：“破解发展更多的是一种理念体系而非工具组合。”这是经过历练总结出来的一套必然的行为准则。Growth hacker拥有共同的态度，相同的内部调查流程以及一致的心态，令其在技术人员和营销人员中独树一帜。对数据、创造性和好奇心的理念体系使得growth hacker能够将发展客户群的基数做到百万级。[http://36kr.com/p/151706.html](http://36kr.com/p/151706.html)；[http://en.wikipedia.org/wiki/Growth_hacking](http://en.wikipedia.org/wiki/Growth_hacking)；[http://tech.sina.com.cn/i/2013-09-04/13398706896.shtml](http://tech.sina.com.cn/i/2013-09-04/13398706896.shtml) [/note]之后，创办了 [growthhackers.com](http://growthhackers.com/) 网站，社区里的人们对增长充满狂热。
+**选择一种专业，为此建立社区**：Hubspot 的联合创始人 [Dharmesh Shah](https://medium.com/u/d5d49189c3e7) 除了采用传统的营销策略，还在九年前创造了一个新的品牌名词「集客营销（Inbound marketing）」【注3】。这不但推动了 Hubspot 的意识，而且还催生出当今颇为流行的社区网站 [inbound.org](http://inbound.org/)。同样的一幕又发生了，当 Sean Ellis 创造「增长黑客（growth hacking）」【注4】之后，创办了 [growthhackers.com](http://growthhackers.com/) 网站，社区里的人们对增长充满狂热。
 
-**使用业余项目营销，创造最大化价值**：目前，博客要花很长时间，广告不再起作用了，关于「[业余项目营销该如何成为可供选择的增长机器](https://medium.com/swlh/side-product-marketing-is-the-new-king-a75c4ed0c0c5)」的话题，我尽量在最近的文章里解释。levels.io 属于属于又一个创造者，它已经通过发布 [Nomad List](http://nomadlist.com/)、[Nomad Trips](https://nomadtrips.co/) 之类的工具，创立了一个数字化旅行一族(Digital Nomads)[note]数字化旅行一族(Digital Nomads)的生活 – 即利用现代技术和通讯方式把工作和旅行有机结合在一起的那种生活方式。[http://www.freelancer-life.cn/freelancer-news/digital-nomads.html](http://www.freelancer-life.cn/freelancer-news/digital-nomads.html)，在维基百科的解释：[https://en.wikipedia.org/wiki/Digital_nomad](https://en.wikipedia.org/wiki/Digital_nomad) [/note]的社区。
+**使用业余项目营销，创造最大化价值**：目前，博客要花很长时间，广告不再起作用了，关于「[业余项目营销该如何成为可供选择的增长机器](https://medium.com/swlh/side-product-marketing-is-the-new-king-a75c4ed0c0c5)」的话题，我尽量在最近的文章里解释。levels.io 属于属于又一个创造者，它已经通过发布 [Nomad List](http://nomadlist.com/)、[Nomad Trips](https://nomadtrips.co/) 之类的工具，创立了一个数字化旅行一族(Digital Nomads)【注5】的社区。
 
 [caption id="attachment_2808" align="alignnone" width="600"][![真是难以想象，我们很想通过发布小的应用/产品来取代所有的博客营销。](http://www.labazhou.net/wp-content/uploads/2015/11/levels-io-600x221.png)](http://www.labazhou.net/wp-content/uploads/2015/11/levels-io.png) 真是难以想象，我们很想通过发布小的应用/产品来取代所有的博客营销。[/caption]
 
@@ -281,3 +281,12 @@ Kevin Kelly 的忠实粉丝原则建立在一个假设之上，即每个忠实�
 你的客户不是傻瓜，她是你的妻子。
 
 很有可能，最终她要反过来教我们了，教我们该怎样做正确的事。
+
+
+### 注释
+
+* 注1：Referral 引荐流量：用户通过第三方站点来到网站的话就会被归属为引荐流量，例如一般的导航网址，或者hao123或者 神奇的网站之类，登陆页的上级页面是第三方站点同时又不属于搜索结果的话就会被归属于这一类。[http://www.zhihu.com/question/20121326](http://www.zhihu.com/question/20121326) 
+* 注2：大卫·麦肯兹·奥格威（David MacKenzie Ogilvy，1911年－1999年）曾被称为“广告怪杰”的人现在已经成为了举世闻名的“广告教父”（又称广告教皇，“The Father of Advertising”），其创办的奥美广告公司今天已成为世界上最大的广告公司之一。[https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%A5%A5%E6%A0%BC%E5%A8%81](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%A5%A5%E6%A0%BC%E5%A8%81) 
+* 注3：集客营销（Inbound marketing）：Inbound Marketing 的前提是当潜在客户有需求是，他们会主动地利用搜索引擎、社会化媒体和博客来进行内容搜索（get found），商家需要在合适的时候提供信息与服务来将访客转化为潜力客户甚至消费客户（conversion），并在事后利用营销管理工具对消费者数据进行分析，从而优化自己的营销体系（analytics）。而在每一个阶段，都有其对应的优化方法，比如Blogging、SEO、Social Media、Mobile等等，这里不赘述了。[http://www.zhihu.com/question/20143143](http://www.zhihu.com/question/20143143)；还可以访问百科，[http://baike.baidu.com/view/6505921.htm](http://baike.baidu.com/view/6505921.htm) 
+* 注4：增长黑客（growth hacking）：很多公司对此只是为了追赶时髦和受不断商品化的驱使，却很少能意识到破解发展密码的真正意义，只是简单地认为这些人能够为公司“增长销量”和“获得用户”。跟大多数技术专才所不同的是，growth hacker并非一组技能或知识的组合。Clarity的创始人Dan Martell说：“破解发展更多的是一种理念体系而非工具组合。”这是经过历练总结出来的一套必然的行为准则。Growth hacker拥有共同的态度，相同的内部调查流程以及一致的心态，令其在技术人员和营销人员中独树一帜。对数据、创造性和好奇心的理念体系使得growth hacker能够将发展客户群的基数做到百万级。[http://36kr.com/p/151706.html](http://36kr.com/p/151706.html)；[http://en.wikipedia.org/wiki/Growth_hacking](http://en.wikipedia.org/wiki/Growth_hacking)；[http://tech.sina.com.cn/i/2013-09-04/13398706896.shtml](http://tech.sina.com.cn/i/2013-09-04/13398706896.shtml) 
+* 注5：数字化旅行一族(Digital Nomads)的生活 – 即利用现代技术和通讯方式把工作和旅行有机结合在一起的那种生活方式。[http://www.freelancer-life.cn/freelancer-news/digital-nomads.html](http://www.freelancer-life.cn/freelancer-news/digital-nomads.html)，在维基百科的解释：[https://en.wikipedia.org/wiki/Digital_nomad](https://en.wikipedia.org/wiki/Digital_nomad) 

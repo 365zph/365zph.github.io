@@ -134,7 +134,7 @@ r = cl 看起来像个线性等式，但是由于队列和一致性延迟，l �
 
 <blockquote>程序优化第一准则：不要优化。
 程序优化第二法则（仅对专家适用）还是不要优化。
-— [Michael A. Jackson](https://en.wikipedia.org/wiki/Michael_A._Jackson)[note]引用翻译参考自《计算机科学箴言摘抄》[http://www.douban.com/note/128232683/](http://www.douban.com/note/128232683/) [/note]</blockquote>
+— [Michael A. Jackson](https://en.wikipedia.org/wiki/Michael_A._Jackson)【注1】</blockquote>
 
 
 
@@ -167,3 +167,8 @@ r = cl 看起来像个线性等式，但是由于队列和一致性延迟，l �
   4. 如果你是一家信息服务提供商，就按照系统为客户完成的工作总量收费。开发和采购更有效程序的、经济方面的动机，会创造出奇迹。
 
 
+
+
+### 注释
+
+* 注1：引用翻译参考自《计算机科学箴言摘抄》[http://www.douban.com/note/128232683/](http://www.douban.com/note/128232683/) 

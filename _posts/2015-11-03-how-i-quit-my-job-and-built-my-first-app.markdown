@@ -127,7 +127,7 @@ tags:
 我离开的主要原因是：我明白，为了成功，我不得不慎重对待这个 app。即使 app 貌似有趣、像个游戏，如果你不认真的话，仍然无法成功。开发一个 app 可能出于爱好，靠 app 谋生却不能这样。要考虑商业运作，而非 app。你不能凭借「周日开发者」（Sunday developer）的身份就能做生意。Apple 在它的《[App Store 审核准则](https://developer.apple.com/app-store/review/guidelines/)》里指出：
 
 
-<blockquote>如果你的应用一看就是一个三两天拼凑出来的东西，或者你只是想把一个练手应用上传到商店里，跟朋友秀一把，那在被拒以后一定要 hold 住。我们有大批严肃的开发者，不希望他们高质量的应用被这些业余作品包围。[note]引用文字转自《App Store Review Guidelines(翻译版)》[http://www.cnblogs.com/tracy-e/archive/2012/12/01/2797073.html](http://www.cnblogs.com/tracy-e/archive/2012/12/01/2797073.html) [/note]</blockquote>
+<blockquote>如果你的应用一看就是一个三两天拼凑出来的东西，或者你只是想把一个练手应用上传到商店里，跟朋友秀一把，那在被拒以后一定要 hold 住。我们有大批严肃的开发者，不希望他们高质量的应用被这些业余作品包围。【注1】</blockquote>
 
 
 在我辞职之后，Pocket Zoo 最初的动力仍然在继续，我有更多可利用的时间。虽然营销工作做得晚些了，Pocket Zoo 天生就受到 Apple 和媒体的青睐。这些有影响力的媒体愿意将其分享给人们。我在产品和设计方面所做的决定，和口碑营销有着数量级的差异。
@@ -163,3 +163,8 @@ tags:
 
 
 Robleh Jama 是 [Tiny Hearts](http://www.tinyhearts.com/) 工作室创始人，开发了 [Next Keyboard](http://www.nextkeyboard.co/)、[Wake Alarm](http://www.tinyhearts.com/wake) 和 [Quick Fit](http://www.tinyhearts.com/quickfit)，获有奖项。你可以关注其 [Twitter](http://www.twitter.com/robjama)。
+
+
+### 注释
+
+* 注1：引用文字转自《App Store Review Guidelines(翻译版)》[http://www.cnblogs.com/tracy-e/archive/2012/12/01/2797073.html](http://www.cnblogs.com/tracy-e/archive/2012/12/01/2797073.html) 

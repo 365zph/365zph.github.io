@@ -87,7 +87,7 @@ SQL 是具备任意性和一致性的公理，token 和派生规则构成其公�
 ##### 例子1：前缀语言
 
 
-SQL 使用中缀表示法[note]中缀表示法（或中缀记法）是一个通用的算术或逻辑公式表示方法， 操作符是以中缀形式处于操作数的中间（例：3 + 4）。与前缀表达式（例：+ 3 4）或后缀表达式（例：3 4 +）相比，中缀表达式不容易被电脑解析，但仍被许多程序语言使用，因为它符合人们的普遍用法。[https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BC%80%E8%A1%A8%E7%A4%BA%E6%B3%95](https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BC%80%E8%A1%A8%E7%A4%BA%E6%B3%95) [/note]。中缀表示法等价于 lisp 风格的前缀表示法[note]波兰表示法（Polish notation，或波兰记法），是一种逻辑、算术和代数表示方法，其特点是操作符置于操作数的前面，因此也称做前缀表示法。[https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%85%B0%E8%A1%A8%E7%A4%BA%E6%B3%95](https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%85%B0%E8%A1%A8%E7%A4%BA%E6%B3%95) [/note]。中缀与前缀：
+SQL 使用中缀表示法【注1】。中缀表示法等价于 lisp 风格的前缀表示法【注2】。中缀与前缀：
 
     
     a OP1 b OP2 c <=> (OP1 a (OP2 b c))
@@ -249,3 +249,9 @@ phai1Oa6 是任意选取的字符序列。对于当前情形，例子：
 真正的解决方案在于，[SQL 语句](http://www.labazhou.net/2015/08/beginners-guide-to-sql/)本身的任意性，并要求所有现存不变量都符合任意的等价结构的规则。无需程序员的干预，就能自动完成。
 
 攻击者不得不符合一种未知的、任意的 brainfuck 语法的规则。想要符合一组未知的规则，将是难以解决的问题。因此，攻击者通常无法得手。
+
+
+### 注释
+
+* 注1：中缀表示法（或中缀记法）是一个通用的算术或逻辑公式表示方法， 操作符是以中缀形式处于操作数的中间（例：3 + 4）。与前缀表达式（例：+ 3 4）或后缀表达式（例：3 4 +）相比，中缀表达式不容易被电脑解析，但仍被许多程序语言使用，因为它符合人们的普遍用法。[https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BC%80%E8%A1%A8%E7%A4%BA%E6%B3%95](https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BC%80%E8%A1%A8%E7%A4%BA%E6%B3%95) 
+* 注2：波兰表示法（Polish notation，或波兰记法），是一种逻辑、算术和代数表示方法，其特点是操作符置于操作数的前面，因此也称做前缀表示法。[https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%85%B0%E8%A1%A8%E7%A4%BA%E6%B3%95](https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%85%B0%E8%A1%A8%E7%A4%BA%E6%B3%95) 

@@ -48,7 +48,7 @@ tags:
 
 因此，我们需要 app 提供内容和数据。**但是畅想一下未来，如果 app 在「云」端存在，而操作系统只是从中拉取数据和内容，那会怎样呢？**
 
-我看到一个未来，人们不需要考虑为了完成某个特定任务而下载什么 app，他们只需在某种搜索框（Siri、Google Now、Cortana[note]Microsoft Cortana（中国官方名称小娜）是微软在Windows Phone 8.1、Microsoft Band、Windows 10上推出的一款智能个人助理。[https://zh.wikipedia.org/wiki/Microsoft_Cortana](https://zh.wikipedia.org/wiki/Microsoft_Cortana) [/note]）里陈述他们的意图，就能立即得到他们要找的东西。
+我看到一个未来，人们不需要考虑为了完成某个特定任务而下载什么 app，他们只需在某种搜索框（Siri、Google Now、Cortana【注1】）里陈述他们的意图，就能立即得到他们要找的东西。
 
 [![搜索框](http://www.labazhou.net/wp-content/uploads/2015/11/1_DfnpxjewWC4v03fYxiJJeg-600x353.jpg)](http://www.labazhou.net/wp-content/uploads/2015/11/1_DfnpxjewWC4v03fYxiJJeg.jpg)
 
@@ -57,3 +57,8 @@ tags:
 从更宽泛的角度看，「战争」不只是介于 Apple 和 Google 之间，它也发生在 Facebook 和操作系统之间。对于 Facebook 而言，app 是平台，他们不想让你永远地离开它们的「互联网」。
 
 甚至在今天，我们的大部分时间已经用在了通知中心。我设想有一种新的、丰富的、具有智能感知的 AI 所驱动的通知中心，正成为所有功能的「中心（hub）」。
+
+
+### 注释
+
+* 注1：Microsoft Cortana（中国官方名称小娜）是微软在Windows Phone 8.1、Microsoft Band、Windows 10上推出的一款智能个人助理。[https://zh.wikipedia.org/wiki/Microsoft_Cortana](https://zh.wikipedia.org/wiki/Microsoft_Cortana) 

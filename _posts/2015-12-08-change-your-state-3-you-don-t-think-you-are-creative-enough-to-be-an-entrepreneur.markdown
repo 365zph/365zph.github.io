@@ -43,7 +43,7 @@ tags:
 
 是的，你可以再读一遍。
 
-我看到很多例子，一些聪明、有技术的人过不了这道坎。具有宽泛实操经验和 MBA 学位的人；对某个行业极度熟悉且有着傲人业绩的人，比如房地产、生物科技和金融；已经属于成功的新兴市场公司一部分的人。甚至在麦肯锡[note]麦肯锡公司（英语：McKinsey & Company，简称麦肯锡）为一所由芝加哥大学会计系教授詹姆士.O.麦肯锡创立于芝加哥的管理咨询公司，营运重点是为企业或政府的高层干部献策、针对庞杂的经营问题给予适当的解决方案，有“顾问界的高盛”之称。[https://zh.wikipedia.org/wiki/%E9%BA%A5%E8%82%AF%E9%8C%AB](https://zh.wikipedia.org/wiki/%E9%BA%A5%E8%82%AF%E9%8C%AB) [/note]，虽然它被看做是“CEO 工厂”，只有 23% 的校友创办了自己的公司，有些人只是觉得他们做不到。
+我看到很多例子，一些聪明、有技术的人过不了这道坎。具有宽泛实操经验和 MBA 学位的人；对某个行业极度熟悉且有着傲人业绩的人，比如房地产、生物科技和金融；已经属于成功的新兴市场公司一部分的人。甚至在麦肯锡【注1】，虽然它被看做是“CEO 工厂”，只有 23% 的校友创办了自己的公司，有些人只是觉得他们做不到。
 
 [caption id="attachment_2864" align="alignnone" width="600"][![南伦敦](http://www.labazhou.net/wp-content/uploads/2015/12/south-london-600x600.jpeg)](http://www.labazhou.net/wp-content/uploads/2015/12/south-london.jpeg) 南伦敦[/caption]
 
@@ -62,3 +62,8 @@ tags:
 因此在出发之前，不要担心、不要否定自己。在下一篇，我将探讨提高创新产出的一些方法。这些方法甚至在艺术之外的领域也行得通。
 
 感谢阅读，你可以关注我的 [Twitter](http://twitter.com/p_e)。
+
+
+### 注释
+
+* 注1：麦肯锡公司（英语：McKinsey & Company，简称麦肯锡）为一所由芝加哥大学会计系教授詹姆士.O.麦肯锡创立于芝加哥的管理咨询公司，营运重点是为企业或政府的高层干部献策、针对庞杂的经营问题给予适当的解决方案，有“顾问界的高盛”之称。[https://zh.wikipedia.org/wiki/%E9%BA%A5%E8%82%AF%E9%8C%AB](https://zh.wikipedia.org/wiki/%E9%BA%A5%E8%82%AF%E9%8C%AB) 

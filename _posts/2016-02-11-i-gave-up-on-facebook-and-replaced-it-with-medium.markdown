@@ -47,9 +47,9 @@ tags:
 <blockquote>一旦我意识到我这样做了------一直都是------我就开始憎恨自己。</blockquote>
 
 
-我猜测，我烦恼的原因在于，我甚至没有为这个平台贡献过什么；我只是那些浮动的、不可见的 1 和 0 组成的字符，消费着别人的生活。如果 Facebook 是电影，我就是躲在我叔叔地下室里、吃着变质爆米花的那个家伙，正在盗版低质量的 aXXo 种子[note]DVD rip 制作者aXXo是BT社区的一个有争议的人物，一些人看不起他，另一些人崇拜他。据估计，每个月大约有100万人下载他压制的电影，他的名字是所有BT网站中最常见的搜索关键词之一。[http://www.ruanyifeng.com/blog/2007/12/bittorrent_download.html](http://www.ruanyifeng.com/blog/2007/12/bittorrent_download.html) [/note]。
+我猜测，我烦恼的原因在于，我甚至没有为这个平台贡献过什么；我只是那些浮动的、不可见的 1 和 0 组成的字符，消费着别人的生活。如果 Facebook 是电影，我就是躲在我叔叔地下室里、吃着变质爆米花的那个家伙，正在盗版低质量的 aXXo 种子【注1】。
 
-还有更糟的，Facebook 多数时间变成的「电影」并没有改变生活、发展、甚或乐趣；它也不像《大空头》[note]《大空头》（英语：The Big Short）是一部2015年美国剧情片。故事改编自真人真事，叙述在2007年–2008年环球金融危机期间，四位以专业手法操作著金融业而造成大空头、就此获利的惊人事迹。[https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B3%A3%E7%A9%BA_(%E9%9B%BB%E5%BD%B1)](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B3%A3%E7%A9%BA_(%E9%9B%BB%E5%BD%B1)) [/note]那样出色，更不要说其它改变电影事业的东东了。
+还有更糟的，Facebook 多数时间变成的「电影」并没有改变生活、发展、甚或乐趣；它也不像《大空头》【注2】那样出色，更不要说其它改变电影事业的东东了。
 
 你在 Facebook 找到的内容常常更像是评级为 D 的惊悚片，没有任何故事情节。
 
@@ -88,3 +88,9 @@ Medium 本质上已经扭转了太多。当你访问 Medium 时，很难找到�
 在这种平台，我不能只是来回穿梭，我不得不现出自我。
 
 现出自我是一件好事。
+
+
+### 注释
+
+* 注1：DVD rip 制作者aXXo是BT社区的一个有争议的人物，一些人看不起他，另一些人崇拜他。据估计，每个月大约有100万人下载他压制的电影，他的名字是所有BT网站中最常见的搜索关键词之一。[http://www.ruanyifeng.com/blog/2007/12/bittorrent_download.html](http://www.ruanyifeng.com/blog/2007/12/bittorrent_download.html) 
+* 注2：《大空头》（英语：The Big Short）是一部2015年美国剧情片。故事改编自真人真事，叙述在2007年–2008年环球金融危机期间，四位以专业手法操作著金融业而造成大空头、就此获利的惊人事迹。[https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B3%A3%E7%A9%BA_(%E9%9B%BB%E5%BD%B1)](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B3%A3%E7%A9%BA_(%E9%9B%BB%E5%BD%B1)) 
