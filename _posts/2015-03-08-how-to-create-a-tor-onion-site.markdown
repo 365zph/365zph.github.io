@@ -21,11 +21,8 @@ tags:
 ---
 
 
-	
-  * 原文地址（original source）：[https://scottlinux.com/2013/10/11/how-to-create-a-tor-onion-site/](https://scottlinux.com/2013/10/11/how-to-create-a-tor-onion-site/)
-
-	
-  * 作者（author）：[https://twitter.com/scottlinux](https://twitter.com/scottlinux)
+* 原文地址（original source）：[https://scottlinux.com/2013/10/11/how-to-create-a-tor-onion-site/](https://scottlinux.com/2013/10/11/how-to-create-a-tor-onion-site/)
+* 作者（author）：[https://twitter.com/scottlinux](https://twitter.com/scottlinux)
 
 
 [![如何创建一个 Tor .onion 网站](http://www.labazhou.net/wp-content/uploads/2015/03/tor-the-onion-router.jpg)](http://www.labazhou.net/wp-content/uploads/2015/03/tor-the-onion-router.jpg)

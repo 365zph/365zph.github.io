@@ -55,7 +55,7 @@ h1 a, h2 a { text-decoration: none; }
 article::after { content: "· · ·"; text-align: center; display: block; margin: 2em 0 1em 0; color: #a0a9ae; font-size: .85em; }
 hr::after { content: "· · ·"; text-align: center; display: block; margin: 2em 0 2em 0; color: #a0a9ae; font-size: .85em; }
 article img, body#tinymce.wp-editor img { max-width: 100%; margin: 1em 0; display: block; }
-article blockquote, body#tinymce.wp-editor blockquote { margin-left: 1.5em; color: #a0a9ae; margin-bottom: 2em;}
+article blockquote, body#tinymce.wp-editor blockquote { margin-left: 1.5em; color: #a0a9ae; margin-bottom: 2em;word-wrap:break-word;}
 article blockquote p, article blockquote p *, body#tinymce.wp-editor blockquote p { color: #a0a9ae; }
 article blockquote cite, body#tinymce.wp-editor blockquote cite { display: block; margin: 1em 0; color: #a0a9ae; font-size: .85em; font-style: normal; text-transform: uppercase;}
 article blockquote cite::before { content: "—"; }
