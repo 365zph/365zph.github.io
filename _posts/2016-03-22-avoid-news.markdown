@@ -24,9 +24,9 @@ tags:
 
 
 
-<blockquote>注：本文为 Rolf Dobelli《[Avoid News](http://www.labazhou.net/wp-content/uploads/2016/03/Avoid_News_Part1_TEXT.pdf?03a085)》的摘录翻译。
+> 注：本文为 Rolf Dobelli《[Avoid News](http://www.labazhou.net/wp-content/uploads/2016/03/Avoid_News_Part1_TEXT.pdf?03a085)》的摘录翻译。
 
-本站还有相关文章《[为什么我停止阅读/收听/观看新闻了](http://www.labazhou.net/2014/10/why-i-stopped-reading-hearing-watching-the-news/)》</blockquote>
+> 本站还有相关文章《[为什么我停止阅读/收听/观看新闻了](http://www.labazhou.net/2014/10/why-i-stopped-reading-hearing-watching-the-news/)》
 
 
 
