@@ -18,9 +18,3 @@ wordpress_id: 2977
 
  	
   * **Email**：365zph@gmail.com
-
- 	
-  * 微信号：
-
-
-![](http://www.labazhou.net/wp-content/uploads/2016/02/lbz-12cm.jpg)
